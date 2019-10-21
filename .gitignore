@@ -1,0 +1,4 @@
+.DS_Store
+pdfs/
+txt/*.txt
+txt_cleaned/*.txt
