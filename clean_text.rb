@@ -3,6 +3,67 @@ require 'json'
 @clauses = []
 @positions = []
 
+class OnlineSubmission
+  def initialize(text)
+    @text = text
+  end
+
+  def clauses
+    return @clauses if @clauses
+    @clauses = @text.split(/Clause\n/).map do |clause|
+      clause.start_with?(/\s{0,10}\d/) ? Clause.new(clause) : nil
+    end
+    @clauses.compact!
+  end
+
+  def reference_number
+    @text.scan(/Reference no: (\d{1,5})\n/).flatten.first
+  end
+end
+
+class Clause
+  def initialize(text)
+    @text = text.strip
+  end
+
+  def question
+    return nil unless @text.include?('Position')
+    @question ||= @text.split(/Position\n/)[0]
+  end
+
+  def answer
+    return nil unless @text.include?('Position') && @text.include?('Notes')
+    @answer ||= @text.split(/Position\n/)[1].split(/Notes\n/)[0]
+  end
+
+  def notes
+    return nil unless @text.include?('Position') && @text.include?('Notes')
+    @notes ||= @text.split(/Position\n/)[1].split(/Notes\n/)[1]
+  end
+end
+
+class SubmissionCohort
+  def initialize
+    @questions = []
+    @answers = []
+  end
+
+  def questions
+    @questions
+  end
+
+  def answers
+    @answer
+  end
+
+  def find_or_add_question
+
+  end
+
+  def find_or_add_answer
+  end
+end
+
 def check_and_populate_existing_answers(q)
   # if i = @clauses.index(q[:clause])
   #   q[:clause] = i

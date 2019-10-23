@@ -1,0 +1,227 @@
+Your submission to Zero Carbon Bill
+
+William Thorpe
+
+
+
+
+Reference no: 1312
+
+Submitter Type:     Individual
+
+ Clause
+ 1. What process should the Government use to set a new emissions reduction target in legislation?
+
+ Position
+ The Government sets a 2050 target in legislation now
+ Notes
+
+ Refer to answers to Q2 and Q4.
+
+
+
+ Clause
+ 2. If the Government sets a 2050 target now, which is the best target for New Zealand?
+
+ Position
+ Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived
+ gases
+
+ Notes
+ There is growing consensus that the formulae used to calculate "equivalent CO2" values for methane and other short-lived gases is
+
+ flawed. See https://theconversation.com/why-methane-should-be-treated-differently-compared-to-long-lived-greenhouse-gases-
+ 97845. The government therefore should move towards the position of treating methane (at least that produced from agriculture)
+ differently from CO2 and other long-lived greenhouse gases. Methane produced by agriculture, once it has degraded back to CO2, is
+
+ effectively carbon neutral in the long term. It is therefore possible to mitigate the short-term effects of methane emission by biological
+ offset processes such as forestry or soil sequestration that themselves may be relatively short-term. My suggestion here is that
+
+ agricultural methane emissions are accounted for primarily by means of biological offset mechanisms, whereas CO2 emissions from
+ fossil carbon be reduced by abatement and long-term carbon sequestration, but not by biological offsets. This methodology will need
+ to be argued for in the international arena as well.
+
+
+
+ Clause
+
+ 3. How should New Zealand meet its targets?
+ Position
+
+ Domestic emissions reductions only (including from new forest planting)
+ Notes
+ See Q2. I think it is important to separately deal with agricultural methane emissions, and dedicate the forestry and soil sequestration
+
+ processes towards abatement of agricultural methane emissions. These sequestration processes have some time limitations, and
+ also carry the risk of future reversal (eg forest fires, wind damage and decomposition, future soil degradation, etc). These limitations
+ are not so important for abating agricultural methane, because the methane only contributes as a greenhouse gas for a dozen or so
+
+ years. Fossil emissions, whether CO2 or methane leakage, should be reduced directly, or at least by offsets that are fairly certain to
+ be long lasting.
+
+
+
+ Clause
+
+ 4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?
+ Position
+
+ Yes
+ Notes
+ The scientific evidence about what targets we should aim for in relation to different gasses is likely to improve over time, so there
+
+ should be a mechanism for the targets set in legislation to be modified in response to these changes. However, such modification
+ should be done on a regular timetable (eg every 5 years, perhaps as new IPCC reports are released). Also, targets should be
+ adjusted by an independent body (ie the Climate Change Commission) rather than by Government or parliament, similarly to how the
+
+ Reserve Bank sets interest rates independently from Government.
+
+
+
+ Clause
+ 5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any
+
+ given time. Do you agree with this proposal?
+ Position
+
+ Yes
+ Notes
+ Having a regular schedule when updated targets are set provides more certainty for businesses affected by such targets and allows
+
+ them to better plan for future changes.
+
+
+
+ Clause
+6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?
+
+Position
+Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set
+
+Notes
+Ideally, targets should be adjusted by an independent body (ie the Climate Change Commission) rather than by Government or
+
+parliament, similarly to how the Reserve Bank sets interest rates independently from Government.
+
+
+
+Clause
+8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account
+
+when advising on and setting budgets? See p44 Our Climate Your Say
+Position
+
+No
+Notes
+These considerations are very reactive, and will lead to advice that is biased towards inaction, because any reductions are likely to
+
+have impacts and effects as described. I think it is much better that the guidelines be set up so that the Commission can be
+proactive and set targets that are primarily driven by the need to address climate change. Of course these will need to consider the
+
+technological and economic feasibility. However, the issues relating to how these targets impact on specific sectors of the country
+(eg social impacts as fuel poverty, impacts on energy sector, tax revenue, etc) should be dealt with by the Government as a
+
+consequence of the targets set here. It is better for other branches of the government to deal directly with any adverse effects, than
+for the Climate Commission to be second-guessing the potential effects of future targets on specific groups. Particularly because the
+
+longer-term response of the economy to stronger targets is itself largely unknown, given the rate at which technology is progressing,
+and the myriad of ways in which the targets might be met.
+
+
+
+Clause
+
+9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?
+Position
+
+Yes
+Notes
+Government actions that impact on emissions should be required to be assessed as to how it meets the emissions reduction
+
+targets. In particular, it would be useful for the Budget to contain emissions accounts and projections.
+
+
+
+Clause
+
+11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards
+its goals. Do you agree with these functions? See p42 Our Climate Your Say
+
+Position
+Yes
+Notes
+
+I think that the Climate Commission should be an independent body that sets the future targets, similarly to how the Reserve Bank
+sets the interest rate.
+
+
+
+
+Clause
+12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme
+(NZ ETS)?
+
+Position
+Advising the Government on policy settings in the NZ ETS
+
+Notes
+ETS is one mechanism that can be used to reach the targets. However, the government may use other mechanisms as well to move
+
+the economy closer to the targets.
+
+
+
+Clause
+13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise.
+
+Do you agree with the proposed expertise? See p45 Our Climate Your Say
+Position
+
+Yes
+Notes
+
+The first important role of the commission is to decide on appropriate reductions targets, for which it needs a strong knowledge of
+the science and economics, including risk issues and engineering, and understanding of government and Treaty issues. The second
+role, monitoring, requires strong knowledge of governance, economics and emissions trading mechanisms, practical knowledge of
+
+emissions offset technologies, etc.
+
+
+
+Clause
+
+14. Do you think the Zero Carbon Bill should cover adapting to climate change?
+Position
+
+No
+Notes
+I think that this should be focussed on setting targets and the processes for reaching those targets. Adaptation will be an all-
+
+government problem that will emerge over time. Adaptation requirements should be included in planning legislation such as RMA and
+other policies relating to infrastructure, emergency response, etc. See Q15
+
+
+
+
+Clause
+15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed
+functions? See p47 Our Climate Your Say
+
+Notes
+See Q14. I think that adaptation will require an all-government response. However, possibly the Commission could have a role in
+
+providing expert advice to the government in relation to adaptation issues, since it will have strong expertise in the area. For instance,
+to provide its input to any legislation; provide advice on policy decisions regarding planning, infrastructure, etc.
+
+
+
+Clause
+
+16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their
+exposure to climate change risks?
+
+Position
+Yes
+
+Notes
+This should probably be part of the Commerce Commission, because it has strong impacts on business viability.

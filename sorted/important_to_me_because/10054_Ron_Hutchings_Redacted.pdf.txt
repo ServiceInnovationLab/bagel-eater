@@ -1,0 +1,432 @@
+Name                                       Ron Hutchings
+
+Email
+
+
+
+
+
+A Zero Carbon Act is important to me       Climate change, if not stopped, has the potential to destroy
+because...                                 civilisation, and very possibly the human species. I regard that as a
+                                           bad thing.
+Q1. What process should the                      Q1. Dated targets, typically of the form x% reduction in emissions
+Government use to set a new emissions            from sector z by year yy are commonplace, and may have their
+
+reduction target in legislation?                 place, but are not easy to enforce. I feel that such things are best
+                                                 treated as merely a broad framework, and that the law needs to drill
+                                                 down a level deeper and specify particular technologies and dates. I
+                                                 feel that emissions trading schemes are not the right tool for this
+                                                 problem, based on the performance of such things to date. The
+
+                                                 European efforts on those lines have had some good effects, but
+                                                 nowhere near the scale required.
+                                                 Making targets “Legally Binding” is not particularly meaningful if no-
+                                                 one can be held to account when the targets are not met – so suing
+                                                 the government of the day won’t reduce the amount of petrol burnt
+
+                                                 in cars one whit – to achieve actual change, the power of the state
+                                                 needs to be engaged directly with individual emitters (while keeping
+                                                 the needs for fairness and preserving the overall social contract in
+                                                 mind.)
+
+
+                                                 This need for state intervention is also because such a detailed
+                                                 schedule gives clearer guidance to the markets as to what to expect
+                                                 when. Saying “We will decarbonise transport by 30% by 2040” does
+                                                 not focus the minds of decision-makers as much as hearing
+                                                 something like “According to schedule C of the act (Or possibly
+                                                 regulations made under section z of the act), hydrocarbon fuels,
+
+                                                 including but not limited to marine bunker diesel may no longer be
+                                                 used to propel coastal vessels over 1,000 tons after 1 July 2025”.
+                                                 That means Bluebridge and interislander and other costal shipping
+                                                 will know with certainly when they need to convert to ammonia fuel
+                                                 (There is really nothing else with the energy density, compatibility
+
+                                                 with existing engine designs, handling safety and other necessary
+                                                 attributes to substitute for carbon-based marine fuels), and then the
+                                                 ports who need to build new tankage and pipes will know when they
+                                                 will need to built, the people who need to build hydrogen-t-
+                                                 -ammonia factories will know when their markets will start, and the
+
+                                                 people who will electrolyse water to make the hydrogen know when
+                                                 to start building, and the folk who need to supply the extra electricity
+                                                 know when to start building their wind farms, and so on. And that is a
+                                                 simple example - an ETS just won’t get all the parties involved
+                                                 working together constructively and to a schedule. The invisible hand
+
+                                                 of Adam Smith is too slow for this crisis, and too uncordinated.
+
+                                                 Similarly, there should be a definite date when Tiwai point will be
+                                                 barred from using carbon anodes. Then they can plan when to start
+                                                 licencing an inert anode process (from, e.g., Rusal although there are
+
+                                                 other companies holding comparable patents), when to start pilot
+                                                 production, how to capture the added green value in their
+                                                 international marketing, etc.
+
+                                                 Likewise, electrifying transport requires complex and in-depth co-
+
+                                                 ordination between the electricity-supply industry (including
+                                                 distribution networks), the auto industry, the people who build
+                                                 charging networks, the ways we currently rely on petrol taxes and
+                                                 RUCs, etc. Even the car wrecker industry needs to change to recycle
+                                                 the aluminium and copper in electric cars, as well as their batteries.
+
+
+                                                 In summary, the required transitions are not simple and require the
+                                                 sort of expert multidisciplinary teams to plan and direct that only
+                                                 central government can support, along with enough authority to get
+                                                 their results implemented.
+
+                                                 The resulting detailed and staged direction on dates, industry by
+                                                 industry, must of course minimise and balance disruption to
+                                                 commerce and society overall – another reason why central
+                                                 government must drive it.
+
+
+                                                 Anything less will achieve little more than greenwashing.
+Q2. If the Government sets a 2050                We should aim for total net zero emissions as soon as possible, but if
+target now, which is the best target for         it becomes politically and economically viable, should aim to be net
+
+New Zealand?                                     negative before 2050. (My belief is that the technology exists, or
+                                                 soon will exist, to go net negative slightly before 2050, but a project
+                                                 to implement it all may or may not be economically and politically
+                                                 achievable by 2050. Still, if we limit our ambitions before we start,
+                                                 we certainly won’t go negative. We ought to be aiming, ultimately, to
+
+                                                 remove all the carbon we have already emitted (Including the forests
+                                                 harvested before European settlement, although they are a tiny part
+                                                 of the total), so as to put the climate back the way it was before
+                                                 humans started to interfere
+
+Q3. How should New Zealand meet its              Mainly, by reducing major emissions domestically – generally via
+targets?                                         regulation. Secondly, by taxing minor emitting activities at a rate
+                                                 that will fund enough tree planting to absorb those emissions. We
+
+                                                 should also tax imports according to their emissions content, while
+                                                 providing rebates on exports, so that our emissions taxes do not
+                                                 impact our export markets. This would be akin to the GST refunds on
+                                                 exports, although calculating the amount would be harder, as it
+                                                 would not always be a fixed percentage, but vary with the nature of
+
+                                                 the goods or services.
+                                                 There should definitely NOT be any way for any substantial emitter
+                                                 to continue emitting by buying some sort of paperwork certificate
+                                                 from anywhere – the idea of trading emissions rights implies that
+                                                 emissions are in some measure acceptable – a flawed notion, which
+
+                                                 is at heart immoral. There should be no creation of emission rights
+                                                 by a stroke of the government’s pen - only actual negative emissions
+                                                 (tree planting in New Zealand) should be able to be balanced against
+                                                 the inevitable residual minor positive emissions – and even that has
+                                                 to be limited, as we need our negative emissions to absorb net CO2,
+
+                                                 not just for balancing against positive emissions. An emissions tax
+                                                 should ramp up gradually, to spread economic impacts, but the ramp
+                                                 should be clearly signalled and enshrined in legislation, so that
+                                                 people can plan, and to reduce the efforts spent lobbying for delays
+                                                 and exemptions.
+
+                                                 Once major emitters have ben regulated away, and remaining minor
+                                                 emitters have started paying the matching afforestation tax, the
+                                                 apparatus for major state intervention can largely be dismantled,
+                                                 and the afforestation tax administered by IRD. Slowly increasing that
+                                                 tax till it funds enough afforestation to make us significantly net
+
+                                                 negative as a country could then follow after 2050.
+
+Q4. Should the Zero Carbon Bill allow            The notion of a target is not all that helpful. While it might be
+the 2050 target to be revised if                 politically the best that can be achieved, the nature of the actual
+circumstances change?                            problem means it would be best tackled by something more
+                                                 resembling a war effort – working at the maximum possible pace on
+                                                 all possible fronts, and treating any extra progress as an opportunity
+
+                                                 to increase the rate of progress. If there is a goal, the temptation is
+                                                 to ease off efforts if the goal seems comfortably in sight.
+
+                                                 It is also clear that globally, we must as a species reach zero
+                                                 emissions by 2050, and go negative thereafter, if we are to have
+
+                                                 much of a civilisation left by 2100.
+
+                                                 It is also clear that any player, individual or state, in a position to
+                                                 make a greater or faster contribution should do so, since there will
+                                                 be many who can not contribute meaningfully or rapidly.
+
+
+                                                 So I am happy to set an initial goal of net zero by 2050, on the basis
+                                                 that if we don’t manage that, its game over. But I would like there to
+                                                 be a mechanism for that timeline to be shortened whenever the
+                                                 opportunity for such shortening is identified – which will “keep the
+                                                 pressure on”, and let us move on sooner to the negative-emissions
+
+                                                 future we need to develop as a follow-on.
+Q5. The Government proposes that                First, there is a distinction between emissions elimination by 2050
+three emissions budgets of five years           and a carbon budget – you could in theory get to December 2049
+
+each (i.e. covering the next 15 years) be with no emissions reductions and then go to zero overnight. Or you
+in place at any given time. Do you agree could reduce sharply now. Or you could reduce gradually over the
+with this proposal?                             30-odd years we have to go. An emissions budget should be an
+                                                outcome, once the maximum rate of reduction that is technically,
+                                                economically and politically achievable has been scheduled. If it’s
+
+                                                convenient to publish that in 5-year windows, by all means – but I’d
+                                                expect the planning process to know what is going to be achieved,
+                                                and when, at much finer detail than that.
+
+                                                Second, as per my response to Q1 above, I think any overall budgets
+
+                                                need to be broken down in a highly detailed way, both by emissions
+                                                source/industry and by date, both to make sure they are practical
+                                                and achievable and economically sustainable, and to make the
+                                                relevant actors aware of what actions are required of them and
+                                                when.
+
+
+                                                But finally, yes, the near-term parts of the plan will need to be
+                                                developed in greater detail, and a 5-year horizon for the most
+                                                detailed projections with a further 10-years for more broad planning
+                                                seems quite appropriate.
+
+
+                                                It will doubtless be necessary to revise the schedule in light of
+                                                experience, but I see no reason why a reasonably clear draft
+                                                schedule for the entire period out to 2050 could not be produced
+                                                within about 6 months, and then revised every few years. There
+                                                would need to be consultation with industry, of course – if the
+
+                                                planning team knows the depreciation to date and currently planned
+                                                lifetime of Fontera’s coal-fired boilers, that can be taken into account
+                                                when determining a regulated end-date for coal-boilers in the dairy
+                                                industry – but in general, the required overall technological and
+                                                economic path is, in my view, quite straightforward. (Of course, I
+
+                                                have spent several thousand hours researching deep
+                                                decarbonisation technologies – others may not yet see the path as
+                                                clearly as I do.)
+
+Q6 - Q7. Should the Government be able As per Q5, I see actual emissions forecasts as falling out of a more
+to alter emissions budgets?                     detailed planning exercise. So I would see them changing whenever
+                                                the plans are revised. The point to note is that if it’s not tied to a
+
+                                                plan to get there, a budget is merely pious intentions, and of only
+                                                political relevance. And the planet doesn’t care about our politics – it
+                                                only responds to reality.
+
+Q8. Do you agree with the proposed              I agree that the Government and the Climate Commission should
+considerations that the Government and take the following factors into consideration when advising on and
+the Climate Commission will need to             setting budgets:
+
+take into account when advising on and          • economic circumstances and the likely impact of a decision on the
+setting budgets?                                economy, as well as the competitiveness of particular sectors of the
+                                                economy
+                                                • scientific information regarding climate change,
+                                                • technology relevant to climate change
+
+                                                • fiscal circumstances and the likely impact of the decision on
+                                                taxation, public spending and public borrowing
+                                                • social circumstances and the likely impact of a decision on fuel
+                                                poverty
+                                                • energy policy and the likely impact of a decision on energy
+                                                supplies and
+
+                                                the carbon and energy intensity of the economy.
+Q9. Should the Zero Carbon Bill require        Yes - we must learn from the mistakes of the UK's Climate Change
+Governments to set out plans within a          Act and specify a strict time frame for producing a plan. Further, that
+
+certain timeframe to achieve the               plan needs to be seamlessly connected to actual action on the
+emissions budgets?                             ground – the plan needs to have clear costed solutions to all the
+                                               major emissions sources, along with priorities and target dates for
+                                               implementation.
+                                               In a similar way, we should learn from the historic failures of various
+
+                                               market-based interventions, such as carbon prices and cap-an-
+                                               -trade schemes, which have not produced more than token
+                                               reductions in emissions (although they have permitted certain
+                                               traders to make money from operating the markets). A deeply
+                                               interventionist approach is called for, with the state mandating a
+
+                                               multitude of actions at a detailed level. An act similar in sprit and
+                                               scope to the Emergency Regulations Act 1939 or the Civil Defence
+                                               Emergency Management Act 2002 seems to me to be called for,
+                                               albeit with different, emissions-focused, objectives.
+
+Q10. What are the most important               The Government’s policy plans to meet emission targets should be
+issues for the Government to consider          comprehensive, fair, cost-effective and environmentally sustainable.
+in setting plans to meet budgets? For          The most important issues will have to do with redistributing costs
+
+example, who do we need to work with,          and benefits. For example, renewable electricity (wind, mainly, in
+what else needs to be considered?              NZ’s situation) is likely to be cheaper, overall, than the gas and coal
+                                               it will displace, while reducing emissions from farming is likely to
+                                               come at a net cost. Can these two be balanced out somehow? The
+                                               overall cost of going zero-carbon may be close to zero, but there will
+
+                                               be significant costs to particular sectors. The risk of stranded assets
+                                               in various industries will be a second major consideration, requiring
+                                               careful attention to timing. Consultation with industry will be vital,
+                                               although avoiding industry capture will also be important.
+
+Q11. The Government has proposed that No. Advice and monitoring are not enough.
+the Climate Change Commission advises Difficult and contentious issues like this should be set up with broad
+
+on and monitors New Zealand's                  policy guidelines, and then the politicians should delegate the day-
+progress towards its goals. Do you             to-day operations to some suitable statutory body. I like the way
+agree with these functions?                    Pharmac works, and would love to see more like it – for example an
+                                               “externalities commission” could determine if we need more or less
+                                               tax on sugar, alcohol, petrol, tobacco, plastic bags, etc. to fully fund
+
+                                               their social costs, without politicians needing to get in involved in the
+                                               detail. In the current context, I would give wide-ranging powers to a
+                                               commission to mandate dates when particular emissions sources
+                                               would become illegal and/or would need to start paying emission
+                                               levies (Which would need to be enough to fund forest planting
+
+                                               sufficient to fully offset the emissions in question).
+                                               The ETS alternative opens the prospect of decades of lobbying and
+                                               political wrangling as special interests try to influence the process.
+                                               It’s too urgent and important to let it be constantly in the political
+                                               arena.
+
+Q12. What role do you think the Climate        The NZ ETS should be abandoned in favour of direct intrusive and
+Change Commission should have in               disruptive state regulation of individual emitting activities. The
+
+relation to the New Zealand Emissions          necessary bureaucracy might well be called a climate change
+Trading Scheme (NZ ETS)?                       commission. For emitters that cannot practicably be tackled by
+                                               regulation, a carbon tax should replace the ETS, with the tax set
+                                               sufficient to fund enough afforestation to fully offset the emissions –
+                                               perhaps, after 2050, even more than a mere 100% offset to take us
+
+                                               into negative net emissions.
+Q13. The Government has proposed that I agree with the following collective expertise:
+Climate Change Commissioners need to          • climate change policy (including emissions trading)
+
+have a range of essential and desirable       • resource economics and impacts (including social impacts, labour
+expertise. Do you agree with the              markets and distribution)
+proposed expertise?                           • climate and environmental science
+                                              • risk management
+                                              • engineering and/or infrastructure
+
+                                              • community engagement and communications.
+                                              • business competitiveness
+                                              • knowledge of the public and private innovation and technology
+                                              development system.
+
+
+                                              I think expertise in public health is also important.
+Q14. Do you think the Zero Carbon Bill           No.
+should cover adapting to climate                 Adaptation to climate change is a quite different thing to emissions
+
+change?                                          reduction, and should be covered by quite separate measures. It
+                                                 may be that a distinct adaptation bureaucracy is not needed, and it
+                                                 can be layered into other government organisations.
+
+                                                 The key differences as I see them:
+
+                                                 1. Different Constraints.
+                                                 Emissions Reduction will be limited mainly by political will – it is very
+                                                 hard to make even small demands of New Zealand people when the
+                                                 benefit will accrue to the entire global population, and not
+                                                 immediately, but some years down the track. They will not see the
+
+                                                 point in personal change “No one raindrop ever feels responsible for
+                                                 the flood”.
+                                                 Adaptation will be mainly limited by the requirements – until we
+                                                 know if we are heading for 3 degrees or 5 degrees by 2100, for
+                                                 example, we won’t know what to plan for. Even then, the actual
+
+                                                 outcomes are not at all well understood as yet – the IPCC reports
+                                                 hare such heavily political documents that much of the truth is
+                                                 filtered out. It would be unwise to plan based on either the
+                                                 deliberately understated IPCC data or the worst-case scenarios put
+                                                 about by climate alarmists.
+
+
+                                                 2 – Different time-frames.
+                                                 Reduction activity needs to ramp up immediately, limited mainly by
+                                                 how fast capital can be deployed, and the political will. Adaptation is
+                                                 pretty pointless until climate change effects really start to bite. We
+                                                 may need to abandon South Dunedin, much of the Miramar
+
+                                                 peninsular and various other low-lying places by about 2070, but at
+                                                 the moment the only action needed is to stop pouring new capital
+                                                 into those places, and local bodies and ordinary good business
+                                                 judgement already have that one mostly in hand. Serious capital
+                                                 won’t be needed for decades, and the emission-reduction battle will
+
+                                                 have been won or lost well before then. Until then, a little PR/advice
+                                                 is really all that is needed – if people knew that sea-level rise
+                                                 estimates in the IPCC reports exclude Antarctic melting because
+                                                 those figures are deemed too uncertain, but that an extra 2 meters
+                                                 by 2100 due to that cause is quite possible, maybe Foodstuffs
+
+                                                 wouldn’t have built the pack-n-save in Petone. Similarly, the fact that
+                                                 things will keep on getting worse after 2100 is not often publicised –
+                                                 but CO2 takes many decades to work up to it’s full effect. But in
+                                                 general, adaptation is not the most urgent problem.
+
+
+                                                 3 – Political flavour.
+                                                 Emissions reduction involves making demands on people. The
+                                                 politics will be about standing up to special pleading for exemptions
+                                                 and delays. Adaptation involves resourcing people to make changes
+                                                 that, by then, they will clearly see the need for. The political flavour
+
+                                                 will be for extra handouts for people who knowingly made bad
+                                                 decisions and want to be compensated for their stranded assets. I
+                                                 believe the policy and institutions needed to deal with these different
+                                                 situations are distinctly different.
+
+
+                                                 4 – Scale
+                                                 Emissions reduction is typically estimated as very much cheaper that
+                                                 adaptation in most global studies. I don’t have any NZ-specific
+                                                 numbers, and our geography seems to indicate that impacts (and so
+                                                 presumably costs) here will be less than in many places.
+
+                                                 Nevertheless, it seems likely that the adaptation effort, when it
+                                                 comes, will need to be several times larger than the reduction effort,
+                                                 and require correspondingly large capital commitments. Probably a
+                                                 quite different organisation will be needed to control and/or co-
+                                                 ordinate it, because of that alone.
+Q15. The Government has proposed a             As per Q14, I don’t think adaptation is an urgent issue. While the
+number of new functions to help us             proposals
+
+adapt to climate change. Do you agree          (
+with the proposed functions?                   • a national climate change risk assessment
+                                               • a national adaptation plan
+                                               • regular review of progress towards implementing the national
+                                               adaptation plan
+
+                                               • an adaptation reporting power)
+
+                                               seem unobjectionable, I don’t see them as crucial at this time.
+                                               Pursuing them may divert energy from the important task of
+                                               reducing emissions, however, so I definitely think that, if they are to
+
+                                               be pursued, it should be by some other arm of government.
+Q16. Should the Government explore             I believe all central and local government organisations should
+
+setting up a targeted adaptation               analyse and report their climate risks annually. But I would not
+reporting power that could see some            mandate that on the private sector. (The stock exchange may well
+organisations share information on their make it a listing requirement someday, of course. And/or the
+exposure to climate change risks?              accountants might eventually require something in annual accounts
+                                               – but I think this can be left to the private sector.)
+
+Further comments                               As you can see, I favour highly interventionist direct action by the
+
+                                               state, not namby-pamby emissions trading schemes that,
+                                               historically, have achieved little or nothing. It is too easy for powerful
+                                               vested interests to first influence the rules and then game such
+                                               schemes, or for governments to back off when the economic impacts
+                                               in some sector become politically painful. I’d like my daughter to
+
+                                               have a viable planet to live out her life, and I see no other way to
+                                               achieve that than attacking climate change urgently with the full
+                                               resources of the sovereign power.
+
+                                               While a full-on attack on NZ’s emissions may not make much global
+
+                                               difference directly, the moral power of our example may ultimately
+                                               inspire more action in other countries, and so repay NZ’s investment
+                                               handsomely. But speed is of the essence.
