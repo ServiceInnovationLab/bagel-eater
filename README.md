@@ -4,9 +4,9 @@ This is a collection of scripts to download, convert, sort and clean [submission
 
 There's a collection of Ruby and Python scripts here:
 
-`python download.py` to download the PDFs listed in urls.json
-`text.rb` to convert the PDFs in `pdfs/` to text
-`sorter.rb` to sort the text submissions into types
-`clean_text.rb` will eventually clean those submissions up and make them into a format that can be analysed
+- `python download.py` to download the PDFs listed in urls.json
+- `text.rb` to convert the PDFs in `pdfs/` to text
+- `sorter.rb` to sort the text submissions into types
+- `clean_text.rb` to turn submissions that follow the online submission format into json files
 
 `pdfs` and `txt` folders are ignored from git, but the `sorted` folder is included.
