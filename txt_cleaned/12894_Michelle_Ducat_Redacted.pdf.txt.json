@@ -1,0 +1,75 @@
+{
+  "reference_number": "12894",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "We need bold action to get to net Zero well before 2050 to do our fair share and model the kinds of changes needed to give more\n than a 50% probability of staying well below 2 degreed."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "As above - this needs to be earlier, and all gases need to be included as the extra warming effects of methane could contribute to\n\n the exacerbation of feedback mechanisms life release of methane from the permafrost. This decision needs to be guided by science."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "We need significant gross emissions cut without recourse to overseas units. Domestic emissions must include shipping and air\n transport. Focusing on domestic emissions does not mean we do not look to support other countries with their emissions\n\n reductions."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But not to a less ambitious target, and only guided by science. We have a small window of opportunity to make a difference to those\n most at risk now and in the future."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I largely agree but economic competitiveness is the least relevant and potentially most dangerous: business has used this to drag\n\nthe chain on climate action for decades in NZ. The current profit driven economic model dependent on extractive growth creates\nvested interests in the status quo. A just transition is important."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Driven by science, working with fairness and justice in mind."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Science - what rates of emissions cuts will most likely demonstrate a fair contribution to keeping us well below 2 degrees. The people\nwho are most vulnerable to the effects of climate change."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    }
+  ]
+}

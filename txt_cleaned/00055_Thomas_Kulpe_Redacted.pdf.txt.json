@@ -1,0 +1,124 @@
+{
+  "reference_number": "55",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I don't think IET is a real choice. There wont be affordable (real) carbon units on the international market. The supply curve for carbon\n units will be inelastic."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Any changes should be enacted i.e should go through the parliamentary process."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The real issue is not setting budgets (good) but following through an implementation programme on all levels of society. This\n requires statutory reporting of GHG emissions and compliance with targets."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "Any changes should be enacted i.e should go through the parliamentary process."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Any changes should be enacted i.e should go through the parliamentary process."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Commission should also deal with climate justice (contraction and convergence) moving towards a per capita carbon budget that\nis the same for all people/countries"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Planning, reporting and setting budgets must happen on all levels of society. In order to transition to a low carbon economy every\n\norganisation must be able to do carbon accounting and budgeting."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We should be setting up the Climate Change Commission within a constitutional framework for the rights and the protection of Nature\nand allow for the quadripartite separation of powers."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "GHG emission (over a set budget) is an offense, not a tradable commodity. If the ETS would have worked 20 years ago , we would not\n\nhave in excess of 400ppm now. Let's not waste energy and hope on something like the ETS - it is not a solution but a distraction."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "However, little is said about how the independence of the Commission from legislative or executive influence is safeguarded."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, it is 5 past 12. Mitigation alone will not do. We are already living in the time of consequences"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Carbon sequestration by planting trees (even permanent forests) is not sustainable, we will quickly run out of land. The idea that it will\n\nbuy us time until new technologies come on stream is suicidal if these technologies don't emerge. The low emission economy must\nbe the priority. Let's include in our GHG budget emissions from air and sea transport to/from NZ and start looking how we can reduce\n\nemissions created by tourism and the livestock industry."
+    }
+  ]
+}

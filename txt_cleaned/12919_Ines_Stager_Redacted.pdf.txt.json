@@ -1,0 +1,75 @@
+{
+  "reference_number": "12919",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A revision if the target can be achieved sooner than 2050"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Climate change is already killing our native animals. kororā (little blue penguins) washed-up dead all over Northland and Auckland\n\n because increased easterly swells churned the water so they couldn’t hunt albatross eggs in Dunedin that didn’t hatch due to\n warmer weather dotterels on the west coast and at Ohiwa Harbour trying to move inland as the rising sea claims more of their nesting\n\n grounds kōkako chicks killed when nests are washed away in storms like ex-cyclone Gita dehydrated kiwi out in the daytime during\n droughts in Northland explosions of wasp populations, eating honeydew that would usually feed native birds explosions in rat\n populations due to an increased frequency of mast years. If we continue at the current rate, we are heading for a warmer world than\n\n humans and many native species have ever lived in before. We need to keep climate change limited to 1.5 degrees of warming, for\n nature and for ourselves."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    }
+  ]
+}

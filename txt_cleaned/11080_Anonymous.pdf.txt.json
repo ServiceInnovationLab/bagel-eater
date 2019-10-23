@@ -1,0 +1,124 @@
+{
+  "reference_number": "11080",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I believe we need to take action cutting emissions now and aggressively, therefore a target of 2040 is better. We also should be\n\n setting set a gross emissions reduction target, this will require us to decarbonise our electricity, energy, transport etc, rather than\n just plant trees as an offset."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "New Zealand has a very poor record in 'creative accounting' for carbon utilising dodgy international credits, and it has been\n completely ineffective. We can, and must, make our targets through domestic emissions reductions. We must aim for a gross\n\n emissions reduction target with negative levels of long-lived gases: this can be achieved by decarbonising transport, energy and\n electricity (as starters) and building carbon sinks - e.g. through long-term forests and soil sequestration. We must identify (a job for\n\n the climate commission) sustainable levels for short-lived gases (such as methane) while working quickly to reduce these highly\n damaging greenhouse gas emissions. This will require reducing agricultural methane, through changes in farming techniques, no\n more dairy intensification and continued support of the research and development in this area. We need the Government to create\n\n an environment where it is not a financially viable option for, for example, Fonterra - or Greymouth Hospital - to build new coal-fired\n boilers because they are the cheapest option or for KiwiRail to find replacing electric trains with diesel to be the 'best option'."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The 2050 target should not be altered in response to “economic changes” as this undermines its long-term certainty. However, the\n\n ability to revise the 2050 target in light of major changes in scientific understanding or international agreements should be permitted."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "No - emissions budgets should not be altered in response to “economic changes” as this undermines their long-term certainty.\n However, the ability to revise budgets in light of major changes in scientific understanding or international agreements should be\n permitted."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "No - emissions budgets should not be altered in response to “economic changes” as this undermines their long-term certainty.\nHowever, the ability to revise budgets in light of major changes in scientific understanding or international agreements should be\n\npermitted."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree that the Government and the Climate Commission should take the following factors into consideration when advising on and\n\nsetting budgets: • scientific knowledge regarding climate change • technology relevant to climate change • economic\ncircumstances and the likely impact of a decision on the economy, as well as the competitiveness of particular sectors of the\n\neconomy • fiscal circumstances and the likely impact of the decision on taxation, public spending and public borrowing • social\ncircumstances and the likely impact of a decision on fuel poverty • energy policy and the likely impact of a decision on energy\n\nsupplies and the carbon and energy intensity of the economy."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - we must learn from the mistakes of the UK's Climate Change Act and specify a strict time frame for producing a plan."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government’s policy plans to meet emission budgets should be comprehensive, fair, cost-effective, environmentally sustainable,\n\nand reflect a commitment to Te Tiriti o Waitangi. It should take an integrative approach - working with all Ministries to advance\nemissions reductions."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - the Commission should not be a decision-making body. I think it should exist to give advice and monitor progress. It shouldn’t\nhave decision making powers due to the undemocratic nature of the commission, and to avoid conflicts of interest if it ends up\n\nbasically monitoring itself. However, to ensure transparency and accountability, the Government must table all its reports in\nParliament. The Government should be legally required to consider and formally respond to the Commission’s advice, and to provide\n\nan explanation if they do not act on it."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The Commission should advise the Government on policy settings in the NZ ETS. It should not make decisions itself with respect to\nthe number of units available in the NZ ETS, or its implementation."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree with the following collective expertise: • climate change policy (including emissions trading) • resource economics and\nimpacts (including social impacts, labour markets and distribution) • te Tiriti o Waitangi, te reo me ona tikanga Māori and Māori\n\ninterests • climate and environmental science including mātauranga Māori • experience with addressing adaptation challenges like\nplanning, insurance and local government • risk management • engineering and/or infrastructure • community engagement and\n\ncommunications • business competitiveness • knowledge of the public and private innovation and technology development system.\nI think expertise in public health is also important."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. This may require a separate adaptation sub-committee within the Climate Commission."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree with the proposed functions below, but recognise that nuance is required in terms of how local councils are involved: • a\n\nnational climate change risk assessment - monitoring and reporting are critical to success • a national adaptation plan - we must\nbetter support regional councils with national guidance and a national plan • regular review of progress towards implementing the\n\nnational adaptation plan • an adaptation reporting power."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I work in environmental politics and I am horrified at the behaviour of NZ governments towards climate change. It does not fit the NZ I\nwould like to live in - one that is environmentally sustainable - our way of life depends on it. It is time NZ stepped up and took critical\n\naction to reduce our greenhouse gas emissions - not just offset them. The time to act is NOW.\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

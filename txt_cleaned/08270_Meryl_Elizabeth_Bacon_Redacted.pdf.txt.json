@@ -1,0 +1,75 @@
+{
+  "reference_number": "8270",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "A clear target for 2050 will allow planning and certainty."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I accept that it will be challenging to reach this goal but as methane and nitrous oxide together account for 50% of our global warming\n\n emissions (even when counting methane's global warming potential at 28 times that of carbon dioxide), it would be morally wrong to\n not include them in NZ's goal for net zero emissions. I acknowledge that methane is a relatively short lived gas (though it is broken\n\n down into carbon dioxide) but it's global warming potential is very high - calculated at 120 times that of carbon dioxide at the time of\n emission, 86 times if calculated over a 20 year period and 28 times if calculated over a hundred year period. I acknowledge that the\n level of methane emitted by NZ has not changed since 1990, but reducing in a major way (so that residual methane emission's global\n\n warming potential could be offset by forestry planting) would help to reduce global warming in the short to medium term."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Money that would be spent on buying international carbon units would be better spent in New Zealand eg on new forest planting. In\n the past the integrity of international carbon units purchased by NZ has been very doubtful."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But only by a small margin eg to allow for natural disasters such as volcanic eruptions, or forest fires which would increase our global\n\n warming emissions."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "But with limitations"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    }
+  ]
+}

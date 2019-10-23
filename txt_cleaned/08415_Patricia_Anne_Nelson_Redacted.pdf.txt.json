@@ -1,0 +1,75 @@
+{
+  "reference_number": "8415",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Carbon Dioxide - Reducing net carbon dioxide emissions to zero by 2050",
+      "answer_index": 13,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Real science, not the eco science that is touted by the press and IPCC. Also, what the rest of the world is doing. There is no point is\nexempting payment from the most populous countries. Spend money earmarked for the Climate Paris Accord on developing a\n\nmethod to incinerate plastic cleanly, and generating power as a by-product. That is the most pressing problem the world faces."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The alleged detrimental effect of CO2 has been misunderstood. Over the past 30 years, an area the size of a continent has greened\n\n(just think of the additional oxygen that has been generated from photosynthesis). No account is taken of that for farmers in NZ, who\ngrow grass to feed their stock. It is a closed cycle as stock emissions are offset by sequestered CO2."
+    }
+  ]
+}

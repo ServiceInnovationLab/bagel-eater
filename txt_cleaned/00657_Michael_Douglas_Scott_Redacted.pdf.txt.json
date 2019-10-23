@@ -1,0 +1,33 @@
+{
+  "reference_number": "657",
+  "clauses": [
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "It is essential that the workers in the fossil fuel industries, their families and their communities are helped to retrain and given\n generous financial assistance to enable them to transition to other well-paid jobs, other industries, and perhaps even to other\n\n regions. I support the policy proposals made by the New Zealand Council of Trade Unions about a Just Transition."
+    }
+  ]
+}

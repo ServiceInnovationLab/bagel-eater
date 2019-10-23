@@ -1,0 +1,110 @@
+{
+  "reference_number": "11235",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "It is important that New Zealand sets the most ambitious target possible. Net Zero emissions is ambitious, but it is also entirely\n achievable. In order to meet the goal of less than 2 degrees of warming, it is important that all nations try to get as close to net zero\n\n emissions as soon as possible."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "\"Escape clauses\" should not be written into the Act. There needs to be a firm commitment from the Government on these issues,\n\n and sectors need to have clarity on what the expectations are."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "Ideally, the proposals will have cross-party support, so that the targets are honoured, and there can be certainty for the sectors that\n the targets affect."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This should only be under exceptional circumstances, such as after a natural disaster, where leaving the budget the same would\n cause considerable harm to a significant portion of society which could not be mitigated in any other way."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There should be significant consideration made to the impact on society, particularly those in lower socioeconomic circumstances. It\nis important that none of the proposed changes have a negative impact on any portion of society in particular. Te Tiriti o Waitangi\n\nshould also be a consideration."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is important that the Government sets out plans, and that these plans are visible and accessible to everyone. There should be\ntimeframes, to ensure that Government is held accontable."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government needs to ensure that representatives from all walks of life are able to be heard on setting plans to meet budgets.\nWhile this means industry and sectors, it is also important that there is targeted of young people (in particular, given that they will be\nmost affected by these changes in the future), Maori and Pacific Islanders, people in lower socioeconomic areas, and immigrants and\n\nrefugees. It is also important to get some cross-party support, so that the targets remain in place if there is a change in Government\nin the near future."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The Commission should have relevant experts available to advise the Government on the best approach to the ETS."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Climate Commission should also include representation from rangatahi- these are the leaders of the future, and need to be\n\ninvolved in decisions and advice to the Government."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adaptation is going to be necessary, no matter how quickly we take action on climate issues. However, it is very important that the\n\nmain focus of the Act is on mitigation, and reducing carbon emissions as much and as quickly as possible."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "You have elected to withhold your personal details from publication."
+    }
+  ]
+}

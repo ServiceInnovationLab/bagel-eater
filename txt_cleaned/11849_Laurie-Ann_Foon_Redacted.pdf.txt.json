@@ -1,0 +1,110 @@
+{
+  "reference_number": "11849",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "I think we need to be more ambitious with the target and move it to 2040, but a clear target is needed now, to show leadership and\n provide greater certainty. The business sector urgently needs this certainty to encourage innovation and investment in low carbon\n solutions."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, this seems to provide the necessary certainty. Whilst a ‘straight line’ reduction pathway may not be appropriate for legislation it\n\n should be seen as a reference point/guide. We must be wary of low ambition for early periods, for two main reasons. First it might\n send the ‘wrong message’ and result in less incentive for action (thereby threatening the necessarily more ambitious reduction in\n later periods); and second it would mean the cumulative emissions for the whole period (to 2050) would be higher. Given the long-life\n\n of CO2 and N2O this would ‘lock-in’ additional warming. It is important to understand that it is the area under the emissions curve\n which determines the cumulative emissions, and contribution to warming, not just the end point."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "Yes, but only when subsequent budget is set, and only under a short list of clearly defined exceptional circumstances."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, it should be advisory. It would be inappropriate for it to have decision-making powers, given the potential impacts of any\n\ndecisions – such decisions should be made by elected representatives. However, it is essential that there is full transparency over\nthe advice given, and that the government should be compelled to publish a detailed response to the advice, providing clear reasons\n\nif the advice is not followed."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Advisory, for the same reasons as Q11. And, like Q11, there should be full transparency and detailed responses if advice is not\nfollowed."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Agree that the commissioners should be experts, rather than stakeholder representatives. Agree with the list of essential and\ndesired expertise, except unconvinced on the essential need for the commissioner with community engagement/communications\n\nexpertise (couldn’t that be provided by support staff?), but do see the essential need for expertise in innovation and its development\nand deployment (including introducing new technologies from overseas)."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. It seems prudent that this should be covered (as it is under the UK system), but the clear emphasis should be on mitigation\n(reducing our emissions)."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Yes. There is a clear need for an integrated approach, co-ordinated at a national level (led by central government). The current\n\narrangement is piecemeal and very inadequate, with an unreasonable burden placed on local authorities."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. Follow the UK model with a requirement for mandatory reporting by key organisations in the public and private sectors."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think we need to be more ambitious with the target. With adaptation, I think we need to create some sort of \"just\" insurance system\n\nor back up support for those in NZ living in at-risk areas. The insurance costs are already going to have a massive impact on some of\nthose who are already financially pressured, let alone those who may become climate change refugees."
+    }
+  ]
+}

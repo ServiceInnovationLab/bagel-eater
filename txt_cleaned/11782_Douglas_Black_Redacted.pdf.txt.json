@@ -1,0 +1,124 @@
+{
+  "reference_number": "11782",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "but target can be made more, but not less, stringent as advised by the Climate Change Commission (CCC)"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Essential to take a precautionary approach as time is short"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "as a developed country, we must live within our means - less developed countries have less resources than we do to meet per capita\n targets, and our per capita emissions are high"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "but only to make targets more, not less, stringent, by recommendation of the CCC"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "follow the UK model despite different electoral cycle times"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "but the CCC may advise changing the third budget, definitely not the Government"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "not government, but CCC could advise justified adjustments consistent with 2050 target still being achievable"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I agree with the Wise Response Society submission here; the current economic(and social) models must adapt to climate change,\n\nnot the other way around!"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "with all practicable speed, and not more than 6 months; failure to meet this requirement should be legally enforceable and penalties\n\nbase on Heath and Safety legislation applied to government individuals (ministers and civil servants) who (like company directors,\nCEOs etc) are found wanting in a judicial review based on the relevant CCC advice considered as from an 'expert witness'"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I agree with the Wise Response Society's response here; government responses must be precautionary in nature (all practicable\n\nsteps), target the \"low hanging fruit\" first, using only established technologies, and not relying on possible future breakthroughs for\nplanning.As with Q9 above, this will require the CCC to provide very clear recommendations to facilitate their quick transformation into\nfunded policy"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree with the Wise Response Society's submission here"
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "BUT for a 'Fee and Dividend' scheme, NOT an ETS, as per the Wise Response Society's submission here. We need greater control\n\nover carbon pricing to ensure the 2050 target is met, and all New Zealanders can benefit in the process"
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "but must add \"values and ethics\" as essential, and make 'business competitiveness' merely desirable; see Wise Response Society's\nsubmission here"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "but mitigation must be clearly stated as its principal aim"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Enforcement of the Act needs serious consideration and is not covered by this form. The Productivity Commission's recent report\n\n\"Examining the UK Climate Change Act 2008\" signals clearly that the UK government is already in breach of the 4th and 5th budget\ntargets (according to ClientEarth and others), but it is (critically) unclear what legal or other action can be taken to remedy this breach\n\nof the new law."
+    }
+  ]
+}

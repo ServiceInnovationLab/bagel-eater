@@ -1,0 +1,103 @@
+{
+  "reference_number": "4266",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "However, there should be recognition for the materials NZ produces and exports which contribute to climate change emissions,\n which could potentially be offset by green tech exports. This would include such things as weaponry components which are later\n\n deployed by third-party nations."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There should a provision allowing for revision in the event technological advances allow a significant reduction in time needed to\n meet the policy purpose. Extending the time frame because of Government-of-the-day desires should be minimalised at every\n opportunity (being mindful that every Government sets its own agenda and policy direction)."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "5 year horizons allow for international economic fluctuations which will occur as the policy outcomes are being transitioned in. They\n will also enable an agile response to real impediments in achieving the policy outcome."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "If cross party agreement is obtained, then there shouldn't be a need to legislate for this aspect. The electorate will be quite vocal if an\n incoming Government looks to de-fund or otherwise compromise the stated policy objective."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Same as above"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I would like to see a broader consideration of factors that will impact the labour market as this policy objective is being met. The NZ\nlabour force will also be contending with increased automation and the introduction of AI technologies. Consequently, shocks to the\nlabour force could negatively impact achieving this policy objective. The Government and advisory Commission need to be abreast of\n\nmore than GDP implications of this policy objective for it to be a success."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Well articulated plans with a RASCI model embedded will allow for both greater governance and transparency of tracking policy\n\nimplementation."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The desired expertise should be aligned with the frame-works of other advisory commissions in terms of being best-fit for the\npurpose of the commission. Strong advice from across responsible agencies for science, business, and governance should be\n\nmandatory prior to appointments (Cabinet Honors and Appointments Committee type rigor)."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Must ensure strong tie ins with local and regional councils/territorial authorities."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This should not be onerous on private entities and could form part of the work Stats NZ already does with NZ businesses."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "While the policy outcomes are very much needed, there is a question on strategic risk oversight. Climate change is recognised\n\ninternationally as a National Security threat by many western nations. In that vein, New Zealand should recognise climate change as a\nNational Security threat and afford it treatments and strategic oversight by the Cabinet National Security Committee and subordinate\n\nofficials' committee and watch group(s). As a matter of international representation regarding New Zealand's commitment to the\npolicy outcomes as proposed, the Bill should prohibit trade negotiations which would either dilute the purpose of this policy objective\nor otherwise add to international climate emissions by the other party(s) to a trade agreement. Through this policy objective and\n\nsubsequent Bill/legislation, New Zealand must be seen to be a leader in climate change management. This is this generation's\nnuclear free moment, and we need to grasp the potential as well as be honest as to the cost as openly and robustly as possible."
+    }
+  ]
+}

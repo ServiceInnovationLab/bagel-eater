@@ -1,0 +1,110 @@
+{
+  "reference_number": "11958",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "Net Zero CO2 only will almost certainly fail to meet our Paris Agreement commitment and the goal of holding global temperature\n increases to below 2°C. What exactly does net zero mean for short-lived gases? For long-lived gases it is clear – sources must be\n\n balanced by sinks. For short-lived gases the main sink is reaction in the atmosphere. For NZ’s primary short-lived gas, methane, this\n is through oxidation to CO2 over roughly ten years. So is net zero for methane the point at which emissions are offset by the rate of\n reaction in the atmosphere and thus the methane concentration in the atmosphere is stabilised? Or is the atmospheric reaction and\n\n removal ignored, and emissions of methane have to be offset by CO2 sinks (e.g. planting trees)? This lack of clarity means that this\n option may not substantially differ from option 2. Net zero long-lived gases and stabilised short-lived gases is the best option, IF a\n stabilisation level is defined. The set emission rate should be low enough for each short-lived gas that, if applied globally, the\n\n concentration in the atmosphere would stabilise or decline back to the pre-industrial concentration in the atmosphere."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Using international carbon credits, while continuing to emit as usual within NZ, is like renting instead of buying. Reducing our own\n emissions will cost in the short-term, whereas buying international carbon credits will cost us forever. The Paris Agreement is\n\n predicated on trust amongst nations that each will live up to its commitments. International carbon credits are difficult to verify and will\n not engender trust amongst nations. New Zealand should show leadership and actually commit to reducing our own emissions. It’s\n the right thing to do."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The target needs to be clear, but the strategies for reaching that target should have flexibility over time."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "Flexibility is necessary to achieve the goals. But too much flexibility could just allow future governments to dodge the stated goals."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Future governments will review and adjust the budgets under what they consider exceptional circumstances, whether enshrined in\nthe initial legislation or not. Might as well let them."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "How could the goals be achieved without a plan?"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Carbon sequestration through forestry appears to be a seen as a major tool in meeting the net zero target. Planting trees is a good\n\nthing, and should be encouraged, but we should be wary of placing too much emphasis on it. Current emissions reporting guidelines\nfor land-use carbon sequestration use accounting rules based primarily on above-ground biomass (i.e. tree size) estimates, yet our\n\nscientific understanding of how below-ground carbon (which is where most carbon is stored in the landscape) changes is still weak\nand it appears that the overall carbon sequestration is dependent on many factors other than simply the above-ground biomass. For\nexample, recent research indicates that NZ’s landscape is actually sequestering more carbon than the current accounting rules\n\ncalculate. Ultimately, emissions targets must relate to the greenhouse gas levels in the atmosphere, and the accounting rules will\nevolve to match our understanding. Perhaps more importantly, over-reliance on carbon sequestration dodges the fundamental\n\nproblem. Gross emissions ultimately need to be reduced, and that should be the primary focus of our net zero strategy. Carbon\nsequestration should be considered as just one of the “wedges” to help us reach that goal more quickly."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "New Zealand will need to both mitigate and adapt, but in general, the two require quite different actions. Conflating them together in\n\na single bill will make it difficult to achieve either. It is however, quite reasonable to expect that the Climate Change Commission\nshould also have a role in providing information on adaptation, separate from the Zero Carbon Bill."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    }
+  ]
+}

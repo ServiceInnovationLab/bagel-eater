@@ -1,0 +1,110 @@
+{
+  "reference_number": "17",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "2050 is too long. Can't it be sooner? By 2050 we could already be hitting 3 degrees. We don't have time to be conservative on this."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Why \"net\" zero, and not just zero. I am concerned that calculations of \"net\" will lead to conflict and the potential for corruption."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Circumstances will change, probably for the worse. Latest predictions from UN are that we may already have passed the 3 degree\n threshold. As well as prevention, we need a strategy for mitigation."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I understand the approach but 5 years is too long, and creates a temptation to do nothing for 4.5 years. 3 years, with yearly reviews,\n would be better."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Monitored and reported, updated as frequently as the weather"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Good question. First Nations groups, environmental orgs, industry and major polluters, the Opposition - to try and ensure this doesn't\n\nget rolled back."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Very strongly agree and NZ is a leader here."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "Ability to fine/sue unresponsive organizations or industries. Need a stick as well as a carrot"
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Not each person needs the same expertise. Fine to have specialists with particular expertise - scientific, social, environmental,\n\npolitical. Best to get a healthy tension than try for perfection. Make it democratic?"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Absolutely. We are already experiencing the early effects of CC. We must hope the best, plan for the worst."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Thank you for this initiative. I don't know of another country showing this leadership and preparation. The temptation is to say 'oh, NZ\n\nis small we can't make a difference' - but leadership like this can ring around the world."
+    }
+  ]
+}

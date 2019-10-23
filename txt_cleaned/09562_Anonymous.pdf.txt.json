@@ -1,0 +1,117 @@
+{
+  "reference_number": "9562",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Setting the target in legislation would provide simplicity and certainty."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I am opposed to setting only a carbon dioxide target, as this ignores a big part of the problem. Agriculture's role in New Zealand's\n emissions needs to be addressed. While stabilising short-lived gases could be a workable compromise, I prefer the more ambitious\n\n target of zero net emissions across all greenhouse gases. This would encourage a transformation of New Zealand's economy, and\n show leadership on the world stage."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I am opposed to any form of international carbon units unless it can be proven that the units are being bought from a country whose\n net emissions are well below zero. It is preferable for us to show leadership in transitioning to a truly carbon neutral economy."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "This would unnecessarily complicate the legislation, would normalise the idea of revising the targets, and might still fail to account for\n\n the future circumstances New Zealand will contend with. If any future situation genuinely makes the 2050 target completely\n untenable, or completely unnecessary, then it is likely that the government of the day would have sufficient mandate to make\n\n changes to the legislation."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "I'm concerned that future emissions budgets would be revised due to slower-than-planned progress in reducing emissions. This\n can't be normalised. However, it would be nice to think that budgets could be revised due to faster-than-expected progress, or\n disruptive technologies."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "It is better to not create the perception that emissions budgets can be revised. In truly exceptional circumstances, the government of\nthe day could choose to amend the legislation as a very last resort."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "New Zealand's economy and diet are highly dependent on meat and dairy. The Government needs to consider how business\ninnovation and consumer cultural change can be encouraged, to help transition the economy to more sustainable diets (eg plant-\n\nbased or synthetic). If we can reduce New Zealand's dependency on the meat and dairy industries then we can reduce our\nvulnerability to the economic shocks that would be caused by global diet changes. It is better for us to be leaders (driving the\ndevelopment of sustainable food industries) than for us to compete with overseas innovators while clinging to our current model of\n\nproduction. This is a big, long-term issue that needs to be addressed in a considered, iterative way, bringing people, farmers, and\nbusinesses with us and not leaving anyone behind."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I support the option \"Advisory, with mechanisms built in to hold Government to account\""
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Any data feeding into a national climate change risk assessment should be collected according to prescribed standards. There is a\nrisk that different organisations will interpret such standards differently, reducing the comparability, accessibility, and ease of\n\nintegration of the data. Any such data should be in a standard, machine-readable format (eg collected via APIs), and if possible be\nwell-integrated with the rest of the environmental and government data ecosystems."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The discussion document focuses quite heavily on the effect of the proposed emissions targets on GDP. It should be recognised\n\nthat GDP is only one very selective measure. Slower GDP growth isn't inherently a bad thing (in fact, it can be a good thing if it means\nreducing the economy's burden on Earth's finite resources while maintaining an acceptable level of equality and wellbeing for all\n\npeople). It would be good to focus on the effect of emissions targets on a basket of measures summarising the wellbeing of people\nand the environment, and not only economic growth.\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

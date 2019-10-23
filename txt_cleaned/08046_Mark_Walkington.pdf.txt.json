@@ -1,0 +1,117 @@
+{
+  "reference_number": "8046",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "There is little to no choice here really given the need to attempt to avert runaway and catastrophic climate change we now face. And\n as mitigation options abound we have to take on the challenge. The \"Net\" allows for plenty of domestic offsetting - to mop up a\n hopefully future low level of gross emissions. Measures will likely need to include a major move away from high GHG primary industries\n\n including livestock and dairy."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Lets Do This. I propose a Fee and Dividend to replace the ETS - thus no need for ETS international trading/linkages - targets are NZ\n based and delivered."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - required 2/3rd majority of parliament."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Sounds a reasonable approach - I would urge annual reporting and review."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - Government should have ability to model emission scenarios, point to expected measures and outcomes and monitor emission\nannually against the projections. The Commission would highlight performance against the projection and raise alarms where we are\n\nseen falling short."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The emission reductions must be domestically focused. Plans should be made on a sector by sector basis - with sector specific\ntargets - not necessarily at the same reduction level but such that aggregate reductions meet targets. Modelling should identify the\n\nlikeliest low cost emission reductions and this basis could be used to plan to meet budgets."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I tend to the \"Advisory, with mechanisms built in to hold Government to account \" model."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "Government should consider an appropriate replacement of the ETS with a Carbon Fee and Dividend scheme with polluters paying,\n\ncarbon price fixed to increasing and proceeds paid to sequesters (e.g. forest owners) and the rest paid to the population on a per\ncapita basis. Border issues should be handled - tariffs on carbon content basis where country of origin has imposed lower carbon\n\npricing."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I partially agree but also feel the Commission should include suitable citizens representation - perhaps a great use of online election\nof Commissionaires. The Commission should not make appointments to those with a direct track record working amongst our major\n\nemitting corporates or bodies representing those industries - we know who they are - fossil fuels, dairy, transport, banking."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I am strongly opposed to this suggestion. That is a job for other bodies including current local government, Infrastructure planners,\n\nCivil Defence, Emergency Services/Military etc. The Zero Carbon Bill has suitable focus on carbon reduction/mitigation and concerns\nabout adaption would distract if dealt with by the same body/act."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The introduction of this bill is a great step and very required - although decades too late. Government needs to keep continual focus\non emission reduction and be prepared for NZ to take necessary measures to lead in the battle against Carbon. Much education is\n\nneeded - this is certainly part of the role for the Climate Commission. Threats to the successful meeting of the budget need to be\nidentified and handled. Similarly win-win scenarios abound in this space e.g. tourism, public health, efficiency and cost reduction, new\n\ntechnology and innovation, green jobs ...... and much can be made of each step we make on our way to Net Zero. Consideration\nneeds to be given to changing market structures where current arrangements have been seen to work against the need for change.\nExamples include electricity where incumbents generators are happy to delay the build of renewable generation - for fear of lowering\n\nmarket prices and disturbing windfall profits. If we are to see a widespread electrification of transport and industry then it is likely that\nnew wind and geothermal generation will be needed post haste. Similarly infrastructure provision such as EV Charging requires a role\n\nfor the state either significant funding or direct action (e.g. California) - here benefits are spread widely and do not make a commercial\nprofit easily achieved."
+    }
+  ]
+}

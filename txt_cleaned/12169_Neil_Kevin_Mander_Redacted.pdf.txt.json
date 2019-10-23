@@ -1,0 +1,124 @@
+{
+  "reference_number": "12169",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "There is a significant body of scientific opinion which holds that the IPCC approach is onservative in that it does not take adequate\n account of several factors including melting of Antarctic ice. In this case adverse effects of climate change may come faster and\n\n harder than currently anticipated. Thus, there is a very good case for setting an earlier target date for zero carbon, such as 2040."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "While methane is relatively short-lived in the atmosphere, its greenhouse effect is stronger than carbon dioxide. It is also being\n constantly replenished from multiple sources. It is essential that we include this gas in the plan. This is especially important for New\n\n Zealand to do."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "It may be tempting to take advantage of purchasing carbon credits from overseas sources. But this source of credtis is already in\n place and it is not leading to the real, overall reduction of carbon emissions. The illustration of shuffling deck chairs on the Titanic, or\n the purchase of papal indulgences has often been used to demonstrate the futility of this idea."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "If in fact the global warming trend is shown to be worse than accepted at the moment, and as believed by many competent\n\n scientists, then the Bill should allow for the 2050 target to be revised to compensate. This would enable the zero net emission target\n date to be brought forward, and/or lower emissions to be called for at an earlier date."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This is necessary to enable governments, corporations, commercial organisations and the population at large to plan ahead."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "There should be the ability for incoming governments to tighten budgets in order to meet changed situations as outlined in item 4\n above."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but only under extreme exceptional circumstances, such as the advent of runaway, catastrophic climate change."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Various NGOs are vitally concerned with the process and objectives. For example, Engineers for Social Responsibility Inc (ESR) has\n\nprepared a set of papers outlining various aspects of climate change and its effects on people and the planet. These Papers can be\nfound on ESR's website www.esr.org.nz, on the Climate Change Papers page. Government departments, local government bodies, as\n\nwell as commercial and corporate organisations will also need to be involved."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "This advice must be made available to the public at large."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Climate change adaptation should best be covered in separate legislation. The emphasis of this Zero Carbon Bill must be on\nachieving zero net carbon. Adaptation to rising sea levels, for example, will require work on low-lying highways such as Auckland's\n\nnorth-western motorway, and protection or re-location of low-lying suburbs."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Some organisations, eg NGOs and Universities, already hold information that could be very useful in this matter."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "New Zealand has a great international reputation as being amongst the leaders in setting up progressive legislation, even when it\nmight be unpopular in certain demographic areas. New Zealand is widely seen as \"punching above its weight\" in international circles,\n\nand is respected for that. The Landmine Ban and the Cluster Munition legislation comes to mind as examples. Climate Change\nlegislation is a matter on which we must be seen as leaders and not as tardy followers. Our present carbon emissions, although small\non a global scale, are big on a population pro-rata basis. It is therefore very appropriate that NZ is seen to be very pro-active in dealing\n\nwith the matter. Then, with our own developing expertise, we must be ready to offer assistance to other countries in dealing with\ntheir propblems in their own setting."
+    }
+  ]
+}

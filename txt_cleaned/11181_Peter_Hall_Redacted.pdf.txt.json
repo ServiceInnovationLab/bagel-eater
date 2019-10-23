@@ -1,0 +1,117 @@
+{
+  "reference_number": "11181",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There needs to be expertise on bio-energy, especially from forestry included. Its overlooked and it going to be important - especially\n\nwith the 1 billion trees target."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Forestry (growers and processors) and bio-energy interests, including the New Zealand Forest Research Institute (Scion).\nConsideration needs to be given to increased use of solid wood products in buildings (carbon sequestration). Planted forests are not\n\njust about the carbon they store. There is huge potential for these forests to be used to provide solid wood products to be used in\nthe ever expanding building infrastructure. Further the residues and low value logs can be used to create low carbon liquid fuels,\n\nindustrial process heat and small scale electricity generation in remote communities that currently use diesel to generate their power.\nThere is significant potential to displace coal with wood across New Zealand."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Further, if the Government does not heed the Climate change commissions advice it needs to provide a detailed, fact based\n\nexplanation to the public as to why."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There needs to be more emphasis on forestry and bio-energy expertise; including waste to energy."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "There needs to be much more attention paid to the long term potential of forestry and the impact of the 1 billion trees target. There\nis much more to this than just establishing the forest. In simple terms if this resource is managed sustain-ably (only 1/25th is cut in\n\nany 1 year) it could provide a massive biomass resource that could impact GHG emissions across a range of industries. There is\nalready substantial potential for wood to energy from our existing plantation estate and this should be acknowledged. Relying on EVs\n\nis risky - there are limits on the supply of electric vehicles which are rarely acknowledged and the vehicles that are currently top\nsellers (Utilities and SUVs) do not have EV options in most cases. There needs to be greater consideration of liquid biofuels."
+    }
+  ]
+}

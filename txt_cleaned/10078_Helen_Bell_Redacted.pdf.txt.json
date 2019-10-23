@@ -1,0 +1,54 @@
+{
+  "reference_number": "10078",
+  "clauses": [
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "Methane emissions have stabilised or increased only slightly since 1990 and lasts 7 to 10years in the environment. CO2 lasts for\n\n hundreds of years.Any reductions should focus on CO2 emissions. Reducing methane emissions will force farmers to become less\n competitive internationally. No other country is looking at methane reductions. Farmers have trees ,grass and soil which remove CO2\n and should be included in any model. How valid is the carbon unit model. A view that methane emissions are overstated in this\n\n model."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Trees planted before 1990 should be included in model and caculations."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Farmers. The fact they have grass trees and soil should be reconized in any calculation"
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Methane reductions have stabilised and huge reductions have been made in this area.Farmers are unable to reduce further and\n\n currently there is no science to facilitate reductions."
+    }
+  ]
+}

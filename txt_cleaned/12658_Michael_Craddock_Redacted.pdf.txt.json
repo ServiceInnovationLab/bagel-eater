@@ -1,0 +1,124 @@
+{
+  "reference_number": "12658",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Hiw long would a commission take, coild it be changed removed, influenced by a change in Govt?"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Short-lived gases such as methane, become C02 or long-lived. Methane is considered to be a powerful greenhouse gas."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "The ability to purchase credits in schemes that reforest large areas internationally would be important for biodiversity and\n international co-operation. One of the major issues os deforestation and keeping mature forest shoild be prioritised."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "There are too many \"angles\"/vested interests that could allow for changes through change in govts etc. I.e Donald and Removal of\n\n USA from Paris agreement."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "15 years is a long term signal to investors, industry etc on the direction of changes."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Transport and electricity emissions should be targetted, work with banks/super funds for Green Bonds for infrastructure such as\n\nbuses/renewables/EV fleets & infrastructure. Ensure that the increase in Electiricty demand due to EVs is not made up by more FF\ngeneration. Incentivise Companies/Individuals for EVs/infrastructure. Incentivising people works better to change habits than\n\npenalising/taxing, which are negatively viewed."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Independent commissions should report back to the govt on progress. Risk management practice suggest that 4 stages of identify,\nmanage, measure and report risks. Reporting on meeting goals is vital for consistent progress evaluations & feedback."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The govt are elected to enact policy through consideration of expert research and advice."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Banks should report their investment in FF financing as standard. Exposure to climate change shoulld be part of continuous\ndisclosure etc for investors."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "A larger offering of green super options would be great. I.e Aus Ethical. This would allow targeted financing/investment in clean/green\ntech. If not already then NZ super/ACC funds should look to divest from FF investments and all universities/councils encouraged to\n\ndo so."
+    }
+  ]
+}

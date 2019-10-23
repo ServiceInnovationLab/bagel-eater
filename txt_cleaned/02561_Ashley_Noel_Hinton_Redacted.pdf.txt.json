@@ -1,0 +1,68 @@
+{
+  "reference_number": "2561",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "It is important that the government set a concrete date by which to achieve the necessary emission reductions so that the focus\n\n from now on can be on accomplishing these reductions. We cannot spend any more time renegotiating the time frame."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The aim of this legislation should be to reduce emissions as a way of minimising the effects of climate change. If we target some\n greenhouse gases and not other we could end up doing a lot of good work which could be undermined by those gases left\n untargeted. It is important that the approach taken in this legislation take a view across all greenhouse gas emissions."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Reducing emissions may be hard work, but it would be negligent of New Zealand to expect any other countries to shoulder this\n\n burden for us. New Zealand should aim to reduce its domestic emissions to reach its targets, but this should not preclude it from\n also helping to reduce emissions overseas."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Future governments should always have the option to take a more aggressive approach to emissions reduction, and should\n\n absolutely be permitted to commit to exceeding these targets."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is important that Government be publicly accountable to the recommendations and targets set by the Climate Change Commission.\nThe Climate Change Commission should be an independent public organisation, and should also act to communicate directly with\n\nthe public to advise of the progression of reductions, and to inform the public of the work being done."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is important the Government act now to begin addressing the very real issue of adapting to climate change. There is no doubt that\n\nthe people of New Zealand will be dramatically effected by climate change, but these effects are unlikely to be uniformly shared\namongst the populace. The Government has a responsibility to those people who will need help in the coming to start planning this\n\nhelp now. It is important that this planning not be delayed."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The work we all need to do to adapt to climate change is work that is best shared by the whole country. Having a clear plan at a\ncountry-wide level helps share the costs and expertise required in planning for the changes we have coming."
+    }
+  ]
+}

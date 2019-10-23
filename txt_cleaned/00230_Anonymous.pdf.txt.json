@@ -1,0 +1,110 @@
+{
+  "reference_number": "230",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Set a clear target now, but allow for details to be improved upon with time as we learn more."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "No, unless to make it more stringent or effective - definitely not to weaken our commitment."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "We have so much to learn about emerging low carbon technologies and opportunities that it will be very hard to make accurate\n\n predictions of what will work so far out."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Change would always happen anyway if circumstances are exceptional."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "We need to work internationally in understanding our carbon budgets. Much of our true carbon footprint is imported as embodied\n\ncarbon in imported goods and a very large proportion is exported in the same way, especially in meat and dairy exports. Carbon\nshould be accounted for at its place of consumption. That means that the half tonne of carbon in a laptop I buy counts against me,\n\nbut equally, milk powder consumed in China should tally against China. Attempting to make 5 million people people responsible for\nthe emissions that feed 40 million people sends the wrong signals, especially if we are already carbon-efficient in that production.\n\nDruckman & Jackson (2009) develop a model for this type of internationally balanced approach and subsequently show that 50% of\nhousehold carbon emissions are embedded in goods and services, not just the obvious transport and energy emissions. To be\neffective, the information we work with must reflect behaviours *in New Zealand* that can be changed in New Zealand. I can do\n\nnothing about the choices of 40 million foreign customers of our food exports, but I can choose what I eat and buy. We would damage\nour economy unnecessarily if we are already producing food exports carbon-efficiently to a global standard. What we measure must\n\nencourage actions relevant to New Zealand. Druckman, A., & Jackson, T. (2009). The carbon footprint of UK households 1990–2004:\nA socio-economically disaggregated, quasi-multi-regional input–output model. Ecological Economics, 68(7), 2066-2077.\n\ndoi:http://dx.doi.org/10.1016/j.ecolecon.2009.01.013"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "These decisions need to be operation and apolitical"
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but mitigation needs to be the priority."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "See earlier comment about linking carbon emissions to the place of final consumption, especially with regard to our meat and dairy\n\nexports. Food consumed overseas by 40 million people should not be on the heads of 5 million New Zealanders, any more than a\nlaptop I buy should count against China. See: Druckman, A., & Jackson, T. (2009). The carbon footprint of UK households 1990–2004:\nA socio-economically disaggregated, quasi-multi-regional input–output model. Ecological Economics, 68(7), 2066-2077.\n\ndoi:http://dx.doi.org/10.1016/j.ecolecon.2009.01.013. In terms of transport, a lot of emphasis is given to cycling (rightly), but, based\non Household Travel Survey statistics for Christchurch that I have analysed, while around half of all trips are within cycling range (6\n\nkm), these only make up 15% of the total distance travelled and, therefore, the carbon emissions. Trips over 20 km are less than 10%\nof trips but account for nearly half the distance travelled. Cycling is important for health and urban design reasons, but to reduce\ncarbon emissions, we need to reduce the carbon on *long* and medium length journeys. I can cycle everywhere in town, but one\n\ndriving holiday can undo all of those savings. That basically means rail - commuter rail and inter-city passenger rail, as well as for\nfreight. These options need to be the fastest and cheapest option. If they don't compete on speed and cost, they won't be adopted.\n\nThe carbon is in the longer trips, not the easily substitutible short trips.\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

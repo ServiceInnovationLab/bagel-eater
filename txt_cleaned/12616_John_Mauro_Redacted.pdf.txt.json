@@ -1,0 +1,117 @@
+{
+  "reference_number": "12616",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Lots of recent evidence suggests an urgency in developing pathways toward climate stabilisation – some accounts suggest such\n\n pathways need to be locked in by 2020 . Long-term predictability and transparency for all sectors is a prerequisite - it gives us a\n planned and smooth transition that minimises negative impacts on jobs, livelihoods and fairness."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Given the recent evidence, our NZ Paris Agreement commitments, the broad co-benefits, innovation, opportunities, potential impacts\n\n (and their cost), and different time scales to reach temperature stabilisation, the most ambitious approach is necessary - all gases.\n Not only is it the right thing to do for future generations, it would be a strong driver for technological development, innovation and the\n development of incentives to ensure sectors like agriculture are supported in planning and alignment to the target. It's not really our\n\n \"almost nuclear free\" moment - it's the full deal!"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I'd modify this a bit given that there's probably a need for some transition offsets as a last resort. But they should be used\n exceedingly sparingly. We should really take an 'invest in NZ' approach to harvest the co-benefits instead of buying our way to\n neutrality."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Revisions would interfere with the predictability and transparency necessary to steer policy direction and likely result in slippage.\n However, I would support a more ambitious ratcheting up of the target, including one to emissions positive or earlier delivery (e.g.,\n net zero by 2040)."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Five year cycles help focus on action. They give some adaptability and agility in meeting targets."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is potentially a slippery slope. While I'd prefer no alterations, slight changes to emissions budgets should be taken quite\n\n carefully, and done frugally given the perceived and actual risks and impacts. Adjusting the third/final budget in the sequence should\nbe done sparingly and without pushing responsibility for emissions reductions into the future. Allowing such careful modifications of\n\nthe third/final budget may add some pragmatic flexibility but should only be done when the subsequent budget is set and with a high\ndegree of caution and frugality. We do not support adjusting the second budget – even in ‘exceptional circumstances.’"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Plans should follow within a set timeline from budget setting."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Government should take into account a number of issues when setting plans, like: consideration for a just and equitable transition,\n\nconsideration of local government and urban needs, consideration of investing in New Zealand to gain a wide range of benefits\nbeyond but associated with carbon reduction, and consideration of offshore impacts and leakage."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The commission should be given the right powers to enable domestic and international targets to be met against a carbon budget,\n\nthat it is placed outside political cycles, that it has a clear remit to support the work of local government and that budget and plans\nare linked to required actions by local government, and that its work encompasses both mitigation and adaptation."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The Climate Change Commission should advise and monitor New Zealand’s progress toward emissions goals as stated in the\nDiscussion Document. A full decision-making role in setting policy under its own authority at arm’s length from Government would\n\nhelp drive evidence-based action, but it may carry the weight of an unprecedented transfer of traditionally government decision-\nmaking. I suggest strong language in the final bill that urges Gov't to seriously and fully consider advice in its decision-making."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "And also add public health - an essential connection to make"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Integrated solutions across both mitigation and adaptation can deliver smarter, better and multiple outcomes across well-beings."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Stay the course and be ambitious - it may require doing things that aren't supported by the majority in the consultation process. And\n\nthanks!"
+    }
+  ]
+}

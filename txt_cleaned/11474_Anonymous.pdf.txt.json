@@ -1,0 +1,117 @@
+{
+  "reference_number": "11474",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Its essential we have a legislated target otherwise the incentive to achieve zero emissions is removed. We can longer keep kicking\n action down the road."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "We must address all emissions to successfully address the impact on the climate. If any particular emssion type is left out it will create\n\n market distortions and also indicates that we are not really that serious about targeting climate change."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I think international offsets have shown themselves to not being very effective and it is also difficult to ensure that they are actually\n genuine offsets. Offshore offsets also have the possibility of creating harm for communities in other countries that we may be\n\n unaware of. This was detailed in Naomi Kleins book 'This Changes Everything' where forest offsets lock tradtional owners out of their\n own forests."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There should be some room for revision if new technologies emerge or if there is any increasing urgency to reduce emissions faster."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I think this makes sense, although I would suggest even making them 10 year periods, which would mean three 10 year periods\n\n between 2020 and 2050."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "Outside of the 10/15 year chance to revise targets I would be wary of the last emisssions budget being able to be changed as that\n would basically see goverments offload all actions to this last period and what would eventuate would be a final emissions budget\n\n that is unrealistic to achieve."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Because there may be new technologies that may emerge and there may also be a pressing need to make targets more ambitious."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "You omitted one important consideration and that is the environmental impact of climate change. Because if we are seeing\n\nincreasingly rapid changes to the environment then we may need to ramp up our efforts (irrespective of what other countries are\ndoing)."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Absolutely, its essential to have timeframes and targets to achieve emissions reductions."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The government needs to stand strong when industries try and lobby for weakest reductions possible."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The commission is essential and it needs to be indepedent and unable to be influenced by corporate or other vested interests that\nwant little or no action on emissions."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "I think governments ultimately need to be solely responsible for legislation and binding targets for any given period. But the\n\ncommission does need some sort of tool to be able to punish any government if a government is deliberately avoiding action on\nclimate change."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I think you need to add Sociologist or Anthropologist needs to be added to the experience as there seems little room in the list for\nthe wider consideration of the impact on community worldview and relationships with nature from addressing climate change."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes this is essential as communities are already struggling to respond to climate change and with little government input denialist\narguments are becoming increasingly counter productive to coastal communities trying to respondto climate change."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think the 1 billion trees concept is a great concept and needs to be included as part of the Zero Carbon Act in some form. However\n\nwe need to ensure that at least 50 percent of these trees are native, which will not only address climate change emissions, but also\nwill address biodiversity loss.\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

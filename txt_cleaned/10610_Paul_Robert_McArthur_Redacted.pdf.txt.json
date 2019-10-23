@@ -1,0 +1,124 @@
+{
+  "reference_number": "10610",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "This is needed to provide some surety for New Zealanders. The Act should however provide for this target to be made more\n stringent if new science or events dictate but not less stringent."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "This is necessary in order to have the best chance of meeting the Paris Agreement commitment. In addition, given the uncertainty of\n many of the projections, it is important for the greatest reductions to be made early, rather than later in the period between now and\n\n 2050. This is particularly important for gases like methane that are much more damaging in the short term."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "We take responsibility for our own emissions and offsets and not transfer this burden to any other state. It is difficult to have adequate\n safeguards for international offsets given the ongoing possibility of natural events such as fire or a rogue state or Government."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but only in the case of a more stringent limit or shorter timeframe being identified as necessary by the Climate Commission and\n\n that recommendation receiving Parliamentary approval. In this context, New Zealand’s target must be primarily guided by the Paris\n Agreement and by any future international climate agreements signed by the Government."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "The third budget should only be revised in exceptional circumstances on the recommendation of the Climate Commission and with\n\n the approval of Parliament but not at the whim of an incoming government."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes conditional on the recommendation of the Climate Commission and with the approval of Parliament, but not at the whim of an\n\nincoming government."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Needs changing as follows, and in this priority order: (New) the need to preserve healthy ecosystem function for life supporting\ncapacity, biodiversity and to provide ecosystem services. ii) (New) the need for NZ to play its genuine and just part in the international\neffort to stabilise the climate and to maximise the probability of successfully complying with the target limit for the wellbeing of future\n\ngenerations iii) (New) the need for precaution, given the level of uncertainty attached to estimates affecting the rate of GHG\nemissions and climate change iv) (New) the likelihood and the potential impact on climate change of any scarcity of material\n\nresources on the economy and GHG emissions, particularly that of fossil energy v) the three Government objectives for climate\nchange policy: sustainable economy, global and local leadership and creating a just and inclusive society vi) the Government’s\n\nobligations under the Treaty of Waitangi vii) social circumstances and, in particular, the likely impact of the decision on fuel poverty viii)\n(altered) scientific knowledge about climate change and its limitations ix) technology relevant to climate change x) energy policy and,\n\nin particular, the likely impact of the decision on energy supplies and the carbon and energy intensity of the economy xi) fiscal\ncircumstances and, in particular, the likely impact of the decision on taxation, public spending and public borrowing xii) economic\ncircumstances and, in particular, the likely impact of the decision on the economy and the competitiveness of particular sectors of\n\nthe economy"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A 6 month time frame is suggested"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The the Climate Change Commision be required to use a highly precautionary budget that makes highest rates of emissions decline\n\nin the first years and does not rely on overly complex technology or technical breakthroughs to achieve it. That Government require\nthat the Climate Commission includes in their recommendations to Parliament clear process and timelines to make it straightforward\n\nto turn proposals into firm, funded policy and actions."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "In addition, the carbon price in the ETS should be subject to a rising floor and ceiling price, as recommended by the Productivity\n\nCommission."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Zero Carbon Bill be focused primarily on mitigation but recognises that adaptation andmitigation overlap and are both essential\n\naspects of climate resilience."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I support the preparation of a national climate risk assessment, a national policy plan to address those risks identified, and a\nmonitoring and reporting framework. In addition, I recommend that a Risk Assessment for New Zealand be undertaken in parallel and\n\nthat the climate change risk assessment inform that more general enquiry."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Important to have oversight for this work nationally. Local Authorities are currently struggling with this function."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "It is important that the concepts of :   *improving the overall well-being of all New Zealanders,   *having regard to a wide range of\n\ncommunities of interest and population groups in New Zealand society,   *the need to live within the material and energy limits of\nEarth’senvironmental systems essential for human and other life, and   *the need to integrate climate transition, adaptation and\nmitigation requirements with responses to other risks we face be incorporated in the purpose and aims of the Climate Change\n\nCommission. There is insufficient acknowledgement of the need to develop an ethic other than exploitation of the Earth’s resources\nfor human utility as the dominant principle underlying our economic activity. Profound shifts in our values, culture and way of life that\n\nare required if we are to build and sustain the necessary impetus for change. For example, our continuing uneconomic growth makes\nus complicit in a process that is triggering an ecological catastrophe for our children and generations beyond them."
+    }
+  ]
+}

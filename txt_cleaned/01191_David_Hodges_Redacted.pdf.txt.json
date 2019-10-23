@@ -1,0 +1,110 @@
+{
+  "reference_number": "1191",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "If all countries keep to the commitment made at Paris, this is likely to result in a CO2 level of around 450ppm by 2050. This level of\n greenhouse gases is likely to cause severe disruption to the climate and climatologists such as James Hansen have argued that it\n carries a real risk of triggering major positive feedback loops resulting in irreversible catastrophic climate change and the possible\n\n extinction of the human species. The world will need to go carbon negative to lower CO2 back to current levels or lower. The sooner\n we do this, the less damage will be caused by extreme weather events and the less we will risk triggering irreversible runaway climate\n\n change. Therefore it would be preferable for New Zealand and other countries to go carbon negative as soon as possible - before\n 2050 if possible."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "New Zealand has the potential to offset most or all of our greenhouse gas emissions by converting to organic farming and managing\n farms to increase carbon sequestration in pasture soils. We can easily meet a net zero emissions target by 2050 without purchasing\n\n carbon credits overseas. Furthermore, increasing the carbon content of our pasture soils is likely to be highly beneficial to farmers as\n it increases the water holding capacity of the soil. This is likely to increase resilience to flooding and drought and increase productivity\n during dry periods."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The bill should only allow the target to be revised to a stricter target, not a weaker target."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "The government should only be able to change the budget to a stricter budget (lower net emissions)"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The government should only be able to change the budget to a stricter budget (lower net emissions)"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "All of the considerations listed are important, however the Commission needs to remember that if the world does not reduce our\nemissions quickly enough, we are likely to trigger major positive feedback loops causing catastrophic and potentially irreversible\n\nclimate change, with the possible loss of billions of human lives. It is worth suffering some hardship now to avoid suffering much\ngreater hardship later."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Absolutely. The National government demonstrated clearly that failing to plan is planning to fail. One year is more than sufficient time\n\nto produce a plan once a budget has been announced, considering that much or most of the planning can be done in advance of\nannouncing the budget."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The government needs to consider the potentially catastrophic consequences of the world failing to take sufficient action soon\n\nenough. We do not know at what temperature and what greenhouse gas concentrations catastrophic irreversible positive feedback\nloops will occur. The precautionary principle and common sense dictates that we should therefore take all possible steps to avoid\n\nthem - by lowering our net emissions as rapidly as possible."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "If the commission is not to have decision making power, the government must publicly respond to, and provide rationale when it\ndeviates from, the Commission’s advice."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "The Commission should be able to specify a maximum number of units available, with the government free to choose to allocate a\nlower number of units. By the previous government's own admission, the ETS has so far been worse than useless as the cost of\n\nunits has been too low and far too many units have been allocated for free. The Climate Change Commission should advise the\ngovernment whether to keep the ETS or adopt an alternate mechanism, such as a carbon tax, which some economists have argued\n\nwould be simpler and more effective."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "This needs to be addressed but could be addressed in a separate bill."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "All local governments, state owned enterprises and crown entities need to plan and prepare for climate change. Such planning\nshould be publicly available."
+    }
+  ]
+}

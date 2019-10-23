@@ -1,0 +1,124 @@
+{
+  "reference_number": "2511",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "None of the above. It is far too early to set credible goals or targets for an unknowable 30+ years in the future"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "None of the above. The figure 'zero' is arbitrary and unjustiable."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "NZ outlays should always be invested in the highest available returns (in terms of global emission reductions). The tonnes/dollar rate\n is paramount."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "If not, the ZC Act would simply be repealed when circumstances change"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Every business know that a budget for even 5 years ahead is useless. Worse, it inhibits (and is designed to inhibit) essential flexibility,\n innovation, and continuous improvement in methodology."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "Under the NZ constitution, each incoming Government has the option to repeal or amend the ZC Act. It will do so regularly if the\n\n original Act does not allow elected representatives to deliver upon their mandate."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "With the support of Parliament, the elected Government should adjust any budget when the (now unforeseeable) circumstances\n make it sensible and prudent to do so."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Global leadership is pure ministerial egoism and an unworthy objective. A major consideration should be doing our \"fair share\" as\nmeasured by the rate of change in the emissions intensity of our GDP compared with that of comparable OECD countries."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "No budget should ever be accepted by any Government without first setting out plans to achieve it and determining whether those\nplans are deliverable."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The most important issue is to evaluate any budget in terms of its benefits and costs and determine whether it is in the best\n\ninterests of the New Zealand people. That implies transparency and consultation."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The Commission's role should be primarily statistical, in monitoring our progress towards goals and comparing with the progress\n\nbeing made by other OECD countries. It should be free to offer advice to the Government – which would be considered along with\nadvice from Departments of State and other normal sources."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "ETS policy should be \"set and forget\" if it is ever to operate as an efficient market. Neither the Commission nor any other Agency\n\nshould be twiddling knobs and shifting goalposts in a sector which is characteristically long-term."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The Commission's role is to assist efficient execution of a predetermined Government policy – and not to either attack or change that\npolicy. It has no need for expertise in environmental science or law. Its principal need is an understanding (born of experience) of what\n\nwill work and what will not. Secondly, it needs to understand business."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adaptation needs should evolve from monitoring actual medium-term temperature changes and actual impacts within each local\nauthority district. A tailored but nationally-consistent plan should emerge for consideration on a district-by-district basis."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The suggestion of a black-letter law requiring that \"we\" understand all risks is absurd, and simply invites regular judicial review\n\nproceedings to challenge the Commission's opinions. Plans should emerge as the underlying data become available. While there is\nno evidence of any warming in New Zealand in recent decades, the Commission should monitor and report annually."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Overriding existing privacy laws is both draconian and unnecessary. What is meant by \"organisations\"? Why would a private company's\nrisk management become the subject of public debate? matter of"
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is a thoroughly bad proposal. Its benefits and risks are neither identified nor quantified. There is no single tangible benefit that\ncould not be achieved at a fraction of the cost of this Bill"
+    }
+  ]
+}

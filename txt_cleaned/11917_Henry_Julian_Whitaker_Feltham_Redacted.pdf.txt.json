@@ -1,0 +1,82 @@
+{
+  "reference_number": "11917",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but ONLY to allow even further decrease (ie net negative emissions)"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is going to be a difficult process. We need to understand that shifting our economy in this direction is going to involve (potentially\n heavy) losses for some parties. I think it is important we figure out who those losers are going to be, as they will be the ones that\n\n require the most support and consultation. I'm particularly thinking of Dairy Farmers. They need to be presented with well considered\ntransition plans to either a) sustainable Dairy or (better yet) well-subsidized transition systems to other kinds of farming. This would\n\nobviously involve huge investment and knowledge support. I do not for a second regard this is as simple. It won't be. But it's\nnecessary. At the same time, a well-publicized campaign for NZers to eat meat only once or twice a week. Again, this is massively\n\ncontentious, I imagine, but I think one of the stakeholders for this kind of change are the consumers of domestic goods with large\ncarbon footprints."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I think 'communication' is a very important aspect here -- this process is going to HURT some people financially, and they will have\nlarge media clout. The commission needs to be driving the message that this is an investment in out future. They need to be as\nsavvy and clear as the forces that oppose them. Essentially, you need a powerful eco-marketing voice, able to make the opposition\n\n(those worried about the short term economic affects) look negligent or foolish -- because that's what they will be trying to do to the\ncommission."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There need to be clear powers given to this body -- and a clear map towards progress."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "reference_number": "740",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Don't let's have any more delays!"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I would be happy for a lower reduction target for animal derived methane, provided it was no higher than 30% of the 1990 level"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I totally oppose buying carbon credits to cover shortfalls in our emissions targets. I am in favour of contributing to funds to assist\n developing countries to meet their targets in addition to achieving zero net emissions within NZ"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "We have procrastinated too long too allow any further postponement of targets."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I feel that whilst economic factors should be considered, the over-riding priority should be to achieve zero carbon by or before 2050.\n\nThe government should seek to lessen the impact of measures on poorer people by some means other than postponing\nachievement of carbon zero. Failure to control emissions will have much worse repercussions than any impact of control measures. In\nfact I think our country will be better off from speeding up the \"Zero Emission\" programme."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Cimate commission should also review such plans and comment on their adequacy."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "1) Keeping global temperatures below 1.5 degrees warming. 2) minimising effects of emission controls on the poorest in the\ncommunity. 3) Scrapping ETS and imposing a steadily increasing and punitive carbon tax."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "I believe the ETS should be scrapped and a carbon tax be set up instead. If the government will not scrap the ETS, and impose a\nsteadily increasing carbon tax, then the ETS should be run by an independent body like the Climate commission. That body should\n\nhave the mandate to impose a reducing cap on emissions and carbon credits, and set very high minimum prices at which credits can\nbe traded."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We should be prepared to fund \"retreat\" policies but we should also legislate strongly against new building & infrastructure within 5\nmetres above high water mark."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I want to reiterate my total opposition to the E.T.S. The governments review of the scheme in 2016 found that it had had no\nsignificant effect in reducing emissions. Other countries have had similar problems. I favour a carbon tax which is initially set at the\n\ncurrent market level of ETS credits. It should automatically increase by 5% cumulatively each year so that polluters can see from the\noutset that reducing emissions is the only acceptable way of staying in business. Credits could be used to pay the tax during the first\n\n5 years but would stay at the 2018 market price, so that they would steadily become less valuable in paying the tax. We must keep as\na top priority, the need to stop further global warming and also work towards reversing warming that has already taken place so that\nwe can return to temperatures as at mid 20th century & around 350 ppm of CO2 or less in the atmosphere. I suggest two measures\n\nwhich will help achieve a zero carbon economy: 1) Legislate to stop the sales of new internal combustion engines by 2040 or earlier.\nIf this is done now then individuals and businesses will get a clear message that fossil fuel use is on the way out. Transport\n\ncontributes 19% of NZ CO2 emissions plus some N2O emissions so will have to be cut some time anyway. 2) Legislate that all new\nbuildings must be energy self sufficient. This will have a dual effect of taking the strain off energy providers as electric vehicles make\n\nmore demands on the system, and also provide for charging EV's at home and work without using grid power. The other advantage\nwould be to make buildings more resilient after earthquakes or other natural disasters."
+    }
+  ]
+}

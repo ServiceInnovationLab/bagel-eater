@@ -1,0 +1,117 @@
+{
+  "reference_number": "5187",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I think distinction of long and short lived gases doesn't make sense because \"short\" mean 80 years which is anyway beyond the\n time-frame we have to keep below 2°C of global warming."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Domestic reduction are a best investment because even though it will probably cost more, the economical impact will be local.\n\n Moreover, it will be also investments for adaptation to global warming (more resilience for the country)."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The 2050 target should not be altered in response to “economic changes” as this undermines its long-term certainty. However, the\n ability to revise the 2050 target in light of major changes in scientific understanding or international agreements should be permitted."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "No - emissions budgets should not be altered in response to “economic changes” as this undermines their long-term certainty.\n\n However, the ability to revise budgets in light of major changes in scientific understanding or international agreements should be\n permitted."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "No - emissions budgets should not be altered in response to “economic changes” as this undermines their long-term certainty.\n\n However, the ability to revise budgets in light of major changes in scientific understanding or international agreements should be\npermitted."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "It should be based on scientific facts and proven technologies."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "As I understand it, your proposal is about a commission with no power (just advisory role) : It should have at least a power of veto on\nthe government budget if it doesn't comply with the 2050 goal. It could also be an other chamber of elected people with power of\n\ndecision on long term issues (climate change, but also other matters for generations to come)."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "It should have at least a power of veto on the government budget if it doesn't comply with the 2050 goal."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I am afraid it will be always the same kind of people who have been in \"policies\" most of their life. It lack of people with a real\nknowledge of what can effectively be done. I understand they can't all be engineers so I suggest they ALL get a minimum training on\n\nphysic (because most of them don't make a difference between a kW and a kWh!)."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Of course, they are usually the two faces of the same coin : More resilience"
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The proposal about commission power is binary (decision power or no power at all), which will sadly influence the outcome of the\n\nsubmissions you are gathering : It should have been a more open question. The commission should have at least a power of veto on\nthe government budget if it doesn't comply with the 2050 goal. I would like the government to explore the idea of an other chamber\n\nof elected people with power of decision targeted on long term issues (climate change, but also other matters for generations to\ncome)."
+    }
+  ]
+}

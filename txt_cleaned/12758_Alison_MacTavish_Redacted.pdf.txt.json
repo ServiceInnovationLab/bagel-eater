@@ -1,0 +1,89 @@
+{
+  "reference_number": "12758",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "In order to avoid tipping points a target needs to be set now. 2040 is probably a more realistic target from the point of view of the\n climate, but may be too ambitious from the point of view of changing human behaviour."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I also see that the second option is attractive from the point of view of political concensus, but the danger is that we spend all our\n\n time bickering about whether \"stabilised\" means reduction in agricultural emissions or not. Number 3 is the safer option for avoiding\n climate feedback loops."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I think we should be responsible for dealing with our own emissions. In medieval times you could buy \"indulgences\" to offset your\n\n sins - that morally dubious practice was one of the factors leading to the Reformation. In the long run it is better to find ways to take\n responsibility for dealing with our own emissions."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Only if scientific evidence is quite clear that it is safe to change that 2050 goal or that it is necessary to bring it forward to 2040. I think\n that special circumstances, like disasters, may require revisions to short term targets (see below), but that the long-term target\n\n should not be subject to political revision."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Short-term targets with which everyone is engaged will be essential to the successful achievement of the ultimate goal."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "If there are exceptional circumstances, the short-term budgets can be changed, but it seems logical to me that in those\n circumstances it would be the first or second budget that should be deviated from, and that it would be imperative to get back on\n track by the time the third budget arrived."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "See above."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Essential. Everyone, and especially businesses and governments, needs certainty about what will happen within what timeframe so\nthat they can plan."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think that expertise in human behaviour and communication are two of the most important criteria. Ernest Shackleton held that\noptimism and imagination were two of the most important qualities in an explorer. Members of the Commission need to be similarly\n\nequipped for their adventure into unknown territory, and they need to be able to convey selfless determination, urgency, hope and\ncourage in order to unite the country behind the programme."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It will engage more people in thinking about how climate change will affect them and, by thinking of ways in which they can adapt,\nhopefully they'll also mitigate."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is the survival challenge of our age. It must not be hijacked by those only interested in short-term advantage. For this reason I\nwould like to make a plea for cross-parliamentary agreement on a framework and a programme. I am one among many who will\ncondemn any party which tries to make political mileage out of messing around with the planet's survival"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "reference_number": "11057",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": "It is entirely impractical to legislate for something that depends for its delivery on a range of technologies (e.g., affordable large-\n storage battery technology for households ) and animal breeds (to reduce methane emissions from ruminant animals) that have not\n even been invented yet."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "Net zero CO2 lets the agriculture sector off the hook entirely. On the other hand, net zero emissions across all greenhouse gases is\n impossible to achieve without destroying the primary sector in NZ, as there is no known way of absorbing large amounts of methane\n\n from the atmosphere. The net-zero long-lived gases and stabilised emissions of short-lived gases is the only practical solution."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "As emissions reductions are a global target, not just a NZ target, we should be able to use ICUs from other countries, especially\n seeing NZ is able to produce many forms of food protein with less GHG emissions than other countries."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It will be politically untenable for a Government to pursue the target if (some would say when) the electricity network cannot deliver\n due to (say) a succession of dry weather years. NZ is very exposed to such events because of our high level of dependence on\n hydro-generated electricity."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Setting budgets that go well beyond our very short electoral cycles is critical for success in reducing emissions. And businesses\n need longer timeframes than the electoral cycle to make investments for the future."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "Rolling rebudgeting for the third period to take changed circumstances into account is essential for success, because of factors such\n\nas the carbon price, which will inevitably fluctuate quite widely on the world market."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The whole scheme would collapse if an extreme adverse event occurred without the ability of the Government to respond because\nits hands were too tied by the legislation, as any Government that did nothing if (for example) the electricity system failed would\n\nimmediately fall because of a successful motion of no confidence. It's called realpolitik!"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Budgets without a plan to achieve them are merely aspirational forecasts rather than a reflection of reality."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The most important issue to consider is the global emissions perspective on a given economic activity. There is a real danger in\ntaking only a NZ perspective on a global issue (e.g., if NZ reduces its emissions to meet our target by reducing the size of the dairy\n\nherd, only for another country to fill the gap by increasing its emissions by an even greater amount because it is a less efficient\nproducer, the net effect on the climate would be negative)."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Parliament must remain sovereign in any democracy. For the CCC to be able to make decisions, it would have to be publicly\n\naccountable by having its members elected, in which case you may as well retain Parliamentary sovereignty."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I would add international \"emissions-efficiency\" expertise as a specific expertise that is essential - this is one area of policy where a\nNZ-only perspective would be dangerous if the aim is to reduce global emissions (which it should be), not just NZ's."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Wider means of adaptation should be covered by other legislation - the Zero Carbon Bill is itself just one adaptation response to\nclimate change, but by no means the only one, so conflating other forms of adaptation into a zero carbon bill doesn't make legislative\n\nsense. (As a simple example, if having zero carbon emissions costs the economy $1 trillion over 25 years, but adapting our coastal\ninfrastructure to climate change only costs $200 billion, we would have \"spent\" five times more than we needed to by only focusing\non emissions). Responses like a national climate change risk assessment (long overdue) can be easily achieved through the\n\nResource Management Act, for example. However, the Climate Change Commission should be taking the wide view on all forms of\nadaptation, not just zero carbon emissions, otherwise perverse and unintended outcomes will likely be the result. Ideally, the Climate\n\nChange Commission should therefore be created through separate legislation to the Zero Carbon Bill, as the functions of the CCC go\nwell beyond emissions budgets and monitoring."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But as noted above, having these new (and essential) functions created by a Zero Carbon Bill is bad legislation because targeting\n\nzero emissions is only one way (and a contestable one) of responding to climate change. The Climate Change Commission therefore\nneeds its own Act, and other forms of adaptation may also require their own legislation if existing Acts such as the RMA are not\nsufficient."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Publicly-listed companies are already required to report on their risks, but this is not always done well, so any legislative response\n\nshould be targeting all risks, not just climate change-related ones."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "There are real risks around unintended consequences from this type of legislation, and also from other responses to climate change.\n\nFor example, an immediate 60% reduction in GHGs emitted through the production of industrial heat in the South Island could be\nachieved if gas supplies were found in the South Island to replace coal, but inexplicably, that option has been taken away by\n\npreventing future exploration for gas. NZ's electricity network is still reliant on burning coal on cold frosty still winter's nights when\nneither solar nor wind can produce power, and our hydro-generation capacity cannot carry the entire network load. This situation has\n\nat least in part developed because of the Resource Management Act, because no large-scale hydro dams have been consented\nsince the RMA came into effect - a classic example of intended consequences, as the RMA was in theory designed to protect our\nenvironment, but has in practice led to a continuation of coal being burnt to generate electricity. The most likely scenario from the\n\nZero Carbon bill seems to be that households will have to bear the high capital cost of storage batteries in their homes in order to\nhave a reliable electricity supply, the total capital cost of which will be much higher than the alternative form of storage (lakes behind\n\nlarge dams). That is why it is absolutely essential that the proposed Climate Change Commission has a wide-ranging brief across all\nforms of adaptation so that perverse outcomes do not occur."
+    }
+  ]
+}

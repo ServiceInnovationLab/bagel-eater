@@ -1,0 +1,19 @@
+{
+  "reference_number": "9897",
+  "clauses": [
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    }
+  ]
+}

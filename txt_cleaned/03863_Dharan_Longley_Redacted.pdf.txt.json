@@ -1,0 +1,124 @@
+{
+  "reference_number": "3863",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "This is a matter of urgency and cannot wait for some drawn out political process. We need firm decisive action by government\n immediately if we are to mitigate the already unstoppable changes to our future climate and way of life."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The legislation must be watertight and cover all gasses and pollutants, and have sufficient \"teeth\" to be regulated and enforced,\n\n otherwise in a free-market economy it will be watered down by corporate interests who will plead for time to adjust."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Carbon credits are \"greenwash\". They simply provide rich corporations ands first world nations a way to pollute and buy their way out\n of it. We must act as and be an example for what must happen globally."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Again, a 'Yes' would only allow a compromise in following firm regulations. I say we should be aiming for sooner than 2050, like 2040.\n\n We need a paradigm shift in the way we humans understand our fragile world and how live on this one habitable planet."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "However it must be an apolitical budgeting strategy. That is, agreed by all major parties, and not subject to the whims of election\n cycles. Emission reduction at very low levels must be enshrined in a constitution, and not deflected by economic opinions from\n\n shortsighted groups of any sort about what's good for the economy. When the rising seas lap at the foot of the Beehive, then who will\n be deciding its time to act? We need a far-looking view of how to live in harmony with nature right now, not continue to treat the\n\n planet and NZ as an economic commodity to be abused for profit."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "Being a complex equation, I'm not sure which of the two 'Yes' options is best, however I reiterate my opinion in item 5. The intent to\n achieve Zero Emissions MUST be committed to by all parties, irrespective of who is in government."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Again, only if their intent is to achieve Zero Emissions, irrespective of who is in government."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "However the 'economic' and 'fiscal' considerations must be secondary to the primary goal of protecting our planet and our people. No\namount of monetary saving will be acceptable when our coastline and cities are flooded, and all commerce is negatively affected. The\ncost of building seawalls and dykes to protect our cities and towns, or relocating them on higher ground, would simply bankrupt us."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Of course. Otherwise its an academic exercise. If you knew what was coming, as predicted by the science, the government would be\nsounding the alarm now, not just planning for a future we all 'hope' wont be disastrous."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Every government department and agency needs to be involved, because everyone at every levels of society will be affected. We\n\nmust also work more strongly internationally to strengthen coalitions to commit to serious reductions in atmospheric and water\nbased pollutants. NZ's voice must be loud and clear internationally on this issue."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "As said earlier, the CCC must have oversight of the government's work on emissions reduction, and hold them to account."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "Both actually. The Commission must be given a mandate to advise government, and require them to meet targets."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Absolutely. All sectors of society must be represented."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It has to be flexible to adapt to changing circumstances, without bending from a zero emissions target."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Of course. Transparency must apply to all so we can act on the best information available."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Bill's title should be changed to read: The Xero Emissions Bill because it must apply to all greenhouse gases not just carbon.\n\nThe utmost urgency must be applied to setting up the Climate Change Commission. The changes set in motion by decades of global\npolluting cannot be stopped by a few political decisions, hoping the problem will go away. We will all be affected for generations to\n\ncome. The actions taken now can only mitigate these effects. However without serious action now, life on Earth will be far worse.\nShow strength, vision and integrity in leading the way. Kia kaha."
+    }
+  ]
+}

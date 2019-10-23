@@ -1,0 +1,89 @@
+{
+  "reference_number": "13148",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "We need to be a world leader in emissions reductions, in keeping with our \"clean green NZ\" image. Even though we are a small\n nation, every little bit helps and other nations will follow suit once enough countries plan and achieve radical change."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Using international carbon units is cheating, it is using someone else's hard work and claiming it as our own. Each country meeting\n emissions targets on their own should achieve a greater reduction in total global emissions."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The bill should allow for greater reductions, but it should not allow for reduction targets to decrease."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes; it would help break down the target into more manageable chunks."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "As for Question 4. We are all human. If we have a flexible deadline, we will not aim to meet it. A student who knows they can get an\n\n extension on their assignment will struggle to complete it on time!"
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adapting to existing climate change needs to go hand in hand with preventing further climate change. Eg new home design needs to\nencompass low emissions principles (low energy inputs, low emissions output) & planting more trees in domestic neighbourhoods,\n\nas well as adapting to existing change (building codes that provide resilience to natural disasters & provide protection from extreme\nweather events)."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Transparency is useful, we can learn from each other."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Targets around planting trees should also take into account trees felled, and consider limiting the felling of trees. The previous\nblanket protection of trees in urban areas of Auckland under the Resource Management Act resulted in a significant increase in the\n\nnumber of trees in the suburbs. In addition, policies encouraging the planting of fruit trees in local environments could reduce food\nmiles as well as foster community."
+    }
+  ]
+}

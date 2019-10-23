@@ -1,0 +1,124 @@
+{
+  "reference_number": "9719",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Zero carbon by 2050 is too late, the time frame should be “by 2040”. Evidence is growing that 2 degrees of warming is untenable so\n we must act quickly to limit warming to no more than 1.5 degrees."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The time frame should be “by 2040”, rather than 2050. It is essential that we differentiate between short-lived and long-lived gases.\n We also need to differentiate between biological methane emissions and the fugitive emissions of fossil methane from oil production.\n\n Reducing short-lived gases, specifically methane and nitrous oxide from agriculture, should begin by 2020 while research is\n undertaken to determine if there is a sustainable level. Until that is known the target should be net zero for all greenhouse gases by\n\n 2040."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I do not support the purchase of credits from overseas as this is susceptible to misuse, as has been seen in the past decade."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I believe the target should only be allowed to be brought forward, if circumstances require or permit. The situation is too dire to allow\n the possibility of delay."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The bill should require that budgets are binding on the government."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "This should be permitted only to make the target more ambitious. To allow budgets to be altered due to economic circumstances\n may lead to backsliding on an issue that requires the utmost urgency."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "This should be permitted only to make the target more ambitious. We are facing an existential threat rivalled only by nuclear war, no\neconomic circumstances are exceptional enough to require relaxing a target."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Budgets must be set with the target of net zero emissions by 2040 fully in mind and economic considerations must not be used to\ndelay action now to the extent that unrealistic action is required further down the track. Drastic changes to how our economy\n\nfunctions will be required. Emissions reductions must take priority over economic growth as the two are almost certainly\nincompatible."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "There should be no possibility of delaying action."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "All strata of society should be considered as well as future generations so that all changes are fair and equitable. Drastic changes to\nhow our economy functions will be required. Emissions reductions must take priority over economic growth as the two are almost\n\ncertainly incompatible."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A balance needs to be struck between a body that commands respect from the government, but does not constrain its decision\nmaking ability so much that the government legislates it out of existence. People with great mana must be recruited for the\n\nCommission to ensure it can endure political challenges."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "I prefer a carbon tax to the ETS, but if the ETS remains the Commission should advise the government on policy settings for the ETS."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "People with great mana must be recruited for the Commission to ensure it can endure political challenges."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I am concerned that the government will do nothing while the Commission deliberates. There should be strict and urgent time frames\n\nfor all stages of the process and very limited opportunity for achieving very little."
+    }
+  ]
+}

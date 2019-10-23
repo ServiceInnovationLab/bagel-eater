@@ -1,0 +1,117 @@
+{
+  "reference_number": "913",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "We need to include all emissions, because New Zealand’s ability to deal with all gases in a timely manner is still unknown. An example\n\n would be if average global temperatures rapidly increase faster than expected then there will be a call to mitigate emissions faster\n than is currently being asked for. It would therefore be better for NZ to be at the forefront rather than struggling to catch up, which is\n likely to result in greater economic stress."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "We need to have flexibility and multi options to reducing and offsetting emissions as this will make it easier for NZ’s economy to\n adjust."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need to have flexibility and multi options to reducing and offsetting emissions as this will make it easier for NZ’s economy to\n\n adjust."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need to have flexibility and multi options to reducing and offsetting emissions as this will make it easier for NZ’s economy to\n adjust."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "We need to have flexibility and multi options to reducing and offsetting emissions as this will make it easier for NZ’s economy to\n adjust. We have no way of knowing today that what is put into the third budget needs to be adjusted before it becomes operable. It is\n highly likely that in the ensuing period there is demand for tighter regulation and targets, especially given the number of unknowns\n\n with climate change issues."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need to have flexibility and multi options to reducing and offsetting emissions as this will make it easier for NZ’s economy to\nadjust. We have no way of knowing today that what is put into the budget that need to be adjusted before it becomes operable. It is\nhighly likely that in the ensuing period there is demand for tighter regulation and targets, especially given the number of unknowns\n\nwith climate change issues."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need to have flexibility as it is highly likely that in ensuing years there will be demand for changes to regulation and targets,\nespecially given the number of unknowns with climate change issues."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "GDP may not be the best economic measure to indicate how the NZ economy might be impacted by various actions to meet\n\nemission targets. An example, might be a shift from undesirable to desirable landuse activities, which might increase GDP due to new\nplant, equipment and services being purchased. Instead, it might be worth understanding the natural capital (economic value),\n\nassociated with various forms of land use. Natural capital covers natural resources that form an asset class comparable to man-made\nphysical and financial assets, and less tangible assets of human capital and social (and/or institutional) capital. It is primarily a stock\n\nmeasure, but it generates flows of goods and services of use to people and it both supplies current consumption and can be\ndegraded by it https://treasury.govt.nz/publications/dp/start-conversation-value-new-zealands-natural-capital-dp-18-03 By measuring\nand monitoring changes in natural capital, over time, it could provide a better understanding of how shifts in land use are having an\n\nimpact on the NZ economy. If GDP is flat or has risen minimally over time, then the state of natural capital over the same period may\nshow a different and more accurate story of how the economy is shifting in response to climate mitigation measures."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The commission would be the best agency to do this with the assistance of technical experts."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "A joint approach is ideal as this will provide greatest flexibility given the degree of uncertainty faced and changes potentially required\n\nfor mitigation of GHGs."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "For it to achieve its intended aims the commission needs a wide range of technical experts, sourced nationally and internationally."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is essential, as actions to adapt to climate change need to take into effect what is in the zero carbon bill."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Sharing information is critical as it enables organisation to learn from each other and subsequently adapt their activities more rapidly\nwithout all having to undertake costly research development investigations.\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

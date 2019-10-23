@@ -1,0 +1,124 @@
+{
+  "reference_number": "11485",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "The Government should set a flexible target based on the best science now (i.e. Zero Net Carbon by 2050) but that target can be\n\n made more stringent if new science or events dictate but not less stringent."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Domestic should include embodied carbon, both the aviation and shipping industries and the future of the tourism industry. This\n should not preclude assistance for developing nations in achieving their emissions goals. Planting native forests should take\n precedence over short term plantation forests for achieving net anthropogenic emissions objectives."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Only if a more stringent limit or shorter timeframe is identified as necessary by the Climate Commission and receives Parliamentary\n\n approval."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "No, the third budget should only be revised in exceptional circumstances on the recommendation of the Climate Commission and\n with the approval of Parliament but not at the whim of an incoming government."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Only on the recommendation of the Climate Commission and with the approval of Parliament, but not at the whim of an incoming\ngovernment."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I recommend adding four new objectives, altering one and setting an order of priority as shown: i) (New) the need to preserve healthy\n\necosystem function for life supporting capacity, biodiversity and to provide ecosystem services. ii) (New) the need for NZ to play its\ngenuine and just part in the international effort to stabilise the climate and to maximise the probability of successfully complying with\n\nthe target limit for the wellbeing of future generations iii) (New) the need for precaution, given the level of uncertainty attached to\nestimates affecting the rate of GHG emissions and climate change iv) (New) the likelihood and the potential impact on climate change\nof any scarcity of material resources on the economy and GHG emissions, particularly that of fossil energy v) the three Government\n\nobjectives for climate change policy: sustainable economy, global and local leadership and creating a just and inclusive society vi) the\nGovernment’s obligations under the Treaty of Waitangi vii) social circumstances and, in particular, the likely impact of the decision on\n\nfuel poverty viii) (altered) scientific knowledge about climate change and its limitations ix) technology relevant to climate change x)\nenergy policy and, in particular, the likely impact of the decision on energy supplies and the carbon and energy intensity of the\n\neconomy xi) fiscal circumstances and, in particular, the likely impact of the decision on taxation, public spending and public borrowing\nxii) economic circumstances and, in particular, the likely impact of the decision on the economy and the competitiveness of particular\n\nsectors of the economy."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "1. a highly precautionary budget that makes highest rates of emissions decline in the first years and does not rely on overly complex\ntechnology or technical breakthroughs to achieve it 2. clear process and timelines 3. Consider uncertainty in our present knowledge\n\nof climate change,"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I also suggest the following additional types of expertise: Values and ethics Climate modelling Environmental economics Transition\n\nengineering Energy Public Health and communication"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It should focus primarily on mitigation, but must also include adaptation."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I support preparation of a national climate risk assessment, a national policy plan to address those risks identified, and a monitoring\n\nand reporting framework"
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I recommend that the Climate Change Commission's purpose and aims also include concepts of : - improving the overall well-being of\nall New Zealanders - having regard to a wide range of communities of interest and population groups in New Zealand society - the\n\nneed to live within the material and energy limits of Earth’s environmental systems essential for human and other life, and - the need\nto integrate climate transition, adaptation and mitigation requirements with responses to other risks we face"
+    }
+  ]
+}

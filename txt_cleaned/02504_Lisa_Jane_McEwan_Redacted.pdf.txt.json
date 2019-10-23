@@ -1,0 +1,124 @@
+{
+  "reference_number": "2504",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Exception: Only to bring it forward as a matter of urgency e.g. Zero carbon emissions by 2040."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "While I accept that every decision is based on certain considerations, I feel strongly that it would be wrong to base climate legislation\n\non \"the likely impact of the decision on the economy and the competitiveness of particular sectors of the economy\". Climate change\naction will, undoubtedly, carry economic cost, and will certainly impact certain sectors more than others. The same could be said for\n\nglobal trade. It impacts on some workers (e.g. garment workers) and not others (e.g. construction workers) - yet we continue with\ntrade and expect industries to adjust, and individuals to find other careers if necessary. If we were to exempt certain sectors from\ntheir emissions responsibility, we would simply be engaging in a global race to the bottom. For example, if we allow a certain sector to\n\nkeep emitting to remain competitive with the same sector in another country, then we are effectively adopting the emissions policy of\nthat nation. We need to lead, not follow, and the planet can't wait for us to take time over this."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "We need to support farmers in making a transition away from animal agriculture. Beef, dairy and sheep farming is currently\n\nresponsible for 44.4% of NZ's greenhouse gas emissions, or 35% of NZ's methane emissions (NZ Greenhouse Gas Inventory 1990-\n2016, 2018). Methane is a serious concern, with a global warming factor 25 times higher than CO2 (Intergovernmental Panel on\n\nClimate Change, 2006). However, there are growing markets for plant-based foods, and New Zealand is well placed to diversify into a\nvariety of horticultural crops to meet this growing demand. Our wine industry is relatively recent in terms of New Zealand's trading\n\nhistory, and yet we have secured our position amongst the world's best. We can do the same with plant-based food crops and\nforestry."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "1). I am fully in support of a transition away from individual vehicles, particularly in cities, but this must be supported by a significant\ninvestment in public transport infrastructure. 2) For decades we have heard for about the need to exempt farmers (animal agriculture)\n\nfrom emission trading schemes. New Zealand prides itself on being innovative. The number-8-wire response to climate change and\nemission reductions will not be had through the development of vaccines that inhibit ruminant methane emissions. It will be through\n\ndeveloping clean alternatives to meat, wool and dairy. The movement away from the consumption of animal products and the\nadoption of plant-based diets and textiles, is the biggest social shift of our time. Innovators have responded to this - lab grown meat\nhas already been developed. Lab grown dairy products will likely follow. New Zealand can innovate to meet new market demands, and\n\ncould be a world leader in the organic sector (which might also make our 100% Pure brand more honest, unlike the uncomfortable\nmisrepresentation that it is today). We can do this. We MUST do this."
+    }
+  ]
+}

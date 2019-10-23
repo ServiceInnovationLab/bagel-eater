@@ -1,0 +1,110 @@
+{
+  "reference_number": "9500",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I do not support carbon trade off-setting. It enables countries like NZ to ignore the need for major changes in our economy and the\n consequences of not making brave and critical decisions that are seen as unpalatable politically."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Unless it is to strengthen them"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "Unless it’s demonstarted to be insufficient to manage the challenge. All legislation around CC policies must be non-partisan."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "As above"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Strongly agree"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Incentivising EV ownership. For example no licensing or parking fees on these vehicles. Banning desiel and fossil fuel public\ntransport, and home heating. Impose congestion charges to nonEV vehicle in our cities. Incentivise park and bus schemes (free\n\nbuses inner city with parking places developed on the outskirts of cities) Making grants available to every one to install double glazing\nand ban all fires domestically and industrial. Move towards subsidies on electricity to make it easier for all NZ to have central heating.\n\nBan all plastic wrapping including milk bottles. Incentivise Farmers to diverse. Refuse further dairy farm extensions. Promote an\nenvironment that supports reducing individuals Green house foot print. Increase general taxation to assist with changes. Refuse\nbuilding on green field sites and floodplain. Maintain stick controls on our National Parks and forests."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I do not support trading schemes. I do agree there needs to be an independent agency in NZ to inform Governmnet. I think it should\nbe able to make decision but if that’s not acceptable then the UK model is the next best option."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "And lay people"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I do not agree with tree planting as an off-setting mechanism. We face catastrophic consequences NOW and trees take decades to\ngrow. We need to reduce our use and our population. We need brave Governments who will stand up to greed, who will rise taxes\nand help up manage the appalling situation we have created for our kids."
+    }
+  ]
+}

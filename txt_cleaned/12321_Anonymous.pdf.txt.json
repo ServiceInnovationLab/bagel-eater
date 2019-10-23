@@ -1,0 +1,124 @@
+{
+  "reference_number": "12321",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Also: the option to adjust the target to be more ambitious in response to the advice of the Climate Change Commission. But NOT an\n option to weaken the target."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The second draft of the IPCC Special Report on Global Warming of 1.5°C finds substantial differences in the harmful effects of global\n\n warming limited to 1.5°C compared to 2°C above pre-industrial levels – where the 0.5°C warming difference is critical for vulnerable\n regions. Limiting global warming to 1.5°C sensibly will require global anthropogenic CO2 emissions to reach net-zero by 2040,\n\n together with rapid reductions in other emissions, particularly methane. With this in mind, net zero emissions by 2040 should be New\n Zealand's target."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "International emissions units will be volatile in price – and relying on these undermines decisive domestic investment here in NZ.\n Relying on international tradeable emissions units means NZ misses out on opportunities for wellbeing and equity co-benefits of\n\n reducing our domestic emissions. This means delaying the real changes for later, when they may be poorly planned and rapidly\n executed, with fewer co-benefits and greater likelihood for negative unintended consequences than well thought out plans starting\n now. Reforestation, horticultural planting and improved soil health (which will absorb some of New Zealand’s carbon dioxide\n\n emissions), can be part of meeting our domestic net zero emissions target. But our main focus must be rapidly reducing NZ’s\n greenhouse gas emissions – all gases, all sectors. NZ (businesses, iwi, communities, whānau, households, and all sectors) needs\n\n certainty to act decisively now."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The target should only be altered to increase climate action ambition in response to updated scientific recommendations. There\n must be no backsliding (i.e. weakening of the target)."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Three 5-6 year emissions budgets covering the next 18 years, with our “legislated net zero emissions by 2040 target”, gives the\n certainty needed for action and investment now. Given the urgent need for global emissions to peak by 2020, the Act could also\n\n include the requirement for the Commission to urgently set an initial 2-year Emissions Budget. This 2-year Budget would fit within the\n first 5-6 year Emissions Budget."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The last budget should be able to be reduced if needed to respond to emerging international evidence. The Zero Carbon Act should\n\nalso permit any Government to act so NZ can emit less than budgeted. However, emissions budgets cannot be increased."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The second budget should be able to be reduced if needed to respond to emerging international evidence. The Zero Carbon Act\nshould also permit any Government to act so NZ can emit less than budgeted."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The physics of climate change comes first for setting Emissions Budgets – the bottom line is what ends up in our shared global\n\natmosphere and oceans, and making sure ecological tipping points are not breached. As the impacts of unmitigated climate change\nwill be highly regressive on New Zealanders the priority must be robust emissions budgets. The Climate Commission’s Emissions\n\nBudgets must be consistent with the best possible chance of limiting global warming to 1.5°C degrees and the greater responsibility\nof well-resourced nations like NZ, with Budget considerations limited to: Scientific knowledge about climate change, sea level rise\nand ocean acidification Obligations under Te Tiriti o Waitangi Global leadership, including international equity The Commission then\n\nadvises the Government on mitigation policies (including Emissions Trading Scheme (ETS) settings) for the Government plans to\nkeep NZ’s future emissions within the Commission’s budgets. Te Tiriti O Waitangi obligations and fairness within New Zealand are top\n\npriorities for policy and planning. Other considerations include substantial health co-benefits and technology relevant to climate\nchange – in ensuring a fairer, just, sustainable Aotearoa-NZ."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Zero Carbon Act must require the Government to respond by publishing plans to stay within budget as rapidly as feasible, within\na set time limit that is certainly less than 12 months."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Other considerations include sustainable economic opportunities and technology relevant to climate change, to grow a fairer, just,\n\nsustainable Aotearoa-NZ. The Government must work in Te Tiriti partnership, and with NZ’s most vulnerable communities (those\nalready disadvantaged and those working in high-emissions industries), to create a hopeful, fairer future."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - but the Commission should also set the Carbon Budgets. This is would ensure that our targets are based directly on the\nexpertise of the Commission."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The Commission should advise the Government on ETS policy settings so that New Zealand emits within budget."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think that the \"high level of standing in society\" condition should be dispensed with. The term is vague and could be interpreted in\n\nmultiple ways. If individuals are experts in their field to a sufficient extent their \"level of standing in society\" should not matter."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adaptation must be a separate advisory work stream, to avoid overtaking the Commission’s top priority climate mitigation role"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree with the proposed functions below, but recognise that nuance is required in terms of how local councils are involved: • a\n\nnational climate change risk assessment • a national adaptation plan • regular review of progress towards implementing the national\nadaptation plan • an adaptation reporting power"
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "There is so much to love about the world we live in. Climate change represents an existential threat to that - in the face of what we\n\nstand to lose by failing to act decisively against climate change, other considerations seem small. With this in mind, I believe the right\ncourse of action is to be prepared to make significant compromises to short term gains if it means safeguarding our world for those\n\nwho will inherit it.\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

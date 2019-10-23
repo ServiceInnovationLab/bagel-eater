@@ -1,0 +1,82 @@
+{
+  "reference_number": "12439",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Methane makes up such a huge portion of our emissions as a nation. It makes no sense to avoid regulating it; if we do not drastically\n reduce methane emissions we will not be able to meet our international climate change obligations. The fact that methane is a short-\n lived gas should not exempt it from regulation, because it is in the short term that we face great climatic danger."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The Bill should allow the target to be made more ambitious, but not allow the target to be made less ambitious."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Commissioners must have no conflicts of interest."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Primary producers are already suffering financially from climate change. We need to begin increasing resilience on farms immediately.\n\nThere are numerous on-farm practices that can help farmers better cope with drought, for example. The government needs to\nactively promote these strategies."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "New Zealand has the opportunity to lead the world in climate-friendly agriculture, but this requires bold thinking. All agricultural\n\nemissions must be considered if we are to make a meaningful contribution to combatting climate change. However, we also need to\ngive farmers the opportunity to earn carbon credits by sequestering carbon in soils. The potential carbon sink in our soils is massive.\nMore research may be needed in order to design a scheme that works for NZ, however overseas countries are already looking into\n\nthis. This report from the Rodale Institute details the potential carbon sequestration power of regenerative agricultural practices:\nhttp://rodaleinstitute.org/regenerative-organic-agriculture-and-climate-change/\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

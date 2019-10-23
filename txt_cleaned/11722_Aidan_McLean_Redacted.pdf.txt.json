@@ -1,0 +1,124 @@
+{
+  "reference_number": "11722",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "It is vital to set a clear and ambitious emissions reduction target now, this should drive sector wide adjustments towards a low\n emissions economy. Not setting a target now continues a precedent of kicking the stone down the road and not getting started on a\n\n path to mitigating climate change."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "I support the stabilization of short-lived gasses by 2050 to allow for a longer adjustment period for the primary sector. However I\n\n believe that there should be more strict and heavily monitored time frames and interim targets set to achieve this so that the sector\n does not lag in innovation and investments in emissions reductions. I believe that the Climate Commission should advise on a target\n beyond 2050 for net zero Methane."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "My position is that international carbon trading markets should only be accessible to sectors provided that certain criteria are met for\n domestic reductions. I believe that the Climate Commission should advise on setting up progress indicators for the various sectors. If\n reductions in emissions are lagging on set goals and time frames, international carbon markets (which have been vetted extensively)\n\n should become accessible to 'pick up the slack' only if progress indicators have been met prior."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The target should be robust. The time frame (~30 years) is sufficiently long enough to insulate against significant global events and\n allow for the appropriate domestic changes to occur."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "With this set up, if governments intend to change the third emissions budget they will need to be thinking in terms of a 10 year\n\n outlook when they do this. This maintains a long-term outlook focus which is in line with the long-term outlook of the bill."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "However, this should be rare to the point it may not ever happen. The circumstances should be extreme to trigger a governments\n\nneed and ability to do this. Such as major domestic natural disaster (ie Alpine Fault earthquake, or major losses to a major city) or a\nmajor economic collapse (ie 2008). The bill's wording around this circumstance should be very clear."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Each successive government should be held accountable to the requirements of the bill. Governments need to demonstrate\n\nprogress towards the overall emissions target of net zero and the 5 year budgets."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "National environmental health / overall state of environment, growth of national GDP and household incomes, indicators on national\nhappiness, progress in innovations towards emissions reductions. The costs of future climate change and the costs of the last 5\nyears of climate change. The govt should work with Iwi, industry bodies, environmental NGOs and international regulators like the UN\n\nand the world bank when looking to set plans."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "An advisory commission based on the UK model would be suitable/necessary to guide the national response to climate change."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Should be advisory with mechanisms to hold governments to account on their requirements to the bill."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A separate body within the climate commission based on the UK model should be set up to advise on adaptation measures in order\n\nto standardize adaptation approaches and measures in different sectors."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Overall I am submitting in support of the proposed bill, New Zealand needs a clear and ambitious emissions reduction target, with a\n\nrobust framework and advisory body with staying power to achieve this target."
+    }
+  ]
+}

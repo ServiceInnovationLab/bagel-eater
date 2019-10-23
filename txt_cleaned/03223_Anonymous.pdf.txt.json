@@ -1,0 +1,110 @@
+{
+  "reference_number": "3223",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "It needs provide certainty to everyone (including businesses wanting to invest in emission reduction technologies). It should be hard\n to change and be able withstand short term changes in political environment or as a knee jerk reaction to external factors."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "My least preferred option is limiting the target to Net Zero Carbon Dioxide only. Even without the need to mitigate climate change,\n\n export market preferences and externally driven technological advances (eg plant-based and lab-grown proteins) have the potential\n to significantly change our land use over the next few decades. This reinforces the need for NZ to prepare for, be ready to adapt to\n\n changes in land use. In other words even if we choose a lesser emissions reduction target its likely our land use will still significantly\n change. In my view we'll be better placed in the long run to factor in low emission land uses into this. NZ's land use has not been\n static over time (eg at a localised level the shift from farming to vineyards in Hawkes Bay, and the change in Havelock North away from\n\n apple orchards to increased urbanisation, and at a national level reduced sheep farming and increased dairying."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "I think it will be necessary to include high quality ICUs in the mix, but this should be done in a manner which doesn't undermine the\n drive to reduce domestic emissions (i.e. the ability to use these, or the extent they can be relied on should be capped and/or\n reduced over time). The criteria on pg 33 of the consultation document make sense to be adopted. Need also to improve\n\n environmental management and oversight of forestry operations, particularly in high risk catchments (such as Gisborne,\n Nelson/Marlborough). The public need to have confidence in the shift to substantially increasing forest plantings isn't going to be\n\n detrimental to the environment overall, or come with its own costs for infrastructure repair and remediation costs falling on LG and\n ratepayers)."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I'd prefer to say maybe. If the ability to allow change is agreed to, it should only allow it under very limited circumstances. It must not\n undermine certainty the business community needs."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adaptation needs more direction from central government and greater coordination across different levels of government."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Any reporting function should be set up in a way which is simple and cost effective - needs to be minimal costs imposed."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Please withhold my name and contact details from publishing on the MfE website or in any summary of submission."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "reference_number": "12557",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "It is worth noting that animal agriculture plays a significant role in Methane production. Emphasising a shift away from farmed animals\n\n to plant based proteins (high quality lentil/pea crops) could play a role in reducing the GROSS emissions from farming overall. Also,\n there is much research to suggest that non-organic farming (even for plant crops) degrades soil when using chemical\n fertilisers:https://grist.org/article/2010-02-23-new-research-synthetic-nitrogen-destroys-soil-carbon-undermines/ Soil degradation\n\n then leads to Carbon loss to the atmosphere (increasing effects from draughts, less soil humus etc) and increases gross carbon\n emission. Without testing the soil OR having effective systems for carbon sequestration, farmers might be only speculating to say\n\n that they are increasing soil carbon - especially in chemically fertilised farms. Some possible solutions to reduce GROSS carbon: tax\n breaks for farmers a) not using chemical fertilisers, b) shifting from animal farming to plant crops like industrial hemp, lentils which\n feed the public the same and remove carbon from the atmosphere For NET carbon: systems like MyNoke compost application to\n\n farms can bring carbon back to the farm and reduce overall soil/carbon loss. Tax breaks could be given for farmers apply carbon with\n their field applications in both animal and plant farms where diesel/fossil fuel machinery emits carbon. Bear in mind that emissions\n should be calculated to prove carbon application is reducing their overall carbon footprint. ___ Aside from farms: other large scale\n\n industry needs to play its part also. Full large taxes on coal burners for Fonterra/hospitals may create incentive to choose\n electric/biodiesel burners. Putting the burden all on the individual (farmer or public) as the USA does will not bring down emissions\n\n enough - Large cooperations MUST be a part of the solution and reduce the GROSS emissions."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Ensure that those involved in high emission sectors (farms/production/transport) have options to transition to which allow them\n\n retain their foothold in the industry. E.g farmers should be aware that non-animal farms can produce MORE output with LESS\n emissions. For forestry: that hemp can absorb carbon 4 TIMES AS FAST as traditional pine trees (great right!)\n http://www.aph.gov.au/DocumentStore.ashx?id=ae6e9b56-1d34-4ed3-9851-2b3bf0b6eb4f If we put caps on straight away, those\n\n industries may loss their global edge and reduce NZ's capacity to export great crops/products."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "You have elected to withhold your personal details from publication."
+    }
+  ]
+}

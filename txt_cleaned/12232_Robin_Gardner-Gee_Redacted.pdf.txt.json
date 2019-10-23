@@ -1,0 +1,124 @@
+{
+  "reference_number": "12232",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "What I want to see is an ambitious, legally binding, long-term target in the Zero Carbon Act. I believe that setting a target in legislation\n\n now will promote political accountability, clarity, and long-term certainty."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "I support the net zero target and want to see a clear focus on gross emission reductions in New Zealand (rather than relying on\n offsets or purchasing emissions reductions from overseas to achieve a net zero result). However, given New Zealand's unique\n\n emission profile, it is important that we act strategically and recognize the difference between short-lived and long-lived gases. I\n agree with the Generation Zero proposal that we should aim to achieve NEGATIVE long-lived emissions by 2050 (by reducing\n emissions and absorbing more carbon through forestry than we are emitting) AND ALSO significantly reducing short-lived gases to a\n\n level consistent with the 1.5°C goal in the Paris Agreement. Importantly, these two approaches would balance out to net zero across\n all gases."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "New Zealand should not be using international carbon credits to off set local emissions. Using international carbon credits does not\n reduce our emissions at source at home. It does not facilitate New Zealand businesses to seek low carbon ways of doing things."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The 2050 target should only be revised following a significant change in scientific knowledge or international law (such as the Paris\n Agreement becoming more ambitious). Any revision should require input from the Climate Change Commission and approval by\n Parliament."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Legally-binding emission budgets, set 10-15 years in advance so that 3 budgets are in effect at all times, at a level recommended by\n the Climate Change Commission and approved by Parliament, are a cornerstone of the Zero Carbon Act. This long-term signalling is\n\n essential to provide clarity for businesses transitioning to low-carbon frameworks."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "Allowing an incoming government to change the budgets will introduce too much uncertainty."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Under exceptional extreme circumstances, revisions may be necessary, but any revision should require input from the Climate\nChange Commission and approval by Parliament. However, the ability to revise the 2050 target in light of major changes in scientific\n\nunderstanding or international agreements should be permitted."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A holistic approach for the New Zealand situation is important, including consideration of Treaty of Waitangi obligations and the need\nfor the transition to a low-carbon economy to be environmentally sustainable. I think the Commission should consider the\ngovernment objectives for climate change policy: a sustainable economy, global and local leadership and creating a just and inclusive\n\nsociety."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Government should be required to set out its policy plans within 6 months of an emission budget being set."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government must honour the Treaty of Waitangi in this act. Fairness is also critical: we need to take particular care of vulnerable\n\ncommunities (eg Taranaki where workers may lose their livelihoods) and consideration needs to be given to intergenerational equity\n(e.g. young adults are already facing exorbitant house prices and student loans and should not be unfairly burdened with costs\n\nassociated with transitioning to a low carbon economy). The Government also needs to consider wider environmental sustainability\n(e.g. clean rivers) when making the plans to meet the emissions budgets."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes - the Commission should not be a decision-making body. However, the Government should be legally required to consider and\n\nformally respond to the Commission’s advice, and to provide an explanation if they do not act on it."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "The Commission should advise the Government on policy settings in the NZ ETS. It should not make decisions itself with respect to\n\nthe number of units available in the NZ ETS, or its implementation."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Adaptation is a necessary part of our response to climate change as we are already experiencing extreme weather events more\nfrequently here in New Zealand. Drought and flooding are more common and sea levels will continue to rise in the short as well as\n\nlonger term."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Thank you for the opportunity to make a submission. I am enormously excited and inspired by this bill as it has the potential to create\n\nthe necessary framework for New Zealand to finally make a meaningful sustained commitment to a low-carbon future. Previous policy\napproaches have failed and current targets are inadequate: the Carbon Action Tracker 2018 report on New Zealand concludes that\n\n\"New Zealand’s Nationally Determined Contribution (NDC) target of a 30% reduction from 2005 levels by 2030 is “Insufficient,”\nmeaning that it is not consistent with holding warming to below 2°C, let alone limiting it to 1.5°C as required under the Paris\n\nAgreement, and is instead consistent with warming between 2°C and 3°C. \" A new approach is essential. The UK's Zero Carbon Act\nhas been very effective in enabling the long term planning that is required to transition to a low carbon economy and I believe that a\nsimilar Zero Carbon Act is New Zealand's best hope to set and reach 2050 targets that are fully compatible with the Paris\n\nAgreement's 1.5°C limit on global warming. At a small scale my household has already taken many steps to reduce our carbon\nfootprint- we have shifted to be near a public transport hub, we have given away our car and only use feet, bikes and public transport\n\nto get around, we support local food producers and grow what we can ourselves in our own neighborhood. We are doing what we\ncan as individuals to make low-carbon living a positive life-choice, but we need much more change at all levels of society. Lets do this!"
+    }
+  ]
+}

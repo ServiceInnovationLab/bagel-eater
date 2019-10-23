@@ -1,0 +1,110 @@
+{
+  "reference_number": "10337",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "2050 is too far into the future. We should be planning for 2020, 2025 and 2030."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Carbon Dioxide - Reducing net carbon dioxide emissions to zero by 2050",
+      "answer_index": 13,
+      "notes": "And setting targets for other greenhouse forcing gases (it's not just about carbon dioxide). There should be methane and particulate\n pollution targets as well, with particulate pollution targets set very low since there are some very negative health outcomes to do with\n\n particulate pollution."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "The new forestry plantings is an accounting trick. How forestry products are used is important too. If forestry waste or trees are\n harvested to be burned then the effects (such as black carbon and methane emissions) must be included in the accounting."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But only to be brought in to sooner. Not allowed to be missed."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But they should be aggressive, and not waste time."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "\"Social implications such as fuel poverty\" is used as an excuse to maintain the status quo of laissez-faire domestic wood burning,\n\n which is something that needs to be banned in residential areas. The externalities forced onto other people and the community\n (each wood burner costs the community thousands each year) are much larger than the supposed benefits of the person burning.\n Full cost accounting would see wood burning banned in residential areas, as well as being banned on health and justice grounds,\n\n and there is a need to rein in wood burning for climate reasons."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "You need to work with the whole community, because everyone in the whole community needs to change. Domestic wood burning\nneeds to be banned."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Climate and environmental science should be the first on the list. Atmospheric physicists and chemists as well. You also need public\n\nhealth expertise for particulate pollution health effects."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "There is a link between domestic wood burning and climate forcing. Here is a summary :\n\nhttps://woodsmokepollution.org/climate.html and here are the source peer reviewed documents -\nhttps://woodsmokepollution.org/references.html#environment-and-climate-references The Chief Scientist should write a report to\n\nsummarise the climate and health effects of wood burning. There is too little knowledge of this area of science at all levels of\ngovernment. Not addressing wood burning on climate change, means any plan would be incomplete."
+    }
+  ]
+}

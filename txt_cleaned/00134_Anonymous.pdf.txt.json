@@ -1,0 +1,124 @@
+{
+  "reference_number": "134",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Eventually with a national emission trading scheme, but an international trading scheme on top of the previous large scale frauds is\n just an easy way to dodge our responsabilities!"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Unless for more ambitous reductions in greenhouse gazes emission."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": "Unless for more ambitous reductions in geen house gazes emissions"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but within those considerations we need to give a priority on the long term effects of global warming. Measures to mitigate our\ndamages on the environment might have negative economical impacts in the short term, but the destruction of our environment (in\n\ngeneral and global warming in particular) will have devastating effects on our economy and on our quality of life in the long term! So\nwe need to take a variety of factors into consideration but we need to give more weight to the hard facts of climate science and long\n\nterm consequences of our actions!"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The most important in setting up the carbon budgets is to look at the long term consequences of todays decision to be able to make\nhard choices when necessary. To be able to do so it is of the utmost importance to keep the public informed about how global\n\nwarming is already affecting our lifes! When it comes to the practical actions to be taken, the government is already working on great\nsolutions and should keep pushing in this direction: -Planting trees is a very simple and extremely efficient way to fight global warming\nwhile improving our environment. -The electrification of transport is definitively an area where we can improve, with the exception of\n\nTesla, most of the electric cars available in New zealand are from the grey market and the choice (plus maintenance infrastructure) is\nvery limited. We could easily force car manufacturers doing business in the country to offer electric models options. We could as well\n\nhelp the acceleration of our electric vehicule fleet adoption by taxing more internal combustion engine cars (ICE cars) and using this\nextra money to fund incentives or tax rebate when buying electric cars. Those taxes could be used as well to improve the charging\n\ninfrastructure. -The energy sector is another very important industry to focus on and to transform. To have 100% renewable electricity\ngeneration by the 2030's is a great goal, but it takes immediate actions to reach it. We need to tranform the vertically integrated\nelectricity generation business into a circular or shared model where the electricity providers will be more an intermediary between\n\nusers/producers than a monopolistic industry. For that we need to set a framework facilitating the access to the energy market for\nprivate entrepreneur to develop wind or solar farms (This could be as well a solution for dairy farmers to use some of their land to\n\nproduce green electricity enabling them to compensate for smaller herds). To make this possible we need to make the grid smarter\nand develop some storage facilities (like the South Australian giant Tesla battery system). This tranformation is the priority as the\n\ndevelopment of electric cars will raise the electricity demand and we need to make sure that there's enough green electricity\navailable. Another important step in the energy sector is the transformation of the oil industry, as it is clear that we need urgently to\n\nstop extracting fossile fuel, the natural progression for this industry is in the installation and management of off-shore wind farms as\nthey have all the expertise needed to work on large off-shore infrastructure. They need to be firmly steered in this direction or simply\nto disapear! -When it comes to buildings, the government plans about insulation and electrical heating system are very promising,\n\nbut we can go even further like in California where a new law is forcing every new houses in the state to be fitted with solar pannels, it\nis such a no brainer as not only it is the right thing to do but as well it pays for itself overtime and once repaid starts saving the\n\nowners money! -The last industry to focus on is both the most important and the most challenging, the agriculture industry, we need\nto keep pushing for better practices, and reduce the number of cows while enabling farmers to keep making a living. To achieve that,\n\nbesides best practices, we need to start tranforming milk into higher value products like butter or cheese instead of exporting it as a\ncheap commodity to be able to pay more money for quality milk. But as well dairy farmers could use some of their land to plant trees\nor host solar farms to enable them to reduce their herd sizes without loosing revenues."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "International emission trading scheme in the past have proved to be full of frauds and an easy way for rich countries/industries to\navoid their responsabilities in reducing their emissions. For the government to tax directly the most poluting industries would be a\n\nbetter way to incentivise those industries to become cleaner! If using an emission trading scheme system, it should be confined\nwithin the country so the more poluting industries of New Zealand would finance the country's industries that generate carbon units,\n\nthus creating a virtuous circle."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes but having their expertise in climate science being valued more than their expertise in other areas."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Although climate change is already here, it is easy to turn a blind eye to it and to focus more on day to day issues instead. Forcing the\n\ngovernment to monitor closely the effects of global warming will keep it at the centre of our decision process."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This is very important as it will help to change mentalities by forcing all of our industries to have a critical look at the effects of their\nactions in the context of global warming."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Thank you for the opportunity to participate to this process. As a last word, I hope that although we're a small country in size, we'll be\n\nable on the world stage to lead by exemple which considering the reputation and international exposure of New Zealand can have a\nvery strong snowball effect! PS: I want mo make sure that although you will publish my submission and name on your website, my E-\nmail address will remain private. Thanks\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

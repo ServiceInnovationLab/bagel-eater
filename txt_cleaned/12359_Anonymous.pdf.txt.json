@@ -1,0 +1,117 @@
+{
+  "reference_number": "12359",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "See notes to Q2."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "There is a good case for the legislation to have as its centrepiece a long-term emissions reduction target, and that this target should\n be in the legislation from the date of its enactment. The main purpose of a legislated target is to provide certainty. If the Climate\n\n Change Commission is to advise on the target at a later stage, that certainty is potentially at risk. There are, however, several aspects\n to the target which could benefit from further expert advice from the CCC, namely: • how a target could distinguish between long-\n lived gases and short-lived gases; and • the acceptable level of gross emissions reductions rather than net emissions reductions.\n\n Arguably, either of these questions could form a separate target. It is important, however, that the legislation is supported by political\n consensus. If the long-term target is at risk of immediate repeal from a successive government, it fails in its central purpose to\n\n provide certainty. I submit that: • At a minimum, the Zero Carbon Bill should commit New Zealand to achieving net zero long-lived\n gases by 2050; • The CCC should separately advise on the reductions needed to short-lived gases to a level consistent with keeping\n increase in global temperature below the 1.5°C under the Paris Agreement; and • The CCC should separately advise on the\n\n acceptable level of gross and net emissions. Following advice from the CCC regarding the second and third points, the Zero Carbon\n Act should be updated to reflect the additional long-term targets relating to short-lived gases and"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "New Zealand should meet its targets only through the reduction of domestic emissions. It should not rely on the overseas emissions\n reductions for the following reasons: • as experience has shown, the integrity of international emissions are inherently unreliable; •\n\n the Zero Carbon Act should prompt structural changes within New Zealand’s government, economy and society as quickly as\n possible – there must be impetus to move away from ‘business as usual’."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "The only circumstances in which the 2050 target should be revised is if scientific knowledge or international agreements required\n\n reductions at a greater rate. The Zero Carbon Bill should contain no provision that addresses the prospect that the long-term target\n can be amended."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. The process for setting a budget should be: • the Climate Change Commission(CCC) first advises on the acceptable levels of\n the budget; • the Government must then propose the budget to Parliament, and give written reasons for any departure from the\n CCC’s advice; and • Parliament must accept the budget by affirmative resolution."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Only in exceptional and unforeseen circumstances, such as an extreme natural disaster. Even then, the budget should be subject to\n\nprior advice from the CCC and approval by Parliament in the usual way."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. It is important, however, that these are matters which should only inform the CCC’s advice on budgets. There should be a\npreliminary provision in the Bill which sets out the broader principles on which the legislation rests. See Part 1 of Generation Zero’s\nsubmission for what those principles should be."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government’s policy plans to meet emission budgets should be comprehensive, fair, cost-effective, environmentally sustainable,\nand honour Te Tiriti o Waitangi. For a detailed explanation of these principles, see Generation Zero’s submission Part I: Zero Carbon\nAct framework."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. The CCC should not be a decision-making body. It is unconstitutional to give decision-making functions to an unelected and\n\nunaccountable body. Being a decision-maker could also expose the CCC to criticism and legal challenges which could undermine its\neffectiveness and discharge of other responsibilities. The CCC should NOT have responsibility for developing a climate risk\n\nassessment as proposed in the Discussion Document for the reasons set out on page 40 of Generation Zero’s submission."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Advisory only. See my answer to Q11."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but the CCC should NOT have responsibility for developing a climate risk assessment as proposed in the Discussion Document\n\nfor the reasons set out on page 40 of Generation Zero’s submission."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "You have elected to withhold your personal details from publication."
+    }
+  ]
+}

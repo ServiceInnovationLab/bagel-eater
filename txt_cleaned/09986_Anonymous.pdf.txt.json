@@ -1,0 +1,124 @@
+{
+  "reference_number": "9986",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "net zero by 2050 is a bare minimum to prevent some very serious changes. We need to act now and with careful intent."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Every decade is precious and precarious at this point. We need to aim for fully net zero so that our short-lived gases don't cause too\n much harm in the short term. I also support taking a science-based approach to ensure our efforts to reduce emissions are as\n\n impactful as possible: we should aim for negative levels of long-lived gases, while reducing short-lived gases to sustainable levels.\n This target should be reached by reducing our own emissions and not by using international carbon credits. Setting this strong\n\n target would strengthen our ability to make changes in sectors, such as agriculture, that are in desperate need of change, for\n reasons beoynd climate change. For example, our current land use patterns are very ecologically destructuve in the short to mid-\n term. A strong target on emissions would help push these adpatations along with more momentum."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "We should aim to be self-sufficient at least, carbon negative is not unrealistic. I think this is VERY important. Relying on others to reach\n\n these targets is not sound long-term thinking."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "My yes is contingent on those those revisions being increases & intensification of targets. I do not believe there is any sound reason\n to reduce our targets, unless climate science makes a U-turn some time in the future. Even in the face of natural disaster, such as\n\n the canterbury earthquakes we should not change course in the hopes it will improve our ability to recover/rebuild. Unless we\n recover and redesign in intelligent and well considered ways, our future cities and developments will not be equipped for forseeable\n changes."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "I do not believe there is any sound reason to reduce our targets, unless climate science makes a U-turn some time in the future.\n\n Even in the face of natural disaster, such as the canterbury earthquakes we should not change course in the hopes it will improve\nour ability to recover/rebuild. Unless we recover and redesign in intelligent and well considered ways, our future cities and\n\ndevelopments will not be equipped for forseeable changes."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need guidance and facilitation from national govt in order to have a coheisive and effective response."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "A Zero Carbon Act must be just and fair in that it honours Te Tiriti o Waitangi; ensures a just transition for workers and communities;\n\nand avoids passing on the costs to future generations."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We cannot pretend that climate change might not effect us, even if we make all of the necessary steps to prevent and reduce it. The\nworld is changing and will accelerate into that in the coming years. I support a plan for adaptation being included in the Zero Carbon\n\nAct."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is the most significant piece of legislation I have seen proposed by any nz government in my life time. We need to take this very\n\nseriously and sieze the opportunity to steer NZ on a proactive, constructive and agile path to mitigation and adaptation. Many\naspects of our society, economy and culture need to shift both globally and nationally in order to see future generations thrive. Lets\n\nacknowldge the potential for positive change this legislation brings.\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

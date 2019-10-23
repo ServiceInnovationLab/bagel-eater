@@ -1,0 +1,124 @@
+{
+  "reference_number": "221",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "It is important to set a goal that can only be changed by going through a proper Parliamentary process including a Select Committee\n hearing"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Although methane is characterised as a short lived gas, its half life is still more than a decade and according to many authorities\n\n methane has 25 times the greenhouse effect of carbon dioxide so its effects are substantial. Simply stabilising methane emissions\n won't have the effect we need as a country"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "The history of international carbon units is highly dubious. Most of them are not worth the paper they're printed on. I would rather we\n\n rely on our own efforts and not rely on other countries, systems for the legitimacy of our reductions"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The legislation needs to be very specific about under what circumstances the target can be revised and not just changed political\n circumstances"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes but only under truly exceptional circumstances e.g. and earthquake in Wellington not just because Auckland hasn't got its act\n\ntogether with public transport etc. (for example)"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Mine is a qualified agreement. In the past the economic circumstances argument has been overused to justify not taking a firm\nstance on nitrogen pollution (for example) in our waterways, environmental flows in rivers, not prosecuting farmers who are in\n\ncontravention of their resource consents etc. Economic circumstances cant be used as a convenient reason (excuse) for doing less\nthan is necessary especially when it is used as a way to protect vested interests."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It must have rigorous targets, clear accountabilities, regular reporting mechanisms."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Please take a whole of New Zealand Inc approach. We in Canterbury have seen, with the Canterbury Water Management Strategy, an\napproach that purported to take into account everyone's views and place ecological outcomes to the forefront be undermined by\nlocal zone committees being dominated by local exploitative land and water users to the detriment of other community voices. All\n\nvoices must be given equal validity and not just the most organised and vocal."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I would favour the Climate Change Commission being Advisory with mechanisms to hold the Government to account. I don't support\nit having decision making powers as in a democracy this still needs to lie with Parliament. Its methods and mechanisms for reporting\n\non and holding the Government to account probably require a new creature of Government with the independence of the\nParliamentary Commissioner of the Environment and the specified, independent roles of the Reserve Bank (for example)"
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "The NZ ETS is a very lame duck (sorry ducks) and needs a major overhaul to be even half way effective. To me the question is more\n\nfundamental: what is the best mechanism for achieving a zero carbon future e.g. a comprehensive carbon tax. Without these more\nfundamental questions we as a country wont be able to consider the wealth of international opinion that favours mechanisms like a\ncarbon tax, incentives for renewable energy etc as being more efficient and effective than even a well performing ETS"
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "We need to place a strong emphasis on the views of informed laypeople being represented on the Commission in a way, for example,\n\nthat ethics committees have always done."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Adaptation (along with retreat from the inevitable consequences of the rest of the world not playing ball) should be subject to\n\nseparate mechanisms. Adaptation Plans can be a way of sliding out of the core responsibility of zero greenhouse emissions.\nAdaptation plans (including retreat) are sensibly tackled at a regional level albeit with national policy statement and national financing\n\nwhile a zero greenhouse emissions can only be tackled at the national level"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But see answer to Q14"
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Don't know, don't have a firm view on this"
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Coalition Government should be congratulated for taking this step as it is probably the key issue we will al have to face in the\n\nmedium term."
+    }
+  ]
+}

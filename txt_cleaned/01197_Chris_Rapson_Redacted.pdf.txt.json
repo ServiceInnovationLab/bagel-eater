@@ -1,0 +1,124 @@
+{
+  "reference_number": "1197",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Goals need to be as ambitious and specific as possible. It is all too easy for other topics to take higher priority at times (financial\n crises, earthquakes etc) so we need goals which push us to do as much as we can, when we can."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The world needs to reach net zero emissions ASAP. The global average CO2 concentration is already over 400ppm and rising, up\n\n from pre-industrial levels of 280ppm. https://e360.yale.edu/features/how-the-world-passed-a-carbon-threshold-400ppm-and-why-it-\n matters We have already seen a global average temperature rise of 1-1.5°C. https://www.climatecentral.org/news/world-flirts-with-\n\n 1.5C-threshold-20260 450ppm is associated with a 2°C global average temperature rise.\n http://www.oecd.org/env/cc/Outlook%20to%202050_Climate%20Change%20Chapter_HIGLIGHTS-FINA-8pager-\n UPDATED%20NOV2012.pdf Even global net zero emissions right now would result in maintaining the 400ppm. There is scientific\n\n consensus that risk of catastrophic climate change is only mitigated for concentrations below 350ppm. The goal should be to avoid\n catastrophic climate change, and therefore we should aim for net zero, or even negative emissions. I would prefer to set an earlier\n date than 2050, but I will accept 2050. [I tried very hard to avoid putting most of that in all-caps. Kinda proud of myself for holding\n\n back.]"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "With a low population density, relatively high standard of living and extensive renewable energy resources, New Zealand has more\n opportunity than most to achieve net zero emissions in the near future. New Zealand should lead the world, and potentially sell\n\n International Carbon Units, rather than buying from overseas."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, if the scientific consensus changes, or other dramatic events intervene. Short term humanitarian emergencies should always\n have higher priority. I expect that the scientific consensus will only get more dramatic, as it has done over the last 30 years. In this\n case, the target may have to be adjusted to become more ambitious."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Instead of a step change every 5 years, it may make sense to have a steadily decreasing annual budget. If a budget is not achieved,\n then the following budget should be reduced to compensate. i.e. the total integrated emissions until 2050 should stay constant. We\n\n should avoid the natural inclination to make future targets easier based on previous failure to meet targets. (The proposal regarding\n \"banking or borrowing from one emissions budget to the next\" sounds like a similar principle.) I would support aligning the emissions\n budget with the ETS cap and trade system. My understanding is that a carbon tax would be even more effective than ETS, but also\n\n that this is not up for debate at the moment."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "The reality of politics suggests that each incoming government can change as much as they like. The barrier to change should be\nfairly high, but changes in either direction may be good policy for a given set of circumstances."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Same as my comment to Q6: The reality of politics suggests that each incoming government can change as much as they like. The\n\nbarrier to change should be fairly high, but changes in either direction may be good policy for a given set of circumstances."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I agree with most of the considerations, except: \"economic circumstances and, in particular, the likely impact of the decision on the\neconomy and the competitiveness of particular sectors of the economy\" I believe the reference to particular sectors of the economy\nshould be removed, in favour of considering the overall economy. If one sector is disadvantaged, but another is advantaged, then the\n\noverall economic effect is neutral. Since any change should be motivated by reducing our GHG emissions, I would see the effect as\npositive. Of course, dramatic upheaval should be avoided, as localised unemployment can contribute to social problems. Specifically,\n\nall greenhouse gas emissions should be treated equally. Emissions from livestock should not be exempted."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The government will not \"achieve\" the budget by itself. It can only act indirectly through citizens and businesses. It should set out\n\nincentives, disincentives and policies for citizens and businesses, and it should plan how it will adjust those measures if the budgets\nare not kept."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think the most important issue is how a government should react if a budget is not met. This is unfortunately a realistic scenario\n\ngiven our own history with the Kyoto Protocol, and other countries' experience with national and international targets in the past. For\nexample what will be the rules around purchasing international credits to make up the deficit, and around reassessing future goals?"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "If I understand correctly, the proposal matches the second option on p42 \"Advisory, with mechanisms built in to hold Government to\naccount\". I believe that a democratically elected parliament should have the final say, but should be advised and rigorously monitored\n\nby an independent expert body."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Same as my answer to Q11. If I understand correctly, the proposal matches the second option on p42 \"Advisory, with mechanisms\n\nbuilt in to hold Government to account\". I believe that a democratically elected parliament should have the final say, but should be\nadvised and rigorously monitored by an independent expert body."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I assume, although it is not explicitly stated, that not every commissioner would need expertise in every field."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I think the bill will be better served to focus on reducing emissions. Expanding its scope may dilute efforts. It would be prudent to plan\nfor higher sea levels, more powerful storms and some level of climate refugees from Pacific Islands. These steps could be addressed\n\nin a separate bill. My understanding is that the science of climate change adaptation is still very immature. This is reflected in the\nproposals on p46-50 of Our Climate Your Say. Most proposals are to gather more information. This can be done without legislation."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Does this refer to the following bullet points?: • a national climate change risk assessment • a national adaptation plan • regular\nreview of progress towards implementing the national adaptation plan • an adaptation reporting power I think far more specifics are\n\nrequired before this would constitute a plan. As mentioned above, climate change adaptation science is still very immature. Policy can\nwait until the science is more settled."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Gathering information is good."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This bill is very very important. Climate change is an externality from so many human endeavours that leadership must come from\ncentral government. I hope NZ's government will set a course to reach net zero emissions and eliminate our contribution to a global\n\nproblem. Beyond the scope of this bill, I hope they advocate internationally for other countries to match our goals. The current\npractice of exempting livestock emissions from the ETS is arbitrary and unfair to other industries. The effect on our climate is the\n\nsame regardless of where gasses are produced, and our policy should reflect that."
+    }
+  ]
+}

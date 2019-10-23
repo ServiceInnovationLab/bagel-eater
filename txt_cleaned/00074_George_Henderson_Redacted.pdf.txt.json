@@ -1,0 +1,33 @@
+{
+  "reference_number": "74",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Carbon emissions are more important than methane emissions, for reasons below"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "Net zero methane emissions is an impossibility. Attempts to reduce methane by converting cows to plants may backfire as a) some\n plants, e.g. rice, are high methane emitters, b) rotting of plant waste is a methane emitter, c) horticulture is more carbon-intensive\n than animal raising in the NZ model. A tractor uses more petrol than a sheepdog."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Carbon trading seems a fraudulent practice and is open to abuses in third world countries other than environmental abuses (e.g.\n\n driving off the livestock that feeds a people, or destroying their homes, to plant trees). However we do need overseas tradeoffs. We\n are farming ruminants to send milk and meat overseas. Therefore our per capita methane emissions are high, but this is because we\n feed so many people overseas. Therefore, per capita emissions are the wrong measure for methane, unless they are offset by\n\n overseas carbon saving."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Cows may be polluting our rivers, but animal agriculture has not contributed to any of the increase in atmospheric methane for at\n least 10 years, Increases have instead been due to fracking, rice growing, and landfill. decomposition. Meat and dairy are far more\n\n nutritious than rice, landfill, or fracking. We should control the state of our rivers, but not stress too much about animals burping."
+    }
+  ]
+}

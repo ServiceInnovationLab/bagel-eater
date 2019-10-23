@@ -1,0 +1,117 @@
+{
+  "reference_number": "10681",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "A clear goal and timeframe to achieve the same will provide the most certainty. The third option presents further uncertainty"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "It is unclear, presumably intentionally so, what \"Stabilised Short Lived Gases\" means. I assume it means stabilised at current levels. On\n that basis, given those methane levels are not that far off 50% of NZ's total emissions profile, the second option wouldn't appear to\n achieve a lot more than our existing 2050 NDC of a 50% reduction. While that reduction is commendable relative to certain other\n\n nations, I don't think it is sufficient, and doesn't reflect what I believe NZ is able to achieve. Your forecasting does not show a material\n difference between options 2 and 3 therefore why not adopt the more onerous target which will de-risk costs associated with the\n\n transition earlier than would otherwise be the case? Further, many peer reviewed papers suggest the earlier net zero is achieved the\n better in order to avoid exhausting the remaining carbon budget. Finally, I don't think it's equitable that any one sector receives a\n significant indirect subsidy at the expense of other sectors over such a long period of time, with one result being that it places too\n\n much pressure on other sectors to reduce their emissions. The indirect subsidy resulting from the complete exclusion of agriculture\n emissions has distorted land investment decisions and in part led to that sector representing such a high proportion of NZ's GDP\n (and hence its current strong negotiation position ). There must be some requirement on producers of methane to reduce their\n\n levels over the next 20 years, and this must be an absolute level, not just relating to emissions intensity, which is a current failing of\n the ETS settings. I think a fourth option should also be considered which provides net zero emissions of long lived gases and a\n\n reduced level of methane by 2050, leaving NZ less to achieve at likely a lower cost from 2050 onwards."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "As a starting point, NZ should take responsibility for offsetting its own emissions with domestic reductions. There's a theoretical\n economic argument that if we can obtain cheaper offsets from foreign low cost producers (assuming they are legitimate), then we\n\n should use those to reduce the overall cost of the transition. I will be very surprised if the world is anything but short carbon credits at\n the relevant dates, and even if they are available, demand vs supply would suggest a high price. Therefore, NZ should prepare to\n\n meet all emission reductions domestically, but have a limited ability to purchase offshore in the unlikely case that cheap offshore\n legitimate offsets are available e.g. say up to 10% of total commitments. A cost benefit analysis prior to purchasing offshore\n reductions would need to take into account broader considerations than just direct costs, including matters such as increased\n\n biodiversity and other revenue streams from additional NZ forestry (tourism, honey, heritage), increased employment, improved\n soil/erosion/water etc"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, up and down, but only as required to the extent our obligations under the Paris Agreement change. We are setting a target 20+\n\n years into the future with flexibility in the interim budgets to ensure the end goal remains achievable. Opening up the ability to change\n the target outside of alignment to changes under the Paris Agreement again creates uncertainty, and may see the government of the\n day do just that as an easy, short term option, as occurred immediately post the GFC in 2008/09"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Either option under 'yes'. I don't fully understand the implications resulting from the difference between the two options, but I think a\n\nlevel of flexibility is needed as all forecasting 15 years out will be wrong, it's a matter of how wrong. The backstop is that the 2050\ntarget cannot be changed (as proposed above), so any reduction in emissions effort will need to be recovered in subsequent\n\nperiods. One could also consider capping the extent to which any 3rd period budget can be varied, say up to [20]% in total, in order\nto avoid making future budgets, and the 2050 target, too onerous"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Refer above regarding inaccuracy of forecasting. Same points immediately above apply to this question albeit tighter parameters\ngiven the shorter time period"
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "public / private sector consultation, Climate Commission advice, politicians following the expert consensus and advice., and not\nmaking their own decisions contrary to that advice"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "If the government chooses not to follow the advice it needs to clearly and publically justify why the advice wasn't followed - and it\nneeds to be justified"
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Or otherwise in a related piece of legislation"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Disclosure of climate change risks, exposure and opportunities is essential to all stakeholders and the reporting entity itself and is\nessential to enabling accurate decisions around capital allocation"
+    }
+  ]
+}

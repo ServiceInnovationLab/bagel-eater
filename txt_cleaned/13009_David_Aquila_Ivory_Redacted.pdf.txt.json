@@ -1,0 +1,47 @@
+{
+  "reference_number": "13009",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Refer to my review paper on climate change consultation"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Refer to my review paper on climate change consultation"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Refer to my review paper on climate change consultation"
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Refer to my review paper on climate change consultation"
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Refer to my review paper on climate change consultation"
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Please refer and review my attached paper on GHG emissions and mitigation"
+    }
+  ]
+}

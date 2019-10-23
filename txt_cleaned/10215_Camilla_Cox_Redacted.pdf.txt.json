@@ -1,0 +1,117 @@
+{
+  "reference_number": "10215",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "We know what we need to do. We should set the target now so we can get on with meeting it."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "It we wish to reduce our contribution to climate change and show the world the way, we need to follow the science, and the science\n tells us we need to address all GHGs, not just carbon."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Revision should only be allowed in response to climate science."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "Change should only be permitted in light of scientific evidence. Emissions budgets should be beyond the short term focus of 3-year\n\n election cycles!"
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Again, this is something that should only be done if climate science shows it to be necessary."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I am concerned that the broad range of considerations will dilute the requirement to address emissions. We have had wide ranging\nconsiderations in government decision making for decades and it appears that the needs of the environment and future generations\n\ncan too readily be ignored in the face of other pressure."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is time to get on with it. We've been delaying too long and the longer we wait the harder it is going to be to reach the goal."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "(1) How do we maintain commitment to zero carbon when people actually start to realise that their own lives have to change?\n\nPerhaps look at taking the emissions budgets out of the hands of the governing party and require a 3/4 majority of the house to\nchange it? (2) If we do not start making investment decisions using different economic assessment tools we will end up with the\n\nsame outcomes. Government HAS to start factoring in emissions in investment decisions (eg road vs rail investment, irrigation\ninvestments, tourism promotion decisions etc). (3). Engage with groups that are already working on climate adaptation to make sure\nGovernment leverages off existing know-how and doesn't reinvent wheels. (4) Avoid the goal of emissions reduction being just the\n\njob of one, silo-ed entity. ALL of government needs to change how it does things. Ideally, the zero carbon bill should have the over-\narching status of the bill of rights--something with which every agency must comply. (5) And how will this law be enforced? We seem\n\nin NZ to be very poor at enforcement. We seem to think businesses can self regulate and enforce (Pike River and the recent\nexperience of NAIT are just two examples of how well that works). Law is like parenting: don't say no unless you mean it and can and\n\nwill follow up. The ZCB needs to be science-based, rigorous, and enforced, and the enforcement needs to be considered now, not\ntacked on as a flimsy afterthought."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "In some ways it does not matter who sets the number of units as long as the PURPOSE of the ETS is clearly stated and decisions\n\nmade about units are made in line with that purpose."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The CCC should be comprised of individuals from a broad range of backgrounds who bring new thinking to the problem. I would be\ndisappointed if the membership did not reflect the need for different mindsets from those that have overseen our trajectory to our\n\ncurrent position."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Government does not have to do it all, but it does need to lead and create the right environment for adaptation to occur. Supporting\n\nthose who are proactively addressing climate change (councils, community groups, etc) would also be beneficial."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is a rather vague proposal. I'd hesitate to require more reporting of organisations, knowing that existing requirements are often\n\nnot especially meaningful and very onerous to produce. What would be the purpose of such reporting? What might it achieve/add? I'd\nwant to see more thinking on this before decisions are made."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is not going to be easy. We've got well entrenched systems that are built around exploiting resources--including the\natmosphere. We have strongly motivated and well resourced interest groups that will not want to bear the cost of reducing\n\nemissions, and lots of us will not like to imagine life without a car. I am rather fearful of what zero carbon might require of me, of what I\nmight have to forgo. But, I am more afraid of what doing nothing will mean, and optimistic that we can show the world a better way\n\nforward. This is the right thing to do. Thank you for the opportunity to be involved."
+    }
+  ]
+}

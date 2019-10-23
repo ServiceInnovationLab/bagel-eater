@@ -1,0 +1,117 @@
+{
+  "reference_number": "9505",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Setting the target in legislation now shows a strong commitment to New Zealanders and the world, and makes it harder for future\n governments to set a weaker target."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Climate change is going to have massive negative impacts on my generation and all the generations younger than me. We can't\n\n afford to keep excluding methane and other short-lived gases from our emission reduction targets if we want any hope of keeping\n global temperature increases within 1.5 degrees. Methane has a larger and faster impact on temperatures than carbon dioxide, so\n reducing methane emissions will provide an opportunity to slow - or even reverse - global temperature increases much more quickly\n\n than reductions in carbon dioxide emissions will."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "New Zealand already has much higher per-capita emissions than most other countries. We need to take significant action now to\n reduce our emissions, not carry on as we are and expect others to pick up the slack."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "If the target is to be revised at all, it should be to set an even stronger target, e.g., a target for zero emissions by 2040 or for negative\n\n emissions by 2050. Weakening the target because \"circumstances change\" is just pushing the problem down the line, and any delay\n will make it more difficult and more expensive to reduce our emissions and to deal with the consequences of climate change."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "The third emissions budget should be able to be changed to a stronger or more aspirational target (a larger reduction in emissions) if\n\n it becomes easier to reduce our emissions; however, it should be noted that the target is the minimum amount of emissions\n reductions we are committing to, and there is nothing stopping us from exceeding that target or meeting it early. The budget should\n only be able to be changed to a lower target under exceptional circumstances. Note that if New Zealand experiences other hardships\n\n (e.g,. economic downturn) this may actually make it easier to meet our targets, as observed during the global financial crisis in\n 2007/2008, which reduced emissions in many countries for several years."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "At any point in time the end of the second budget will be five to ten years away, which gives us adequate time to adjust to any\nexceptional circumstances before entering that budget period."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "These considerations sound broadly sensible. However, there seems to be too strong a focus on avoiding short-term economic\nhardship (e.g., protecting certain industries) instead of accounting for the imminent negative impacts of climate change on people,\n\nincluding social and health impacts as well as impacts on the economy. I agree with the suggestion to consider the three government\nobjectives for climate change policy: \"sustainable economy, global and local leadership, and creating a just and inclusive society.\""
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Ensuring we begin to act to reduce our emissions as quickly as possible. Climate change is affecting us now, and it's only going to\n\nget worse."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A certain level of climate change is already locked in because of greenhouse gas emissions to date. This means that, in addition to\nsignificantly reducing our future greenhouse gas emissions, we also need to be planning now for how we will respond to coming\n\nchanges like sea level rise."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "As noted in the discussion document, mandatory reporting is likely to deliver better outcomes than voluntary reporting."
+    }
+  ]
+}

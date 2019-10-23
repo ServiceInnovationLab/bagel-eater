@@ -1,0 +1,96 @@
+{
+  "reference_number": "1199",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Based on my reading (see excerpts below) I support Option 3, ie. reduce all GG emissions to net zero by 2050. This is primarily\n because of methane's warming potential (sea level rise is a significant issue for NZ) & also for NZ to have time to adapt & develop the\n\n means to make the necessary changes for the longer term. Methane will become a more significant issue internationally as carbon\n dioxide levels are reduced. NZ has such a high proportion of methane emissions cf. our other sources of greenhouse gasses and so\n our profile differs from most other countries and we wont be able to avoid tackling this long term anyway. And methane already\n\n currently contributes more than 20% of the warming CO2 contributes. \" Because methane is both a powerful greenhouse gas and\n short-lived compared to carbon dioxide, achieving significant reductions would have a rapid and significant effect on atmospheric\n\n warming potential.\" United States Environmental Protection Agency website \"Methane in the atmosphere is short-lived, in contrast\n with nitrous oxide and carbon dioxide. If the flow of methane into the atmosphere stopped rising, and there were no other\n greenhouse gas emissions, the temperature of the atmosphere would stabilise in a few decades. Nevertheless, methane emissions\n\n are damaging. For instance, while methane molecules disappear relatively rapidly from the atmosphere, they do leave some damage\n behind. Most of the heat that they trap is absorbed into the ocean, contributing to sea level rise.\" Climate change and\n agriculture:Understanding the biological greenhouse gases, PCE report October 2016 \"To make large changes in CH4 in the long\n\n term, New Zealand would need to act now (not only through research and development but also development of policies and early\n adoption of new land uses, practices and technologies), in order to be ready to act fast later. Early action on CH4 and clear signals of\n\n a future transition to low-CH4 would avoid New Zealand being locked into a high-CH4 pathway – and facing high levels of stranded\n assets if required to reduce CH4 rapidly in future. There are three reasons to act strongly to reduce CH4 now (in addition to actions\n on CO2 and N2O). First, a strong concern about short-term temperature rise, i.e. the path of temperature rise towards a given long-\n\n term level, and the short-term impacts of climate change. Second, an understanding that human (and natural) systems do not adapt\n quickly, meaning the welfare costs of rapid climate change could be much higher than those of the same temperature change over a\n longer period. Third, if New Zealand does not act strongly to reduce CH4 (and unless the international inventory rules are changed, or\n\n looser targets to allow for ongoing high-CH4 emissions in the short term are negotiated), New Zealand will face costs (both economic\n and political) based on current CH4 metrics which value CH4 reductions quite highly. The effect is significant: agricultural emissions,\n\n CH4 and N2O, using current metrics for CH4, made up 48% of New Zealand’s emissions in 2013 (Ministry for the Environment 2015)\n and CH4 alone makes up 30%. Recent modelling (Stroombergen 2015; Daigneault 2015) indicates that New Zealand will struggle to\n meet its Intended Nationally Determined Contribution (INDC) of lowering total emissions by 30% relative to 2005 levels by 2030\n\n through domestic mitigation without significant mitigation of agricultural emissions or afforestation.\" Agricultural Emissions Mitigation\n in New Zealand: Answers to Questions from the PCE, October 2016"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    }
+  ]
+}

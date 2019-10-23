@@ -1,0 +1,117 @@
+{
+  "reference_number": "7630",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Start as we intend to continue, do the hard yards first."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Weight for weight, methane has 105x the warming impact of CO2 during the 20 years after its release, so It would be a massive\n\n backward step not to address it ASAP."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Although planting trees is essential, it should not be seen as a 'lucky save'. In assessing the impacts of greenhouse gases, we need\n to avoid 'compartmentalisation', separating the carbon budget into different areas, which has the effect of making, say, the forestry\n\n and farming sectors look less-polluting than they actually are. For example, in the case of forestry, the CO2 cost of using chainsaws\n and diesel-powered machines, as well as logging trucks - and in farming, milk tankers and Fonterra's use of coal to power its plants -\n should be set against those product supply chains, instead of being divvied out separately as Transport and Industry. On the second\n\n point, we should get our own house in order rather than relying on overseas organisations to be doing what we should be doing."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But the focus must always be on: what sort of planet are we leaving our children."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but again the focus should be on medium- to long-term goals rather than short-term ones governed by say election cycles or\n\nfeathering nests now rather than later."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "1. Stick and carrot: Tax the polluters and use that money to support low-carbon initiatives (eg, tax internal combustion motors and\ntheir hydrocarbon fuels then subsidise electric cars and the charging network). 2. Identify low-hanging fruit (gain public support and\n\nmove quickly): So the average Kiwi expends about 17 tonnes of CO2 a year (2012 figures) but really can't do much about the (roughly\n50%) agriculture emissions. What they can do is a) use an electric vehicle (a saving of at least 5T CO2 per family when 'embedded'\n\nemissions are taken into account) and b) adopt a vegan diet (saving 1.8T CO2/year). Straight away, a several-tonne saving, if people\ncan be encouraged to take up these options (via the aforementioned stick-and-carrot method). 3. Join the dots: Avoid the\n'compartmentalisation' of carbon budgets (mentioned in response to Question 3), enabling high-polluting sectors such as dairying to\n\nexternalise some of their costs. Detailed research is required to ascertain the true carbon, or GG, cost of products, including\n'embedded' or externatised costs, and industry must be required to be upfront about these costs (for instance, the oil industry has\n\nnot released the embedded pipeline-to-petrol-pump costs (drilling, pipling, shipping, trucking, refining etc) for well over a decade. 4.\nDon't let farming, or any polluters, off the hook. It's an extraordinarily tough call to make, but necessary. Food production (and its\n\nmanufacturing and transport) is simply the biggest threat to climate. Agriculture needs to be turned to the diet we need to adopt -\nvegan. This would not only hugely reduce our greenhouse gases, it would lead to more trees being planted. To this end, the Govt\nneeds to urgently come up with a map that identifies the best soil types, weather etc to grow various crops. Then it needs a 'stick\n\nand carrot' approach to transform pastural farmland into horticulture. The positive here is that this land will eventually produce roughly\n10x more food, employ many more workers and reinvigorate rural towns. 5. Improve infrastructure: Continue to upgrade public\n\ntransport; electrify rail, buses and ferries (while taxing air travel); design and build electric ships for our primary exports; continue to\ndevelop cycleways and walkways ......"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "Only committed action within the next two decades will save humans from extinction."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I agree the commission needs to be advised by such experts but they will have narrow fields of interest. While requiring a deep\nunderstanding of climate change and related issues, the actual commissioners will need to have a big-picture, broad-brush\napproach, and have the ability to convey that succinctly and clearly to the Govt and public at large. I suggest budding commissioners\n\nare asked a list of 5 questions: 1. Do you think humans will survive climate change unless we immediately start taking robust\nmeasures to alleviate it? (A 'no' would be a massive fail.) 2. Are you concerned about what sort of planet we might leave to our\n\nchildren, grandchildren and future generations? 3. What actions have you personally taken to mitigate your impact on climate\nchange? 4. Do you have a vision for what broader actions could be taken? If so, what? 5. Do you have a good grasp of the science\n\nbehind climate change, as well as aspects of human psychology and construct that make our response to it so far so\nunderwhelming?"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A no-brainer really. We already know the climate has warmed sufficiently for the sea level to rise 5 metres (although we don't know\n\nexactly when but we need to look beyond those dodgy end-of-the-century estimates). It is beyond stupid to allow new infrastructure\nand development in low-lying areas, for example, unless certain precautions are taken (such as making houses transportable)."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Humans have had a very narrow window to do something about climate change. Perhaps 50 years, of which 30 have already passed -\nand we have literally lost considerable ground already. For the sake of future generations to enjoy this beautiful planet, DON'T MESS IT\n\nUP."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "reference_number": "9251",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "From an agricultural perspective short lived gases like methane are already pretty much in equilibrium as methane is such an\n\n unstable gas and stock numbers in New Zealand are fairly static. Over time methane will break down as fast as its produced. With the\n right support for research, systems will be discovered to reduce the production of gases like methane, and until mitigating processes\n are in place it is unfair to penalise farmers."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "In writing this I lay no claim to particular qualifications. What I offer is the result of observations made over some 70 years of farming\n\nthe land. Academics may be able to offer quantitative analysis of my observations but I am sure my views are valid never-the- less.\nThere has been a lot written about planting forests as a strategy to mitigate accumulation of \"green house gases\". While it is true that\n\ntrees soak up a lot of carbon from the atmosphere, the activity is most prolific while the trees are relatively young. As the trees\napproach maturity their biological functions slow down and their carbon absorption diminishes. The most obvious verification of this is\n\nthat trees stop growing. As they continue to age senescence sets in and over time they die and decompose releasing their\ncomponents back into the environment. In other words after a period of time an untended forest is not an effective tool to remove\ncarbon from the atmosphere. Ultimately trees must be harvested and used in a way whereby their carbon remains locked up, such as\n\nproduction of building timber. Bio char may be an alternative but I have no knowledge of how this functions. All this in turn, means that\nsuch trees need to be planted where they can be economically harvested. Planting on remote steep country is not viable. Building\n\naccess roads may cost more than the trees are worth. It is also important to consider how the trees are to be recovered. Clear felling\nposes obvious hazards in terms of soil erosion and the dangers of the \"slash\" being washed down to lower levels in times of extreme\n\nweather events as we have in fact recently seen in the Tolaga Bay area. So, planting trees to offset carbon emissions may provide a\nquick \"win\" in the short term but over time their benefits may reach a stage of equilibrium, with no net advantage to the environment.\n\nContinuous new planting is also counter productive as economic productive land is taken out of circulation. We are losing too much\ngood land now as the ever increasing appetite for housing development continues to expand. Another consideration is the species\nplanted. Pinus radiata may be a fast growing tree but aesthetically provides a dismal outlook on the countryside. Native species in\n\nmultiple varieties provide a brighter view and potentially more attractive to tourists both from NZ and overseas."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Over recent years livestock farming, and in particular dairy farming, has come in for major criticism as the leading source of green\nhouse gas emissions in New Zealand. At its most basic level there may be a modicum of truth to this assertion. However I would\n\ncontend that in terms of animal emissions farming is already close to carbon neutral. To understand this assertion we must go back\nto first principles. From my earliest days of third form general science I was taught the Law of the Conservation of Matter, which states\nthat matter can neither be created nor destroyed. It can however change its state. What this means in its simplest terms is that there\n\nis no more carbon in the total environment now than there ever was; and if there is more carbon dioxide in the atmosphere now than\nyears ago we need to ascertain where it has come from. From a livestock perspective an animal can put out no more carbon in its\n\nproducts, milk meat fibre, or digestive end products, than it ingests in its feed. So an animal takes up nutrients in its forage; carbon,\nhydrogen, oxygen, nitrogen etc. and reconfigures them into different end products, but the net sum is zero. University academics\n\ncan put the fancy names to processes but the truth of the matter is that everything in nature is cyclical, and in the case of carbon the\nmechanism is photosynthesis. This, incidentally, is the same process whereby trees recycle carbon and take it out of the\nenvironment. In agriculture the system is balanced. The forage animals live on grows by photosynthesis, and other cyclical pathways,\n\nwhereby products are removed from the environment, the animals eat the forage and emit it in one form or another. Soil micro-\norganisms also play a major role in this process. If there was no recycling the whole system would have collapsed centuries ago and\n\nhumanity would have died from starvation. Furthermore, in addition to the forage farmers are growing which is incidentally taking\ngreen house gases from the atmosphere, they are also making a huge contribution by planting farm forestry, riparian strips and\n\nshelter belts. Therefore, I submit that animal emissions should not be included in the equation for green house gas calculations. So if\nthe net emissions are not coming from farming the question is, where do they come from; and the most obvious source is\n\ncombustion of fossil fuels which have been locked out of the biosphere for millennia but are now being reintroduced over time. I\nacknowledge that the farming sector uses its share of these fuels and contend that farmers are prepared to make their fair\ncontribution towards mitigating the effects of these as is appropriate. This view will be unpalatable to the general public because for\n\nyears the news media has painted farmers as ecological villains. It is now time for a proper education process to explain why\nagriculture will not be included in the Carbon Zero equation."
+    }
+  ]
+}

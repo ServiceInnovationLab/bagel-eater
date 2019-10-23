@@ -1,0 +1,124 @@
+{
+  "reference_number": "12284",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": "Net Zero Emissions can be a guiding target but more specific targets should be set by the Climate Commission once they have\n\n examined the cost/benefit structure and impact to NZ of setting any particular emissions reduction path."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "If we are going to approach this in a comprehensive manner, then all relevant emissions should be considered. The important issue\n to focus on is whether the right price signal can be sent, in order to provide incentives for change e.g. If methane emissions can be\n priced (in terms of either their cost to the environment or cost to mitigate), then that can be used to send a price signal to the\n\n market, as to the true cost of the methane generating product, whether it is dairy or beef."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "As a starting point, I am not in favour of using international emission reductions, which might be counter intuitive given my preference\n for a global approach. However, we have enough work to do here, and enough opportunities to realign our local economy, that our\n\n focus should be quite singular on our own activities. That said, given carbon leakage and the current lack of trucost pricing in New\n Zealand's global supply chain, taking into account overseas emissions will become more important, and presuming validation\n processes, at some point in the future, using international emissions reductions, especially ones linked to our supply chain, may be\n\n an option."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Absolutely. The global climate is a variable and compel system. Making sure we have the correct framework to set appropriate\n budgets is more important, and monitoring and residing to shifts in outcomes will be necessary. Zero Carbon as a target is about as\n\n relevant as 100% Pure NZ but I can live with it as an initial clarion call. Overtime, we must understand our impacts, local and global,\n and how we can make the required structural shifts. not just in emissions outputs but mitigating and adapting to global climate\n shocks, the impacts of which we still are not clear on."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I support 5 year rolling budgets, that can be updated and modified as new information becomes available."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "The Climate Commission, if structured properly, should operate independently of any new government. Ultimately, it will be up to any\ngovernment to respond to budgets set by the CCC and those budgets, and the assumptions that underpin them, should be open to\n\nchallenge in the way any budget can be challenged."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I agree with these high level considerations but would like to see more detail. There are many interconnected and moving parts in\n\nany environmental budget, and there will be many unintended consequences and impacts of shifting the economy onto an\nemissions based system. Carbon leakage is a particular issue that we should be concerned about, as understanding the emissions\n\nof our supply chain (electric batteries is a good example) is as important as our local outputs."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This is going to take time to embed but some clear timelines will be important, so people can plan ahead."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government needs to be realistic. Our global impact is negligible and so our focus should be more on: - Identifying the major\n\neconomic shifts required. - Pricing emissions appropriately, allowing for innovation (e.g. emissions neutral dairy and beef - trucost\npriced). - Understanding our true emissions profile (domestic and international). - Focusing on the important sectors and driving\ninnovation and change (transport + agriculture/forestry)."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "In reality, the adaptation issue is the most important one for us. It's a matter of national security that we understand and keep\n\nmodelling potential outcomes of climate shifts, with in terms of natural hazards and economic impacts."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "This is a very tricky area and the role of the CCC should be to provide expert advice to the Government of the day, so that any\ndecisions can be made with a clear understanding of the trade offs."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A holistic view of risk management is crucial here, and will require a broad sweep of risks, including, but not limited to: environmental,\n\nfinancial, economic, social, cultural and international relations (the IR environment is likely to be a high risk). Ticking all the individual\nskill boxes you have listed is good but you will need multi-disciplinarians, who can think across all these areas."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Of course. What's the point otherwise? This is primarily an adaptation process...I sense that too many people see Zero Carbon or\nCarbon Neutrality as some holy goal, which will lead to some kind of planetary nirvana. This is not the case. We are engaged in a\n\nprocess to somehow modify the projected climate track (global heating, storm, flood, rainfall frequency and so on), but this is going to\nbe a shifting system, which we will always be adapting to. So lets be clear about this. Zero Carbon can only ever be a guiding post. It\n\nis not an end destination."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This work should sit within a National Risk Agency. How that might fit together is open to discussion but ultimately what we are talking\n\nabout here is primarily a risk management process."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, the finance and insurance sector overseas are already doing this. This is just another risk to add into the risk analysis framework.\nThe ECB and other Central Banks are already looking at more specific climate risk assessments."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is a good start. the right frameworks, with the right information, will help us realign our economy onto a more sustainable path.\nThere is no doubt that a changing climate poses both risks and opportunities to our economy, and I support the setting up of a\nClimate Change Commissions to do this work. My only concern is the focus on Zero Carbon/Carbon Neutrality. I know these are\n\nattractive slogans but I would hope the serious work will be done around our risks, adaptation and mitigation. Climate change is a\nglobal issue, and likely only to be solved by action from the major fossil fuel producers (Manji 2008). The impacts will vary from region\n\nto region and country to country. We need to understand those impacts and how we will deal with them. I believe this Bill, name apart,\nis an important step on the road to a more proactive risk management system for NZ and, hopefully, a driver for real innovation and a\n\nmore sustainable (and more Pure!) NZ."
+    }
+  ]
+}

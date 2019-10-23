@@ -1,0 +1,26 @@
+{
+  "reference_number": "11580",
+  "clauses": [
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": null,
+      "answer_index": 5,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Who exactly is going to pay for this within the agricultural sector? A standard levy on all stock killed is unfair. Budgets need to be met\n\n on an individual basis. Those who are carbon positive will not subsidies the polluters."
+    }
+  ]
+}

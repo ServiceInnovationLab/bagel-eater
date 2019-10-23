@@ -1,0 +1,124 @@
+{
+  "reference_number": "12787",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "The government should start by embedding some fundamental principles which should be followed setting up and operating the Act.\n These should include Fairness and equity - a just transition for all people and sectors of society Comprehensiveness - it should apply\n to all people, groups and activities in the system Sustainable - the effect should be to provide desirable and stable future for our\n\n grandchildren. Honor the Tiriti o Waitangi by working in partnership with Maori to include tikanga Māori and Māori worldviews. The\n government should set the target in legislation now. It should try to build an all-party consensus if possible to give more long-term\n\n certainty. It should also seek input from experts particularly the Climate Change commission."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The government should prioritise the targets according to the period and time of their effect. GHGs emitted early in the period will\n use up more of the permissible capacity available before 2050 requiring drastic cuts to later emissions."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "This should include other carbon sinks such as developing or restoring wetlands or any other way of reducing net GHG emissions.\n Experience shows that NZ has no control over the integrity or actual effectiveness of foreign or even internationally acredited\n\n schemes.."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Only in exceptionable circumstances such as a major natural disaster or game-changing new evidence backed by solid scientific\n research."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This is necessary to provide as much certainty certainty as possible"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Only in exceptionable circumstances such as a major natural disaster or game-changing new evidence backed by solid scientific\nresearch."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I generally agree with the proposed list of considerations to take into account when setting emission budgets."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It is no use having a target without any plan to achieve it as happened previously. Emissions continued to increase despite the target.\nThe government should have a reasonable time to develop a plan - say 6 months . Definitely not more than 8 months."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The most important issues are Comprehensiveness. fairness and equity, sustainability and honoring the Tiriti o Waitangi (as\n\nmentioned in Qestion 1) Consultation as widely as possible with priority given to the Climate Change Commission and those with\nrelevant scientific knowlege and community links."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Monitoring the progress towards achieving climate change goals and advising Government are to fuctions for an expert body. Policy\ndecisions are for governments (politicians). The Commissions would have a conflict of interest with their role of monitor."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Th Commission making decisions would have a conflict of interest with their role of monitor."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I generally agree with the list. I would like to see expertise in sustainability and wise use of resources. Also the effect on general\n\nwellbeing."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Commission needs to understand and advise what can be adapted to. what needs to be adapted to, and the limits of adaptation."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "I generally agree with the proposed functions."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The government needs the most comprehensive information it can get."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "To be really effective you need to take a holistic systems approach. There needs to be more emphasis on eliminating greenhouse\n\ngas generation at source everywhere in the system. Nearly everything that is produced causes GHG generation in its production\nThere need to be the right incentives reduce net GHG emissions everywhere in the system, for producers goods and services more\n\nefficiently with fewer GHG emissions.. Then there is the exponential growth in production, much of it producing ephemeral goods\nwhich are used briefly and then thrown away, depleting resources and generating waste, including GHGs and toxins. Universal\nproduct stewardship and a price on all net GHG emissions – at a price equal to the damage they cause is the only way to really deal\n\nwith climate change. If they cannot afford the price, then the should change their production so that they can. Otherwise the goods\nshould not be produced. Of course this would cause massive disruption if it was introduced immediately, so it would need to be\n\nphased in. This brings me to the third point. Change is urgent because more than half the GHG emissions emitted before global\ntemperature rises above 2ºC have already been emitted, and emissions are still increasing for the reasons above. All emissions now\n\nuse up what is available before 2050, requiring more extreme and disruption if we are to meet the target and prevent unacceptable\ntemperature rise and potentially a positive feedback loop with irreversible effects. The Government needs to work with everybody\nboth here and worldwide to achieve the fundamental changes needed. The climate Change Bill begins to address the problem, but\n\nmore comprehensive action is needed if we are to meet the taget and avoid catastrophic change."
+    }
+  ]
+}

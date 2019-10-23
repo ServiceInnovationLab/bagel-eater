@@ -1,0 +1,124 @@
+{
+  "reference_number": "7921",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": "My concern is that it may be premature to lock a specific long term target in too early. It would be good to have some flexibility to see\n\n how the science on adaptation and mitigation costs evolves as well as how the international community as a whole responds and\n what level of leadership we want to display and at what cost. My concern is that the cost of international leadership could prove to be\n quite high (as identified by NZIER modelling) and the benefits uncertain at this point. For example the most recent estimates of the\n\n social cost of carbon (US EPA, Nordhaus etc) suggest an optimal temperature rise (where abatement costs equal avoided damages)\n or around 3 degrees, with associated carbon costs staying below USD50/tonne. And the corresponding marginal carbon costs (of\n\n benefit of avoided damage over tonnes CO2 required to mitigate) of about USD15/tonne of keeping temperature rise below 1.5\n degrees rather than 2 degrees. These global benefits are much lower than our projected costs (upto NZD2000/tonne) for\n leadership. So it is not clear that our leadership would be effective, or even if it was internationally effective (spurred everyone on to\n\n aim for 1.5 degrees) that this would be a globally optimal outcome. Both of which lead me to conclude that the benefits of very strong\n international leadership may not outweigh our national costs. So some flexibility to manage our targets as the effectiveness and cost\n\n of our international leadership become clearer would be important."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I would prefer to let the Climate Change Commission have some flexibility to vary the target as more information becomes available.\n The legislation could set some guiding principles around doing our bit to meet collective international targets etc."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions (including from new forest planting) and using some emissions reductions from overseas (international carbon units) that have strong environmental safeguards",
+      "answer_index": 2,
+      "notes": "I think having access to international carbon markets as a safety valve for carbon prices is important. However we will need to\n proactively work to develop these markets and their integrity. As they are pretty limited in scope and some integrity questions remain.\n My own research suggests other countries could exceed their current NDC's at much lower relative cost than NZ. For example the\n\n marginal cost for India to exceed its current NDC, by building gas (CCGT) rather than coal fired power stations to meet its poverty\n reduction goals is about NZD20/tonne of CO2. Much lower than the up to NZD2000/tonne carbon prices identified in the NZIER\n\n modelling."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It should be able to be revised if: New science information on climate change mitigation or adaptation comes to light, or New\n Zealand's economic, or relative economic position changes."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I favour slightly shorter periods. With the first (5 year) period being fixed, come limited flexibility on the second 5 year budget, and the\n\n third 5 years being indicative only. This is to allow flexibility as more information comes to light, as above."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "See above, I would prefer them to even have some (limited) flexibility on the second budget."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, see above. Including new science information or economic circumstances."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But the plans should include analysis of costs and impact on other spending priorities."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Costs and impact on other spending priorities."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But I would also like to see a high degree of independence in the process to appoint them."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "But the process it uses to make these recommendations should be transparent and consultative."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "And would add a high degree of independence in the appointment process."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Very strongly support adaptation to be included. I would go further and suggest that in making recommendations on carbon budgets\nthe climate change commission should consider costs of NZ adaptation in balance with our mitigation costs."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But suggest that as implementation of adaptation will mostly be at local rather than central government level (as local government\nowns most of the affected infrastructure) that local government should be strongly involved in designing and implementing these\n\nnew functions."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Qualified agreement here as I wouldn't like to see the reporting requirements overly increase the overhead of businesses."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "My key concern with the bill is the potential to lock in very high costs of ambitious leadership in climate change mitigation when the\n\neffectiveness of our leadership is uncertain and the global benefits of more ambitious mitigation targets, should our leadership be\neffective, is also uncertain. This is not to say we shouldn't do something, and some aspects of the bill, such as the climate change\n\ncommission and a strong emphasis on adaptation have strong merit. I would just like to see some flexibility to manage our future\ncommitments as new information comes to light."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "reference_number": "10946",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a goal to reach net zero emissions by the second half of the century and the Climate Change Commission advises on the specific target for the Government to set later",
+      "answer_index": 11,
+      "notes": "New information and mitigating techniques will change the scenario as time goes along."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "As a farmer I feel quite targeted even though we are a organic and low stocked dairy farm. I think all the people have to contribute to\n this cause and so I would like to see what effect the equine industry has on climate change."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "All life must have some effect on our climate and so I would like everyone to be aware of the effect of domestic cats and dogs as well\n as sizable sectors like the horse industry on our methane and carbon dioxide outputs."
+    }
+  ]
+}

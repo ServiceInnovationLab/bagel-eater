@@ -1,0 +1,96 @@
+{
+  "reference_number": "8920",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "second half of the century is too vague, could be 2090 and we haven't got that much time to stop warming"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "The option Net zero long-lived gases and stabilised short-lived gases is a trick because it counts the short-livedness of methane\n twice. The first time is when methane is brought into the inventory at GWP100 (28 times CO2) which gives methane as 33.8 Mtns\n\n CO2e or 43% of our gross emissions (2016 ghg Inventory). GWP100 adjusts the warming potential of methane taking nito account\n the fact that it breaks down overabout 10 years. Then when we look at how much to reduce CO2 and methane under option b, we\n say reduce CO2 to zero but only stabilise methane \"because it is a short-lived gas\". Surely because we have already accounted for\n\n methane's shortlivedness we cant give it special treatment again. Methane's 33.8 mtn CO2e has to be cancelled out by minus 33.8\n Mtns of CO2, a virtually hopeless task unless we actually reduce methane emitted hugely"
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": null
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It might need to be stronger if global warming accelerates"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Need annual budget for every year from now to 2050 immediately"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "But many of these things give vested interests a loophole to oppose what we really need to do if it affects them financially"
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The fundamental principle must be that of fairness. That means the burden of emission reduction must be fairly shared across all\nsectors of the economy, agriculture, energy, waste and IPPS, in proportion to their current emissions. i.e. agriculture emits 49 % of\n\nNZ gross emissions, therefore it should make 49% of the reductions"
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Assume you are referring to the bottom half of p 42. The top half is more critical. I strongly oppose delegating decisions to an\nindependent authority. In a democracy the parliament makes policy and decisions, not a reserve bank type technocratic group."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "I feel strongly that by adding matauranga Maori to \"climate and environmental science\" it dilutes the primacy of this expertise which\nshould be placed first and foremost. What has business competitiveness got to do with this?"
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "It is a separate area completely. Has nothing to do with the words 'zero carbon'"
+    }
+  ]
+}

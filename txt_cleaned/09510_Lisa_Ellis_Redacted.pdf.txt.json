@@ -1,0 +1,124 @@
+{
+  "reference_number": "9510",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "The CCC should be able to make this target stricter as new information and new international commitments (or new capacities) arise.\n 2040 would be better than 2050."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "This is of course too simple: not only do we need net zero emissions across all GG by 2050, we also need to do it right and to\n\n incorporate varying degrees of uncertainty among the different kinds of emissions."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "We should not cover Aotearoa/New Zealand with a pine plantation: the forest plantings must be mostly natives, and we should look at\n additional strategies."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but only to make it more strict, as I said already in Q1: we must aim to keep global warming below 1.5 degrees above pre-\n\n industrial levels, and this may require the world to increase its Paris ambitions."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, and these should be ambitious at the outset. Early action is more effective and cheaper."
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - the third emissions budget should be able to be changed but only when the subsequent budget is set",
+      "answer_index": 4,
+      "notes": "Again, but only in one direction: more stringency."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes, but only in the direction of more stringency, and only in response to the need to accelerated mitigation of climate change."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "In order to set budgets that will get us to the target, the government and the CCC need to have clear terms of reference that do not\nprevent them from fulfilling their main duty in this task (reaching the target). Therefore, they should not consider economic, fiscal, or\n\nsocial circumstances in setting budgets. Of course the government needs to consider those things in general, but not in the setting\nof carbon budgets. Take fuel poverty for example. Overhasty and excessively top-down regulation of coal-fired home heating in Beijing\nhas led to fuel poverty and related health problems recently. But it was not the setting of carbon budgets that led to the fuel poverty,\n\nbut the failure of government to attend to the predictable needs of people under the new circumstances."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "The Government needs to build in compliance mechanisms to make sure that Aotearoa/NZ stays on track to net zero carbon by\n2050, and that it begins immediately and aggressively rather than putting off hard transitions (and making them harder). Such\n\ncompliance mechanisms would include a schedule of reporting to an independent agency, requirements to report on any deviation\nand to mitigate it, and regular and public updates on progress toward the goal. The Government should work closely with science\n\nagencies, universities, and non-governmental agencies as well as international monitoring groups in setting plans. The Government\nmust fulfill its Treaty obligations by working with iwi. It should also work with local government."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Makes decisions itself in respect of the number of units available in the NZ ETS",
+      "answer_index": 10,
+      "notes": "The ETS is of course not the ideal mechanism for reducing emissions. A carbon tax would be more efficient and better for the\neconomy and public well-being."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "It would be good to have science, policy, community, and ethics representatives. We should definitely not make the CCC a\nstakeholder committee: it is not meant to make policy compromises but to provide authoritative determinations of what needs to be\n\ndone to meet the targets."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This is utterly essential. Central government leadership in adaptation policy can prevent a potential moral disaster, because without\n\nchange adaptation will radically increase inequality."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I strongly support this bill and the net zero target and the commitment of the Government to leadership in both mitigation and\n\nadaptation."
+    }
+  ]
+}

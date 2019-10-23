@@ -1,0 +1,124 @@
+{
+  "reference_number": "12532",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": "Setting a target cannot be postponed, but there should be allowance to revise it every few years. In particular, the intermediate steps\n will need revision."
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Emissions - Net zero emissions across all greenhouse gases by 2050",
+      "answer_index": 1,
+      "notes": "Since the urgency will grow long before 2050,to set a lower target now will only make later adjustment more difiicult."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "This is the way of leadership. Aotearoa is likely to change faster than many large countries, and an independent stance is the only\n\n one that can be widely copied."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "This should be worded \"as circumstances change.\" \"If\" promotes inappropriate complacency."
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": "This is subordinate to Question 4, which allows any budget to be changed. This may sound unreasonable for the purpose of\n business planning, but any government can take that into consideration in the circumstances of the time."
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "See 4,6. Of course they should have the ability, but we cannot limit its range. Surely the circumstances determine the necessary\n range of adjustment. You cannot just keep plodding along whatever happens, and you certainly cannot instruct a future government\n\n to do so in the face of common sense and democracy."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "See final comment to this submission."
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The private sector needs public assistance, and appropriate regulation."
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "This is too wide to answer! A good start has been made, involving as many sectors as possible, and the challenge is to keep it up. It\nwould be premature to try and specify all issues and sectors, except indicatively. No doubt many vested interests will appreciate the\n\nquestion though."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The Commission as proposed should be the ideally informed and neutral body to do this; but not to rule out monitoring by other\nindividuals and organisations."
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": "Preferably, advising the government on a stronger economic tool than the ETS, which is likely to fail at any carbon price. The\nCommission should not be bound by its MOU or constituion or whatever it is called, to cling to one particular instrument."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "A qualified \"yes.\" It is in practice most unlikely to cover the problem of adapting, as the word implies total coverage. However, in the\n\ncurrent political climate, with the whole issue of climate change only recently taken seriously, the bill needs to acknowledge some\nadaptive possiblities in order to be supported."
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "For a start. See final comment."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "You need a hyphen: adaptation-reporting, or targeted-adaptation? It's ambiguous."
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I think the proposals and process leading to the Bill are excellent, and probably as strong as they can be made in the current political\n\nclimate—a climate that, like the physical one, will change. What I propose goes beyond that, and the simple logic will appeal to you\neach individually, though you may not feel able to discuss it. The point is to effect a solution, not merely postpone it, and in deeper\n\ndiscussion to look beyond 2050, when no amount of transformation, of industry or consumption, will be adequate without simple\nreduction. It is hard to speak of de-industrialisation, de-consumption, and deceleration, and at the far end of those, depopulation; yet\n\nthat very discussion is occurring outside official circles. If it has not reached good currency soon, then continuing growth in demand\nwill destroy any targets. What you can do, having absorbed this imperative, is look carefully at wording, to assist this embryonic\ncultural change into the world. Useful qualifying phrases, such as “while the population is so excessive,” “while industry remains so\n\ninefficient, unnecessary, and destructive,” and “while striving for jobs tends to create needless infrastructure, destruction, and\ntransaction costs,” will gently begin to point the way to more lasting solutions. These refer unflinchingly to the global economic\n\ncontext. You may, some of you, think there is no alternative, but that does not make them invalid."
+    }
+  ]
+}

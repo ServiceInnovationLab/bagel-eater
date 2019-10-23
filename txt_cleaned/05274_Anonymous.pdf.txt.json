@@ -1,0 +1,117 @@
+{
+  "reference_number": "5274",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": "The Government sets a 2050 target in legislation now",
+      "answer_index": 0,
+      "notes": null
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Long-Lived Gases and Stabilised Short-Lived Gases - Long-lived gases to net zero by 2050 while also stabilising short-lived gases",
+      "answer_index": 12,
+      "notes": "It is important to take a science-based approach to ensure our emission reduction efforts are as impactful as possible. This means\n\n recognising the difference between long-lived greenhouse gases (such as carbon dioxide and nitrous oxide) and short-lived\n greenhouse gases (such as methane). We call this the “two baskets” approach. Applying a two baskets approach to achieve a net\n zero 2050 all gases target would mean: •Combining long-lived gas reductions with carbon sinks (through forestry and carbon\n\n sequestration in soil) to achieve negative long-lived emissions by 2050; and •Reducing short-lived gases to sustainable levels."
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "The Zero Carbon Act should be met through domestic emissions reductions only. We call this the “firewall principle”. Relying on\n international carbon credits (even if the credits have integrity) creates uncertainty about what reductions need to be achieved in New\n\n Zealand. It also means we are investing in other countries’ low emission transitions, rather than our own."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "The 2050 target should only be revised in exceptional circumstances. The purpose of the Zero Carbon Act is to provide\n accountability, certainty and flexibility. It will provide accountability and certainty by setting clear, legally-binding emission reduction\n targets. It will retain flexibility by permitting different governments to use different policies to meet these targets, in response to\n\n changing circumstances and new technology. Despite the importance of accountability and certainty, there are some situations\n where it is appropriate to change the 2050 target. For example, if there is a significant change in scientific knowledge or international\n\n law (such as the Paris Agreement becoming more ambitious). Any revision should require input from the Climate Commission and\n approval by Parliament. Generation Zero does not support being able to revise the 2050 target in response to “economic changes”.\n This would create uncertainty, which means more econ"
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "No - emissions budgets should not be able to be changed",
+      "answer_index": 9,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Under exceptional circumstances, yes. For example, it might be appropriate to change an upcoming budget after an extreme natural\ndisaster (such as a major earthquake). Revising a budget in this situation would not mean changing the long-term 2050 target. To\n\nprovide maximum certainty and accountability, budgets should not be revised unless the circumstances are exceptional. See Q4 and\nQ6."
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Yes. A weakness of the UK Climate Change Act, on which the Zero Carbon Act is based, is that the UK Act does not set clear\ntimeframes for the government to make policy plans to meet future emission budgets (which are set 10-15 years in advance).\n\nGeneration Zero supports the Zero Carbon Act having a strict time frame for setting out policy plans. This time frame should be 6\nmonths after an emission budget has been set."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": "Advising the Government on policy settings in the NZ ETS",
+      "answer_index": 6,
+      "notes": null
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Desirable, but non-essential, expertise could include: •business competitiveness •knowledge of the public and private innovation\n\nand technology development system."
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Exclude name from the Ministry for the Environment website please.\n\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}

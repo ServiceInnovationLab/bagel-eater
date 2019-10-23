@@ -1,0 +1,124 @@
+{
+  "reference_number": "7269",
+  "clauses": [
+    {
+      "question": "1. What process should the Government use to set a new emissions reduction target in legislation?",
+      "question_index": 0,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Any target that is set should be realistic and not severely impact NZ economy"
+    },
+    {
+      "question": "2. If the Government sets a 2050 target now, which is the best target for New Zealand?",
+      "question_index": 1,
+      "answer": "Net Zero Carbon Dioxide - Reducing net carbon dioxide emissions to zero by 2050",
+      "answer_index": 13,
+      "notes": null
+    },
+    {
+      "question": "3. How should New Zealand meet its targets?",
+      "question_index": 2,
+      "answer": "Domestic emissions reductions only (including from new forest planting)",
+      "answer_index": 7,
+      "notes": "Some international carbon units are scams and carbon trading is an industry in itself so we should not foster these schemes unless\n\n they are fully above board in every aspect."
+    },
+    {
+      "question": "4. Should the Zero Carbon Bill allow the 2050 target to be revised if circumstances change?",
+      "question_index": 3,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "5. The Government proposes that three emissions budgets of five years each (i.e. covering the next 15 years) be in place at any given time. Do you agree with this proposal?",
+      "question_index": 15,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "If both practical and economically feasible"
+    },
+    {
+      "question": "6. Should the Government be able to alter the last emissions budget (i.e. furthest into the future)?",
+      "question_index": 4,
+      "answer": "Yes - each incoming Government should have the option to review the third budget in the sequence",
+      "answer_index": 14,
+      "notes": null
+    },
+    {
+      "question": "7. Should the Government have the ability to review and adjust the second emissions budget within a specific range under exceptional circumstances? See p36 Our Climate Your Say",
+      "question_index": 5,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "8. Do you agree with the considerations we propose that the Government and the Climate Change Commission take into account when advising on and setting budgets? See p44 Our Climate Your Say",
+      "question_index": 6,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "9. Should the Zero Carbon Bill require Governments to set out plans within a certain timeframe to achieve the emissions budgets?",
+      "question_index": 7,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": null
+    },
+    {
+      "question": "10. What are the most important issues for the Government to consider in setting plans to meet budgets? For example, who do we need to work with, what else needs to be considered?",
+      "question_index": 8,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Be honest about Climate Change rather than being driven by political agenda. If the Govt is going to include biological emissions from\n\nlivestock, if NZ livestock numbers drop, then somewhere else in the world the same quantity of milk/meat is going to be produced\nwhich will have been produced using more greenhouse gases, so the net damage to planet Earth is greater. Animal emissions\n\nshould only be included if animal emissions in all other countries is included so it is a level playing field. Also the Govt needs to\nconsider soil carbon sequestration and encourage soil management practices that are conducive to soil carbon sequestration and\n\nreward land owners who use these rather than destructive management practices. Thirdly there needs to be research to investigate\nhow much extra carbon our native forests are sequestering. Work done on the Amazon rainforest has shown that since 1980, the\nAmazon has sequestered more carbon than all of of the carbon losses in the nine countries it covers. With more CO2 and warmer\n\nconditions the southern forests in particular should be growing more. Also Stewart Island and Auckland Island vegetation should be\nincreasing with warmer climate and more CO2 which is plant food. NZ Inc will therefore not need to plant a billion trees."
+    },
+    {
+      "question": "11. The Government has proposed that the Climate Change Commission advises on and monitors New Zealand's progress towards its goals. Do you agree with these functions? See p42 Our Climate Your Say",
+      "question_index": 9,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "12. What role do you think the Climate Change Commission should have in relation to the New Zealand Emissions Trading Scheme (NZ ETS)?",
+      "question_index": 10,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "Again with the ETS, it needs to be honest science and not driven by political ideology. What about all of the sequestration in our\nsouthern forests in Fiordland, Stewart Island, Auckland Islands etc over the past 30 years? What about soil sequestration? Also\n\nagricultural emissions should only be included if other countries include it as our milk and meat products normally have a lot lower\nCO2 equivalent per unit of product than other countries, so if NZ produces less product, farmers in other countries will fill in the void,\n\nso the net effect on planet CO2 levels will be worse."
+    },
+    {
+      "question": "13. The Government has proposed that Climate Change Commissioners need to have a range of essential and desirable expertise. Do you agree with the proposed expertise? See p45 Our Climate Your Say",
+      "question_index": 11,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "14. Do you think the Zero Carbon Bill should cover adapting to climate change?",
+      "question_index": 12,
+      "answer": "No",
+      "answer_index": 8,
+      "notes": "Only if it is ultimately positive for the NZ economy"
+    },
+    {
+      "question": "15. The Government has proposed a number of new functions to help us adapt to climate change. Do you agree with the proposed functions? See p47 Our Climate Your Say",
+      "question_index": 13,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": "Again it is important to be honest and not be driven by political agenda."
+    },
+    {
+      "question": "16. Should we explore setting up a targeted adaptation reporting power that could see some organisations share information on their exposure to climate change risks?",
+      "question_index": 14,
+      "answer": "Yes",
+      "answer_index": 3,
+      "notes": null
+    },
+    {
+      "question": "Do you have any other comments you'd like to make?",
+      "question_index": 16,
+      "answer": null,
+      "answer_index": 5,
+      "notes": "I have worked as an agronomist on farms for nearly 30 years. Over his time I have seen a lot of my clients soils improving over time\n\nand building organic matter. Those who use a lot of artificial nitrogen fertiliser or cultivation lose organic matter. Although livestock\nmay emit a lot of methane and nitrous oxide which are greenhouse gases into the atmosphere, if the soil is acting as a carbon sink,\n\nthen this needs to be considered. I have also observed with forestry conversions to pasture, that initially there is very little topsoil the\nfirst year or two, but over time there is a definite topsoil layer being built which is permanent C being held in the soil once it turns\ncertain to humic compounds. Forestry is not the be all and end all, soils which have grown a crop of trees have less soil carbon than\n\nwhat sheep and beef farms will have sequestered over the same time. Trees can act as a carbon sink, but once harvested, the\ncarbon is gone. Soil carbon sequestration is one long term answer to increased CO2 levels and needs to be considered in the big\n\npicture if there is going to be honest science in this whole discussion. Just because Simon Upton excluded soil carbon in the 1990\nKyoto Accord, does not mean it should be excluded in future accords or developments. Scientific knowledge is an ever improving,\n\nmore precise pool of knowledge, and needs to be free from political agendas/interference.\n\n\n\n You have elected to withhold your personal details from publication."
+    }
+  ]
+}
