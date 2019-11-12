@@ -13,10 +13,8 @@ files = Dir["#{path}/*.json"]
 results = []
 
 files.each do |filename|
-  # puts filename
   text = File.read(filename)
   my_hash = JSON.parse(text)
-  # puts my_hash
   reference_number = my_hash['reference_number']
   notes = my_hash['clauses'].last['notes']
   unless notes.nil?
