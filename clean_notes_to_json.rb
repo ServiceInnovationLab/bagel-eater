@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Command to use to run the script: ./dataCleaned.rb > out.json
+# Command to use to run the script: ./clean_notes_to_json.rb > out.json
 # The script takes the json files & looks for the reference number & notes
 # section. It then puts the data into a json file & ignores the ones with null
 # for the notes section.
